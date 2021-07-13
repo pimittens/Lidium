@@ -165,6 +165,7 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
             guildid = 0, fallcounter, maplepoints, NxPrepaid, NXCredit, chair, itemEffect, points, vpoints,
             rank = 1, rankMove = 0, jobRank = 1, jobRankMove = 0, marriageId, marriageItemId, dotHP, currentrep,
             totalrep, coconutteam, followid, battleshipHP, gachexp, challenge, guildContribution = 0;
+    private int killCount = 0;
 
     private Point old;
     private MonsterFamiliar summonedFamiliar;
@@ -400,7 +401,8 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
                 if (con != null && !con.isClosed()) {
                     con.close();
                 }
-            } catch (Exception ignore) {
+            } catch (SQLException ignore) {
+                System.err.println(ignore);
             }
         }
         return ret;
@@ -1824,6 +1826,17 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
             }
         }
     }
+    
+    public final void addKillCount() {
+        killCount = killCount + 1;
+        //add check for aran so we don't send two combo counts
+        client.getSession().write(CField.testCombo(killCount)); 
+        //
+    }
+    
+    public final void resetKillCount() {
+        killCount = 0;
+    }
 
     public final Map<Integer, String> getInfoQuest_Map() {
         return questinfo;
@@ -2927,6 +2940,8 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
     }
 
     public void leaveMap(MapleMap map) {
+        resetKillCount(); //custom
+        
         controlledLock.writeLock().lock();
         visibleMapObjectsLock.writeLock().lock();
         try {
