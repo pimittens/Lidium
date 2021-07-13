@@ -209,6 +209,14 @@ public class CommandsExecutor {
         addCommand("togglesmega", 0, ToggleSmegaCommand.class);
         addCommand("fm", 0, FMCommand.class);
         addCommand("uptime", 0, UpTimeCommand.class);
+        addCommand("save", 0, SaveCharacterCommand.class);
+        addCommand("warp", 0, WarpCommand.class);
+        addCommand("goto", 0, GoToCommand.class);
+        addCommand("cleardrops", 0, ClearDropsCommand.class);
+        addCommand("exp", 0, ExpCommand.class);
+        addCommand("nx", 0, GetNXCommand.class);
+        addCommand("xsp", 0, SpawnRateCommand.class);
+        addCommand("loot", 0, LootCommand.class);
         //addCommand("", 0, Command.class);
         commandsNameDesc.add(levelCommandsCursor);
     }
@@ -216,8 +224,8 @@ public class CommandsExecutor {
     private void registerLv1Commands() {
         levelCommandsCursor = new Pair<>((List<String>) new ArrayList<String>(), (List<String>) new ArrayList<String>());
         addCommand("job", 1, JobCommand.class);
-        addCommand("warp", 1, WarpCommand.class);
-        addCommand("goto", 1, GoToCommand.class);
+        //addCommand("warp", 1, WarpCommand.class);
+        //addCommand("goto", 1, GoToCommand.class);
         addCommand("heal", 1, HealCommand.class);
         addCommand("hide", 1, HideCommand.class);
         addCommand("itemcheck", 1, ItemCheckCommand.class);
@@ -236,7 +244,7 @@ public class CommandsExecutor {
 
     private void registerLv2Commands() {
         levelCommandsCursor = new Pair<>((List<String>) new ArrayList<String>(), (List<String>) new ArrayList<String>());
-        addCommand("cleardrops", 2, ClearDropsCommand.class);
+        //addCommand("cleardrops", 2, ClearDropsCommand.class);
         addCommand("healmap", 2, HealMapCommand.class);
         addCommand("kill", 2, KillCommand.class);
         addCommand("dc", 2, DcCommand.class);

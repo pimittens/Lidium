@@ -37,6 +37,7 @@ import client.MapleCharacterUtil;
 import constants.GameConstants;
 import client.inventory.ItemFlag;
 import client.MapleClient;
+import client.MapleQuestStatus;
 import client.inventory.MapleInventory;
 import client.inventory.MapleInventoryType;
 import client.SkillFactory;
@@ -1699,4 +1700,27 @@ public class NPCConversationManager extends AbstractPlayerInteraction {
         getPlayer().gainAPS(gain);
     }
     /*End of Custom Features*/
+    
+    public int getCData(String quest) {
+        int questID;
+        switch (quest) {
+            case "bossQuest":
+            default:
+                questID = 150001;
+                break;
+                
+        }
+        final MapleQuestStatus record = c.getPlayer().getQuestNAdd(MapleQuest.getInstance(questID));
+
+        if (record.getCustomData() != null) {
+            return Integer.parseInt(record.getCustomData());
+        } else {
+            return 0;
+        }
+    }
+
+    public final void spendBossQuestPoints(final int points) {
+        final MapleQuestStatus record = c.getPlayer().getQuestNAdd(MapleQuest.getInstance(150001));
+        record.setCustomData(String.valueOf(-points + Integer.parseInt(record.getCustomData())));
+    }
 }

@@ -1,0 +1,59 @@
+
+------------------------ 2021-07-12 16:44:07 ------------------------
+java.lang.NullPointerException: Cannot invoke "java.util.List.indexOf(Object)" because the return value of "client.MapleCharacter.getExtendedSlots()" is null
+	at tools.packet.PacketHelper.addItemInfo(PacketHelper.java:526)
+	at tools.packet.PacketHelper.addInventoryInfo(PacketHelper.java:286)
+	at tools.packet.PacketHelper.addCharacterInfo(PacketHelper.java:636)
+	at tools.packet.MTSCSPacket.warpCS(MTSCSPacket.java:57)
+	at handling.cashshop.handler.CashShopOperation.EnterCS(CashShopOperation.java:99)
+	at handling.MapleServerHandler.handlePacket(MapleServerHandler.java:682)
+	at handling.MapleServerHandler.messageReceived(MapleServerHandler.java:525)
+	at org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.messageReceived(AbstractIoFilterChain.java:570)
+	at org.apache.mina.common.support.AbstractIoFilterChain.callNextMessageReceived(AbstractIoFilterChain.java:299)
+	at org.apache.mina.common.support.AbstractIoFilterChain.access$1100(AbstractIoFilterChain.java:53)
+	at org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.messageReceived(AbstractIoFilterChain.java:648)
+	at org.apache.mina.filter.codec.support.SimpleProtocolDecoderOutput.flush(SimpleProtocolDecoderOutput.java:58)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:180)
+	at org.apache.mina.common.support.AbstractIoFilterChain.callNextMessageReceived(AbstractIoFilterChain.java:299)
+	at org.apache.mina.common.support.AbstractIoFilterChain.access$1100(AbstractIoFilterChain.java:53)
+	at org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.messageReceived(AbstractIoFilterChain.java:648)
+	at org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:220)
+	at org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+------------------------ 2021-07-12 16:44:07 ------------------------
+Packet: 40
+All: 28 00 13 00 00 00 F4 B5 20 30 10 EB 6F 65 70 04 00 00 00 00 56 F9 00 00 D9 32 6F A2 B1 87 D9 03
+Now: F4 B5 20 30 10 EB 6F 65 70 04 00 00 00 00 56 F9 00 00 D9 32 6F A2 B1 87 D9 03
+------------------------ 2021-07-12 16:44:29 ------------------------
+java.lang.NullPointerException: Cannot invoke "java.util.List.indexOf(Object)" because the return value of "client.MapleCharacter.getExtendedSlots()" is null
+	at tools.packet.PacketHelper.addItemInfo(PacketHelper.java:526)
+	at tools.packet.PacketHelper.addInventoryInfo(PacketHelper.java:286)
+	at tools.packet.PacketHelper.addCharacterInfo(PacketHelper.java:636)
+	at tools.packet.MTSCSPacket.warpCS(MTSCSPacket.java:57)
+	at handling.cashshop.handler.CashShopOperation.EnterCS(CashShopOperation.java:99)
+	at handling.MapleServerHandler.handlePacket(MapleServerHandler.java:682)
+	at handling.MapleServerHandler.messageReceived(MapleServerHandler.java:525)
+	at org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.messageReceived(AbstractIoFilterChain.java:570)
+	at org.apache.mina.common.support.AbstractIoFilterChain.callNextMessageReceived(AbstractIoFilterChain.java:299)
+	at org.apache.mina.common.support.AbstractIoFilterChain.access$1100(AbstractIoFilterChain.java:53)
+	at org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.messageReceived(AbstractIoFilterChain.java:648)
+	at org.apache.mina.filter.codec.support.SimpleProtocolDecoderOutput.flush(SimpleProtocolDecoderOutput.java:58)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:180)
+	at org.apache.mina.common.support.AbstractIoFilterChain.callNextMessageReceived(AbstractIoFilterChain.java:299)
+	at org.apache.mina.common.support.AbstractIoFilterChain.access$1100(AbstractIoFilterChain.java:53)
+	at org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.messageReceived(AbstractIoFilterChain.java:648)
+	at org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:220)
+	at org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+------------------------ 2021-07-12 16:44:29 ------------------------
+Packet: 40
+All: 28 00 12 00 00 00 F4 B5 20 30 10 EB 6F 65 70 04 00 00 00 00 56 F9 00 00 CE 5B 24 0F 23 AA C9 E9
+Now: F4 B5 20 30 10 EB 6F 65 70 04 00 00 00 00 56 F9 00 00 CE 5B 24 0F 23 AA C9 E9

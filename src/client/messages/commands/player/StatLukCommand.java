@@ -26,8 +26,7 @@ public class StatLukCommand extends Command{
                 return;
             }
         }else{
-            player.blueMessage("You must specify the amount of AP you want to allocate.");
-            return;
+            amount = Math.min(remainingAp, 32000 - player.getStat().getLuk());
         }
         
         if((player.getStat().getLuk() + amount) > 32000){

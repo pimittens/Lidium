@@ -228,6 +228,8 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
     private transient List<Integer> pendingExpiration = null;
     private transient Map<Skill, SkillEntry> pendingSkills = null;
     private transient Map<Integer, Integer> linkMobs;
+    
+    private int expRate = 1;
 
     private boolean changed_wishlist, changed_trocklocations, changed_regrocklocations, changed_hyperrocklocations,
             changed_skillmacros, changed_achievements, changed_savedlocations, changed_questinfo, changed_skills,
@@ -3577,11 +3579,12 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
     }
 
     public void gainExp(final int total, final boolean show, final boolean inChat, final boolean white) {
+        final int modifiedTotal = total * expRate;
         try {
             int prevexp = getExp();
             int needed = getNeededExp();
-            if (total > 0) {
-                stats.checkEquipLevels(this, total); // gms like
+            if (modifiedTotal > 0) {
+                stats.checkEquipLevels(this, modifiedTotal); // gms like
             }
             if ((level >= 200 || (GameConstants.isKOC(job) && level >= 120)) && !isIntern()) {
                 setExp(0);
@@ -3592,9 +3595,9 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
                 // }
             } else {
                 boolean leveled = false;
-                long tot = exp + total;
+                long tot = exp + modifiedTotal;
                 if (tot >= needed) {
-                    exp += total;
+                    exp += modifiedTotal;
                     levelUp();
                     leveled = true;
                     if ((level >= 200 || (GameConstants.isKOC(job) && level >= 120)) && !isIntern()) {
@@ -3606,23 +3609,23 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
                         }
                     }
                 } else {
-                    exp += total;
+                    exp += modifiedTotal;
                 }
-                if (total > 0) {
+                if (modifiedTotal > 0) {
                     familyRep(prevexp, needed, leveled);
                 }
             }
-            if (total != 0) {
+            if (modifiedTotal != 0) {
                 if (exp < 0) { // After adding, and negative
-                    if (total > 0) {
+                    if (modifiedTotal > 0) {
                         setExp(needed);
-                    } else if (total < 0) {
+                    } else if (modifiedTotal < 0) {
                         setExp(0);
                     }
                 }
                 updateSingleStat(MapleStat.EXP, getExp());
                 if (show) { // still show the expgain even if it's not there
-                    client.getSession().write(InfoPacket.GainEXP_Others(total, inChat, white));
+                    client.getSession().write(InfoPacket.GainEXP_Others(modifiedTotal, inChat, white));
                 }
             }
         } catch (Exception e) {
@@ -3652,18 +3655,19 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
     public void gainExpMonster(final int gain, final boolean show, final boolean white, final byte pty,
             int Class_Bonus_EXP, int Equipment_Bonus_EXP, int Premium_Bonus_EXP, boolean partyBonusMob,
             final int partyBonusRate) {
-        int total = gain + Class_Bonus_EXP + Equipment_Bonus_EXP + Premium_Bonus_EXP;
+        int modifiedGain = gain * expRate;
+        int total = modifiedGain + Class_Bonus_EXP + Equipment_Bonus_EXP + Premium_Bonus_EXP;
         int partyinc = 0;
         int prevexp = getExp();
         if (pty > 1) {
             final double rate = (partyBonusRate > 0 ? (partyBonusRate / 100.0)
                     : (map == null || !partyBonusMob || map.getPartyBonusRate() <= 0 ? 0.05
                     : (map.getPartyBonusRate() / 100.0)));
-            partyinc = (int) (((float) (gain * rate)) * (pty + (rate > 0.05 ? -1 : 1)));
+            partyinc = (int) (((float) (modifiedGain * rate)) * (pty + (rate > 0.05 ? -1 : 1)));
             total += partyinc;
         }
 
-        if (gain > 0 && total < gain) { // just in case
+        if (modifiedGain > 0 && total < modifiedGain) { // just in case
             total = Integer.MAX_VALUE;
         }
         if (total > 0) {
@@ -3698,17 +3702,17 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
                 familyRep(prevexp, needed, leveled);
             }
         }
-        if (gain != 0) {
+        if (modifiedGain != 0) {
             if (exp < 0) { // After adding, and negative
-                if (gain > 0) {
+                if (modifiedGain > 0) {
                     setExp(getNeededExp());
-                } else if (gain < 0) {
+                } else if (modifiedGain < 0) {
                     setExp(0);
                 }
             }
             updateSingleStat(MapleStat.EXP, getExp());
             if (show) { // still show the expgain even if it's not there
-                client.getSession().write(InfoPacket.GainEXP_Monster(gain, white, partyinc, Class_Bonus_EXP,
+                client.getSession().write(InfoPacket.GainEXP_Monster(modifiedGain, white, partyinc, Class_Bonus_EXP,
                         Equipment_Bonus_EXP, Premium_Bonus_EXP));
             }
         }
@@ -7798,5 +7802,9 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
                 cancelEffect(skill.getEffect(1), false, -1);                    
             }
         }
+    }
+    
+    public void setExpRate(int rate) {
+        this.expRate = rate;
     }
 }

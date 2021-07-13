@@ -1,0 +1,2717 @@
+﻿/* GM HANDBOOK */
+//MAPLE TYPE: GMS
+//VERSION: 111
+//IMG NAME: Mob.img
+ID: 100000 NAME: Snail
+ID: 100001 NAME: Blue Snail
+ID: 100002 NAME: Red Snail
+ID: 100003 NAME: Spore
+ID: 100004 NAME: Orange Mushroom
+ID: 100005 NAME: Stump
+ID: 100006 NAME: Slime
+ID: 100007 NAME: Pig
+ID: 100100 NAME: Snail
+ID: 100101 NAME: Blue Snail
+ID: 100120 NAME: Tino
+ID: 100121 NAME: Tiv
+ID: 100122 NAME: Timu
+ID: 100123 NAME: Tiru
+ID: 100124 NAME: Tiguru
+ID: 1110100 NAME: Green Mushroom
+ID: 1110101 NAME: Dark Stump
+ID: 1120100 NAME: Octopus
+ID: 1130100 NAME: Axe Stump
+ID: 1140100 NAME: Ghost Stump
+ID: 120100 NAME: Shroom
+ID: 1210100 NAME: Pig
+ID: 1210101 NAME: Ribbon Pig
+ID: 1210102 NAME: Orange Mushroom
+ID: 2230131 NAME: Annoyed Zombie Mushroom
+ID: 1110130 NAME: Dejected Green Mushroom
+ID: 1140130 NAME: Smirking Ghost Stump
+ID: 1150000 NAME: Patrol Robot
+ID: 1150001 NAME: Strange Sign
+ID: 1150002 NAME: Serpent
+ID: 1210103 NAME: Bubbling
+ID: 1210104 NAME: Blue Ribbon Pig
+ID: 1220000 NAME: Yellow Starfish
+ID: 1220001 NAME: Angry Starfish
+ID: 1220002 NAME: Jellyfish
+ID: 1220003 NAME: Cool Jellyfish
+ID: 130100 NAME: Stump
+ID: 130101 NAME: Red Snail
+ID: 150000 NAME: Potted Sprout
+ID: 150001 NAME: Potted Morning Glory
+ID: 150002 NAME: Grape Juice Bottle
+ID: 2100100 NAME: Desert Rabbit (F)
+ID: 2100101 NAME: Desert Rabbit (M)
+ID: 2100102 NAME: Jr. Cactus
+ID: 9501018 NAME: Stat Change Test
+ID: 9501019 NAME: Weapon Attack Enhancement (100)
+ID: 9501020 NAME: Magic Attack Enhancement (101)
+ID: 9501021 NAME: Weapon Defense Enhancement (102)
+ID: 9501022 NAME: Magic Defense Enhancement (103)
+ID: 9501024 NAME: Consume (105)
+ID: 9501025 NAME: Area Weapon Attack Enhancement (110)
+ID: 9501026 NAME: Area Magic Attack Enhancement (111)
+ID: 9501027 NAME: Area Weapon Defense (112)
+ID: 9501028 NAME: Area Magic Defense (113)
+ID: 9501029 NAME: Recover HP (114)
+ID: 9501030 NAME: Change Speed of Self and Nearby (115)
+ID: 9501031 NAME: Kick (129)
+ID: 9501032 NAME: Areal Poison (131)
+ID: 9501033 NAME: Turn Undead (133)
+ID: 9501034 NAME: Potion Stop (134)
+ID: 9501035 NAME: Never Stop (135)
+ID: 9501036 NAME: Blind (136)
+ID: 9501037 NAME: Frozen (137)
+ID: 9501038 NAME: Hidden Potential Nullified (138)
+ID: 9501039 NAME: Hard Skin (142)
+ID: 9501040 NAME: Immune to Weapon Counter Attack (143)
+ID: 9501041 NAME: Immune to Magic Counter Attack (144)
+ID: 9501042 NAME: Immune to Weapon and Magic Counter Attack (145)
+ID: 9501043 NAME: Change PAD (150)
+ID: 9501044 NAME: Change MAD (151)
+ID: 9501045 NAME: Change PDD (152)
+ID: 9501046 NAME: Change MDD (153)
+ID: 9501047 NAME: Change ACC (154)
+ID: 9501048 NAME: Change EVA (155)
+ID: 9501049 NAME: Change Speed (156)
+ID: 9501050 NAME: Teleport (170)
+ID: 9501051 NAME: Summon (200)
+ID: 9300383 NAME: Tutorial Muru
+ID: 2100103 NAME: Cactus
+ID: 2100104 NAME: Royal Cactus
+ID: 2100105 NAME: Bellamoa
+ID: 2100106 NAME: Ear Plug Plead
+ID: 2100107 NAME: Scarf Plead
+ID: 210100 NAME: Slime
+ID: 2110200 NAME: Horny Mushroom
+ID: 2110300 NAME: Sand Rat
+ID: 2110301 NAME: Scorpion
+ID: 2130100 NAME: Dark Axe Stump
+ID: 2130103 NAME: Jr. Necki
+ID: 2150000 NAME: Water Thief Monster
+ID: 2150001 NAME: Dust Box
+ID: 2150002 NAME: Streetlight
+ID: 2150003 NAME: Patrol Robot S
+ID: 2220000 NAME: Mano 
+ID: 2220100 NAME: Blue Mushroom
+ID: 2230100 NAME: Evil Eye
+ID: 2230101 NAME: Zombie Mushroom
+ID: 2230102 NAME: Wild Boar
+ID: 2230103 NAME: Trixter
+ID: 2230104 NAME: Green Trixter
+ID: 2230105 NAME: Seacle
+ID: 2230106 NAME: Cico
+ID: 2230107 NAME: Krappy
+ID: 2230108 NAME: Pinboom
+ID: 2230109 NAME: Bubble Fish
+ID: 2230110 NAME: Wooden Mask
+ID: 2230111 NAME: Rocky Mask
+ID: 2230200 NAME: Flower Fish
+ID: 2300100 NAME: Stirge
+ID: 3000000 NAME: Sentinel
+ID: 3000001 NAME: Fairy
+ID: 3000002 NAME: Fairy
+ID: 3000003 NAME: Fairy
+ID: 3000004 NAME: Fairy
+ID: 3000005 NAME: Brown Teddy
+ID: 3000006 NAME: Krip
+ID: 3000007 NAME: Royal Fairy
+ID: 3100101 NAME: Sand Dwarf 
+ID: 3100102 NAME: Kiyo
+ID: 3110100 NAME: Ligator
+ID: 3110101 NAME: Pink Teddy
+ID: 3110102 NAME: Ratz
+ID: 3110300 NAME: Cube Slime
+ID: 3110301 NAME: Dark Sand Dwarf
+ID: 3110302 NAME: Rumo
+ID: 3110303 NAME: Triple Rumo
+ID: 3150000 NAME: Safety First
+ID: 3150001 NAME: Baby Boulder Muncher
+ID: 3150002 NAME: Big Boulder Muncher
+ID: 3210100 NAME: Fire Boar
+ID: 3210200 NAME: Jr. Cellion
+ID: 3210201 NAME: Jr. Lioner
+ID: 3210202 NAME: Jr. Grupin
+ID: 3210203 NAME: Panda Teddy
+ID: 3210204 NAME: Roloduck
+ID: 3210205 NAME: Black Ratz
+ID: 3210206 NAME: Helly
+ID: 3210207 NAME: Tick
+ID: 3210208 NAME: Retz
+ID: 3210450 NAME: Scuba Pepe
+ID: 3210800 NAME: Lupin
+ID: 3220000 NAME: Stumpy
+ID: 3220001 NAME: Deo
+ID: 3230100 NAME: Curse Eye
+ID: 3230101 NAME: Jr. Wraith
+ID: 3230102 NAME: Lorang
+ID: 3230103 NAME: King Bloctopus
+ID: 3230104 NAME: Mask Fish
+ID: 3230200 NAME: Star Pixie
+ID: 3230300 NAME: Jr. Boogie 1
+ID: 3230301 NAME: Jr. Boogie 2
+ID: 3230302 NAME: Bloctopus
+ID: 3230303 NAME: Propelly
+ID: 3230304 NAME: Planey
+ID: 3230305 NAME: Toy Trojan
+ID: 3230306 NAME: Chronos
+ID: 3230307 NAME: Chirppy
+ID: 3230308 NAME: Tweeter
+ID: 3230400 NAME: Drumming Bunny
+ID: 3230405 NAME: Jr. Seal
+ID: 4090000 NAME: Iron Hog
+ID: 4110300 NAME: Iron Mutae
+ID: 4110301 NAME: Reinforced Iron Mutae
+ID: 4110302 NAME: Mithril  mutae
+ID: 4130100 NAME: Copper Drake
+ID: 4130101 NAME: Tortie
+ID: 4130102 NAME: Dark Nependeath
+ID: 4130103 NAME: Rombot
+ID: 4130104 NAME: Dark Nependeath
+ID: 4220000 NAME: Seruf
+ID: 4220001 NAME: Seruf
+ID: 4230100 NAME: Cold Eye
+ID: 4230101 NAME: Zombie Lupin
+ID: 4230102 NAME: Wraith
+ID: 4230103 NAME: Iron Hog
+ID: 4230104 NAME: Clang
+ID: 4230105 NAME: Nependeath
+ID: 4230106 NAME: Lunar Pixie
+ID: 4230107 NAME: Flyeye
+ID: 4230108 NAME: Jr. Cerebes
+ID: 4230109 NAME: Block Golem
+ID: 4230110 NAME: King Block Golem
+ID: 4230111 NAME: Robo
+ID: 4230112 NAME: Master Robo
+ID: 4230113 NAME: Tick-Tock
+ID: 4230114 NAME: Platoon Chronos
+ID: 4230115 NAME: Master Chronos
+ID: 4230116 NAME: Barnard Gray
+ID: 4230117 NAME: Zeta Gray
+ID: 4230118 NAME: Ultra Gray
+ID: 4230119 NAME: Mateon
+ID: 4230120 NAME: Plateon
+ID: 4230121 NAME: Mecateon
+ID: 4230122 NAME: Nependeath
+ID: 4230123 NAME: Sparker
+ID: 4230124 NAME: Freezer
+ID: 4230125 NAME: Skeledog
+ID: 4230126 NAME: Mummydog
+ID: 4230200 NAME: Poopa
+ID: 4230201 NAME: Poison Poopa
+ID: 4230300 NAME: Moon Bunny
+ID: 4230400 NAME: Iron Boar
+ID: 4230500 NAME: Chipmunk
+ID: 4230501 NAME: Red Porky
+ID: 4230502 NAME: Black Porky
+ID: 4230503 NAME: Blue Flower Serpent
+ID: 4230504 NAME: Red Flower Serpent
+ID: 4230505 NAME: Jar
+ID: 4230506 NAME: Ginseng Jar
+ID: 4230600 NAME: Desert Giant 
+ID: 4240000 NAME: Chief Gray
+ID: 4250000 NAME: Mossy Snail
+ID: 4250001 NAME: Tree Rod
+ID: 5090000 NAME: Shade
+ID: 5090001 NAME: Master Dummy
+ID: 5100000 NAME: Jr. Yeti
+ID: 5100001 NAME: Transforming Jr. Yeti
+ID: 5100002 NAME: Firebomb
+ID: 5100003 NAME: Hodori
+ID: 5100004 NAME: Samiho
+ID: 5100005 NAME: Hogul
+ID: 5110300 NAME: Reinforced Mithril Mutae
+ID: 5110301 NAME: Roid 
+ID: 5110302 NAME: Neo Huroid
+ID: 5120000 NAME: Luster Pixie
+ID: 5120001 NAME: Cellion
+ID: 5120002 NAME: Lioner
+ID: 5120003 NAME: Grupin
+ID: 5120100 NAME: MT-09
+ID: 5120500 NAME: Grizzly
+ID: 5120501 NAME: Bellflower Root
+ID: 5120502 NAME: Sr. Bellflower Root
+ID: 5120503 NAME: Straw Target Dummy
+ID: 5120504 NAME: Wooden Target Dummy
+ID: 5120505 NAME: Reindeer
+ID: 5120506 NAME: The Book Ghost
+ID: 5130100 NAME: Drake
+ID: 5130101 NAME: Stone Golem
+ID: 5130102 NAME: Dark Stone Golem
+ID: 5130103 NAME: Croco
+ID: 5130104 NAME: Hector
+ID: 5130105 NAME: Dark Jr. Yeti
+ID: 5130106 NAME: Transforming Dark Jr. Yeti
+ID: 5130107 NAME: Coolie Zombie
+ID: 5130108 NAME: Miner Zombie
+ID: 5140000 NAME: White Fang
+ID: 5150000 NAME: Mixed Golem
+ID: 5150001 NAME: Skeleton Soldier
+ID: 5150002 NAME: Icy Mixed Golem
+ID: 5150003 NAME: Flaming Mixed Golem
+ID: 5160000 NAME: Rabbit
+ID: 5160001 NAME: Golden Rabbit
+ID: 5160002 NAME: Scorpie
+ID: 5160003 NAME: Golden Scorpie
+ID: 5160004 NAME: Ferret
+ID: 5160005 NAME: Tragos
+ID: 5160006 NAME: Kephivara
+ID: 5200000 NAME: Jr. Sentinel
+ID: 5200001 NAME: Ice Sentinel
+ID: 5200002 NAME: Fire Sentinel
+ID: 5220000 NAME: King Clang
+ID: 5220001 NAME: King Clang
+ID: 5220002 NAME: Faust
+ID: 5220003 NAME: Timer
+ID: 5220004 NAME: Giant Centipede
+ID: 5250000 NAME: Mossy Mushroom
+ID: 5250001 NAME: Stone Bug
+ID: 5250002 NAME: Primitive Boar
+ID: 5250003 NAME: Violent Primitive Boar
+ID: 5250004 NAME: Chao
+ID: 5250005 NAME: Ancient Fairy
+ID: 5250006 NAME: Shining Fairy
+ID: 5250007 NAME: Ephenia
+ID: 5300000 NAME: Leatty
+ID: 5300001 NAME: Dark Leatty
+ID: 5300100 NAME: Malady
+ID: 5400000 NAME: Jr. Pepe
+ID: 6090000 NAME: Riche
+ID: 6090001 NAME: Snow Witch
+ID: 6090002 NAME: Bamboo Warrior
+ID: 6090003 NAME: Scholar Ghost
+ID: 6090004 NAME: Rurumo
+ID: 6110300 NAME: Homun
+ID: 6110301 NAME: Saitie
+ID: 6130100 NAME: Red Drake
+ID: 6130101 NAME: Mushmom
+ID: 6130102 NAME: Separated Pepe
+ID: 6130103 NAME: Pepe
+ID: 6130104 NAME: Boogie
+ID: 6130200 NAME: Buffy
+ID: 6130201 NAME: Blin
+ID: 6130202 NAME: Morphed Blin
+ID: 6130203 NAME: Panda
+ID: 6130204 NAME: Mr. Alli
+ID: 6130207 NAME: Peach Monkey
+ID: 6130208 NAME: Kru
+ID: 6130209 NAME: Sage Cat
+ID: 6150000 NAME: Guard Robot
+ID: 6160000 NAME: Golden Ferret
+ID: 6160001 NAME: Mammoth
+ID: 6160002 NAME: Golden Mammoth
+ID: 6160003 NAME: Xerxes
+ID: 6160004 NAME: Xerxes's Ghost
+ID: 6220000 NAME: Dyle
+ID: 6220001 NAME: Zeno
+ID: 6230100 NAME: Wild Kargo
+ID: 6230101 NAME: Puco
+ID: 6230200 NAME: Dark Pepe
+ID: 6230201 NAME: Separated Dark Pepe
+ID: 6230300 NAME: Lazy Buffy
+ID: 6230400 NAME: Soul Teddy
+ID: 6230401 NAME: Jr. Lucida 
+ID: 6230500 NAME: Master Soul Teddy
+ID: 6230600 NAME: Ice Drake
+ID: 6230601 NAME: Dark Drake
+ID: 6230602 NAME: Officer Skeleton
+ID: 6300000 NAME: Yeti
+ID: 6300001 NAME: Transformed Yeti
+ID: 6300002 NAME: Separated Yeti
+ID: 6300003 NAME: Punco
+ID: 6300004 NAME: Pachu
+ID: 6300005 NAME: Zombie Mushmom
+ID: 6300100 NAME: Buffoon
+ID: 6400000 NAME: Dark Yeti
+ID: 6400001 NAME: Transformed Dark Yeti
+ID: 6400002 NAME: Separated Dark Yeti
+ID: 6400003 NAME: Cuzco
+ID: 6400004 NAME: Opachu
+ID: 6400005 NAME: Jr. Balrog
+ID: 6400100 NAME: Deep Buffoon
+ID: 7090000 NAME: Security Camera
+ID: 7110300 NAME: D. Roy
+ID: 7110301 NAME: Homunculus
+ID: 7130000 NAME: Lucida
+ID: 7130001 NAME: Cerebes
+ID: 7130002 NAME: Beetle
+ID: 7130003 NAME: Dual Beetle
+ID: 7130004 NAME: Hankie
+ID: 7130010 NAME: Death Teddy
+ID: 7130020 NAME: Goby
+ID: 7130100 NAME: Tauromacis
+ID: 7130101 NAME: Taurospear
+ID: 7130102 NAME: Yeti and Pepe
+ID: 7130103 NAME: Commander Skeleton
+ID: 7130104 NAME: Captain
+ID: 7130200 NAME: Werewolf
+ID: 7130300 NAME: Master Death Teddy
+ID: 7130400 NAME: Yellow King Goblin
+ID: 7130401 NAME: Blue King Goblin
+ID: 7130402 NAME: Green King Goblin
+ID: 7130500 NAME: Rash
+ID: 7130501 NAME: Dark Rash
+ID: 7130600 NAME: Hobi
+ID: 7130601 NAME: Green Hobi
+ID: 7130602 NAME: Thorny Vine
+ID: 7140000 NAME: Ghost Pirate
+ID: 7150000 NAME: Racoco
+ID: 7150001 NAME: Big Spider
+ID: 7150002 NAME: Cart Bear
+ID: 7150003 NAME: Racaroni
+ID: 7150004 NAME: Guard Robot L
+ID: 7160000 NAME: Dual Ghost Pirate
+ID: 7220000 NAME: Tae Roon
+ID: 7220001 NAME: Nine-Tailed Fox
+ID: 7220002 NAME: King Sage Cat
+ID: 8090000 NAME: Deet and Roi
+ID: 8105000 NAME: Raco
+ID: 8105001 NAME: Security System
+ID: 8105002 NAME: Enhanced Security System
+ID: 8105003 NAME: AF Android
+ID: 8105004 NAME: Broken DF Android
+ID: 8105005 NAME: Ore Muncher
+ID: 8110300 NAME: Homunscullo
+ID: 8130100 NAME: Jr. Balrog
+ID: 8140000 NAME: Lycanthrope
+ID: 8140001 NAME: Harp
+ID: 8140002 NAME: Blood Harp
+ID: 8140100 NAME: Dark Yeti and Pepe
+ID: 8140101 NAME: Black Kentaurus
+ID: 8140102 NAME: Red Kentaurus
+ID: 8140103 NAME: Blue Kentaurus
+ID: 8140110 NAME: Birk
+ID: 8140111 NAME: Dual Birk
+ID: 8140200 NAME: Klock
+ID: 8140300 NAME: Dark Klock
+ID: 8140500 NAME: Bain
+ID: 8140555 NAME: Bombing Fish House
+ID: 8140600 NAME: Bone Fish
+ID: 8140700 NAME: Blue Dragon Turtle
+ID: 8140701 NAME: Red Dragon Turtle
+ID: 8140702 NAME: Rexton
+ID: 8140703 NAME: Brexton
+ID: 8141000 NAME: Spirit Viking
+ID: 8141100 NAME: Gigantic Spirit Viking
+ID: 8141300 NAME: Squid
+ID: 8142000 NAME: Phantom Watch
+ID: 8142100 NAME: Risell Squid
+ID: 8143000 NAME: Grim Phantom Watch
+ID: 8150000 NAME: Crimson Balrog
+ID: 8150100 NAME: Shark
+ID: 8150101 NAME: Cold Shark
+ID: 8150200 NAME: Green Cornian
+ID: 8150201 NAME: Dark Cornian
+ID: 8150300 NAME: Red Wyvern
+ID: 8150301 NAME: Blue Wyvern
+ID: 8150302 NAME: Dark Wyvern
+ID: 8160000 NAME: Gatekeeper
+ID: 8170000 NAME: Thanatos
+ID: 8180000 NAME: Manon
+ID: 8180001 NAME: Griffey
+ID: 8190000 NAME: Jr. Newtie
+ID: 8190001 NAME: Jr. Newtie
+ID: 8190002 NAME: Nest Golem
+ID: 8190003 NAME: Skelegon
+ID: 8190004 NAME: Skelosaurus
+ID: 8190005 NAME: Nest Golem
+ID: 8200000 NAME: Eye of Time
+ID: 8200001 NAME: Memory Monk
+ID: 8200002 NAME: Memory Monk Trainee
+ID: 8200003 NAME: Memory Guardian
+ID: 8200004 NAME: Chief Memory Guardian
+ID: 8200005 NAME: Qualm Monk
+ID: 8200006 NAME: Qualm Monk Trainee
+ID: 8200007 NAME: Qualm Guardian
+ID: 8200008 NAME: Chief Qualm Guardian
+ID: 8200009 NAME: Oblivion Monk
+ID: 8200010 NAME: Oblivion Monk Trainee
+ID: 8200011 NAME: Oblivion Guardian
+ID: 8200012 NAME: Chief Oblivion Guardian
+ID: 8210000 NAME: Crocky the Gatekeeper
+ID: 8210001 NAME: Reindeer
+ID: 8210002 NAME: Blood Reindeer
+ID: 8210003 NAME: Bearwolf
+ID: 8210004 NAME: Grey Vulture
+ID: 8210005 NAME: Castle Golem
+ID: 8210006 NAME: Prison Guard Boar
+ID: 8210007 NAME: Prison Guard Rhino
+ID: 8210010 NAME: First Tower Ani
+ID: 8210011 NAME: Second Tower Ani
+ID: 8210012 NAME: Third Tower Ani
+ID: 8210013 NAME: Prison Guard Ani
+ID: 8210014 NAME: Prison Guard Ani's Ghost
+ID: 8220000 NAME: Eliza
+ID: 8220001 NAME: Snowman
+ID: 8220002 NAME: Chimera
+ID: 8220003 NAME: Leviathan
+ID: 8220004 NAME: Dodo
+ID: 8220005 NAME: Lilynouch
+ID: 8220006 NAME: Lyka
+ID: 8220007 NAME: Blue Mushmom
+ID: 8220009 NAME: Snack Bar
+ID: 8500000 NAME: Time Sphere
+ID: 8500001 NAME: Papulatus Clock
+ID: 8500002 NAME: Papulatus
+ID: 8500003 NAME: High Darkstar
+ID: 8500004 NAME: Low Darkstar
+ID: 8510000 NAME: Pianus
+ID: 8510100 NAME: Bloody Boom
+ID: 8520000 NAME: Pianus
+ID: 8800000 NAME: Zakum1
+ID: 8800001 NAME: Zakum2
+ID: 8800002 NAME: Zakum3
+ID: 8800003 NAME: Zakum's Arm 1
+ID: 8800004 NAME: Zakum's Arm 2
+ID: 8800005 NAME: Zakum's Arm 3
+ID: 8800006 NAME: Zakum's Arm 4
+ID: 8800007 NAME: Zakum's Arm 5
+ID: 8800008 NAME: Zakum's Arm 6
+ID: 8800009 NAME: Zakum's Arm 7
+ID: 8800010 NAME: Zakum's Arm 8
+ID: 8810000 NAME: Horntail's Left Head
+ID: 8810001 NAME: Horntail's Right Head
+ID: 8810002 NAME: Horntail's Head A
+ID: 8810003 NAME: Horntail's Head B
+ID: 8810004 NAME: Horntail's Head C
+ID: 8810005 NAME: Horntail's Left Hand
+ID: 8810006 NAME: Horntail's Right Hand
+ID: 8810007 NAME: Horntail's Wings
+ID: 8810008 NAME: Horntail's Legs
+ID: 8810009 NAME: Horntail's Tails
+ID: 8810010 NAME: Dead Horntail's Head A
+ID: 8810011 NAME: Dead Horntail's Head B
+ID: 8810012 NAME: Dead Horntail's Head C
+ID: 8810013 NAME: Dead Horntail's Left Hand
+ID: 8810014 NAME: Dead Horntail's Right Hand
+ID: 8810015 NAME: Dead Horntail's Wings
+ID: 8810016 NAME: Dead Horntail's Legs
+ID: 8810017 NAME: Dead Horntail's Tails
+ID: 8810018 NAME: Horntail
+ID: 8810019 NAME: Red Wyvern
+ID: 8810020 NAME: Blue Wyvern
+ID: 8810021 NAME: Dark Wyvern
+ID: 8810022 NAME: Green Cornian
+ID: 8810023 NAME: Dark Cornian
+ID: 8810024 NAME: Summon Horntail's Left Head
+ID: 8810025 NAME: Summon Horntail's Right Head
+ID: 8810026 NAME: Summon Horntail
+ID: 8820000 NAME: Pink Bean
+ID: 8820001 NAME: Pink Bean
+ID: 8820002 NAME: Ariel
+ID: 8820003 NAME: Solomon the Wise
+ID: 8820004 NAME: Rex the Wise
+ID: 8820005 NAME: Hugin
+ID: 8820006 NAME: Munin
+ID: 8820007 NAME: Mini Bean
+ID: 8820008 NAME: Transparent Mob for summoning baby boss
+ID: 8820009 NAME: set0 Transparent Mob
+ID: 8820010 NAME: Pink Bean
+ID: 8820011 NAME: Pink Bean
+ID: 8820012 NAME: Pink Bean
+ID: 8820013 NAME: Pink Bean
+ID: 8820014 NAME: Pink Bean
+ID: 8820015 NAME: Solomon the Wise
+ID: 8820016 NAME: Rex the Wise
+ID: 8820017 NAME: Hugin
+ID: 8820018 NAME: Munin
+ID: 8820019 NAME: Ariel
+ID: 8820020 NAME: Solomon the Wise
+ID: 8820021 NAME: Rex the Wise
+ID: 8820022 NAME: Hugin
+ID: 8820023 NAME: Munin
+ID: 8820024 NAME: Solomon the Wise
+ID: 8820025 NAME: Rex the Wise
+ID: 8820026 NAME: Hugin
+ID: 8820027 NAME: Munin
+ID: 9000001 NAME: Zombie Lupin
+ID: 9000002 NAME: Horned Mushroom 2
+ID: 9000100 NAME: Skeledog
+ID: 9000101 NAME: Lupin 2
+ID: 9000200 NAME: Evil Eye 2
+ID: 9000201 NAME: Stone Golem
+ID: 9000300 NAME: Swamp Monster
+ID: 9000301 NAME: Blue Mushroom 2
+ID: 9001000 NAME: Dances with Balrog's Clone
+ID: 9001001 NAME: Grendel the Really Old's Clone
+ID: 9001002 NAME: Athena Pierce's Clone
+ID: 9001003 NAME: Dark Lord's Clone
+ID: 9001004 NAME: Shadow Kyrin
+ID: 9001005 NAME: OctoPirate
+ID: 9001006 NAME: OctoPirate
+ID: 9001007 NAME: Scarecrow for Training
+ID: 9001008 NAME: Shadow Kyrin's Clone
+ID: 9001009 NAME: Master of Disguise
+ID: 9001010 NAME: Black Witch
+ID: 9001011 NAME: Tiguru of Exam
+ID: 9100000 NAME: Super Slime
+ID: 9100001 NAME: Super Jr. Necki
+ID: 9100002 NAME: Super Stirge
+ID: 9100003 NAME: Ultra Jr. Necki 1
+ID: 9100004 NAME: Ultra Jr. Necki 2
+ID: 9100005 NAME: Super Trickster
+ID: 9100006 NAME: Super Green Trickster
+ID: 9100007 NAME: Super Ribbon-Pig
+ID: 9100008 NAME: Super Coke Snail 1
+ID: 9100009 NAME: Super Coke Snail 2
+ID: 9100010 NAME: Mr. Black Sheep
+ID: 9100011 NAME: Orange Mushroom
+ID: 9100013 NAME: Adin 
+ID: 9100014 NAME: Strange Axe Stump
+ID: 9100015 NAME: Powerful Evil Eye
+ID: 9100016 NAME: Powerful Curse Eye
+ID: 9100017 NAME: Powerful Cold Eye
+ID: 9100018 NAME: Powerful Surgeon Eye
+ID: 9100019 NAME: Summoned Pigmy
+ID: 9100020 NAME: OctoPirate
+ID: 9100021 NAME: OctoPirate
+ID: 9100022 NAME: Strange Creature
+ID: 9100023 NAME: Curious Lupin
+ID: 9200000 NAME: Wild Boar
+ID: 9200001 NAME: Fire Boar
+ID: 9200002 NAME: Dark Stump
+ID: 9200003 NAME: Horned Mushroom
+ID: 9200004 NAME: Green Mushroom
+ID: 9200005 NAME: Slime
+ID: 9200006 NAME: Lupin
+ID: 9200007 NAME: Zombie Lupin
+ID: 9200008 NAME: Blue Mushroom
+ID: 9200009 NAME: Stone Golem
+ID: 9200010 NAME: Zombie Mushroom
+ID: 9200011 NAME: Evil Eye
+ID: 9200012 NAME: Drake
+ID: 9200013 NAME: Cold Eye
+ID: 9200014 NAME: Wild Kargo
+ID: 9200015 NAME: Brown Tanny
+ID: 9200016 NAME: Drumming Bunny
+ID: 9200017 NAME: Pink Tanny
+ID: 9200018 NAME: Jr. Yetti
+ID: 9200019 NAME: White Fang
+ID: 9200020 NAME: Yetti & Pepe
+ID: 9200021 NAME: Separated Yetti
+ID: 9200022 NAME: Separated Pepe
+ID: 9300000 NAME: Jr. Necki
+ID: 9300001 NAME: Ligator
+ID: 9300002 NAME: Curse Eye
+ID: 9300003 NAME: King Slime
+ID: 9300004 NAME: Mimic
+ID: 9300005 NAME: Ratz from Another Dimension
+ID: 9300006 NAME: Black Ratz from Another Dimension
+ID: 9300007 NAME: Bloctopus from Another Dimension
+ID: 9300008 NAME: Shadow Eye from Another Dimension
+ID: 9300009 NAME: Block Golem from Another Dimension
+ID: 9300010 NAME: Rombad from Another Dimension
+ID: 9300011 NAME: Toy Trojan
+ID: 9300012 NAME: Alishar
+ID: 9300013 NAME: King Block Golem from Another Dimension
+ID: 9300014 NAME: Dark Eye from Another Dimension
+ID: 9300015 NAME: Cronos
+ID: 9300016 NAME: Platoon Cronos
+ID: 9300017 NAME: Master Cronos
+ID: 9300018 NAME: Tutorial Jr. Sentinel
+ID: 9300019 NAME: Master Muscle Stone
+ID: 9300020 NAME: Muscle Stone
+ID: 9300021 NAME: Dark Muscle Stone
+ID: 9300022 NAME: Black Knight
+ID: 9300023 NAME: Myst Knight
+ID: 9300024 NAME: Puppet Golem
+ID: 9300025 NAME: Gargoyle
+ID: 9300026 NAME: Jr. Gargoyle
+ID: 9300027 NAME: Devil Slime
+ID: 9300028 NAME: Ergoth
+ID: 9300029 NAME: Lion Statue A
+ID: 9300030 NAME: Lion Statue B
+ID: 9300031 NAME: Knight Statue A
+ID: 9300032 NAME: Knight Statue B
+ID: 9300033 NAME: Jr. Gargoyle
+ID: 9300034 NAME: Mist Knight
+ID: 9300035 NAME: Jr. Gargoyle
+ID: 9300036 NAME: Black Knight
+ID: 9300037 NAME: Mist Knight
+ID: 9300038 NAME: Ghost Pixie
+ID: 9300039 NAME: Papa Pixie
+ID: 9300040 NAME: Cellion in Tower of Goddess
+ID: 9300041 NAME: Cellion in Tower of Goddess
+ID: 9300042 NAME: Grupin in Tower of Goddess
+ID: 9300043 NAME: Lioner in Tower of Goddess
+ID: 9300044 NAME: Lucida in Tower of Goddess
+ID: 9300045 NAME: Lunar Pixie in Tower of Goddess
+ID: 9300046 NAME: Star Pixie in Tower of Goddess
+ID: 9300047 NAME: Luster Pixie in Tower of Goddess
+ID: 9300048 NAME: Nependeath in Tower of Goddess
+ID: 9300049 NAME: Royal Nependeath in Tower of Goddess
+ID: 9300050 NAME: Flying Boogie
+ID: 9300051 NAME: Jr. Cellion in Tower of Goddess
+ID: 9300052 NAME: Jr. Lioner in Tower of Goddess
+ID: 9300053 NAME: Jr. Grupin in Tower of Goddess
+ID: 9300054 NAME: Lunar Pixie in Tower of Goddess(Summon Boss)
+ID: 9300055 NAME: Star Pixie in Tower of Goddess(Summon Boss)
+ID: 9300056 NAME: Luster Pixie in Tower of Goddess(Summon Boss)
+ID: 9300057 NAME: Cellion in Tower of Goddess
+ID: 9300058 NAME: Pig
+ID: 9300059 NAME: Ribbon Pig
+ID: 9300060 NAME: Iron Hog
+ID: 9300061 NAME: Moon Bunny
+ID: 9300062 NAME: Flyeye
+ID: 9300063 NAME: Stirge
+ID: 9300064 NAME: Goblin Fire
+ID: 9300065 NAME: Green Cornian1 in Cave
+ID: 9300066 NAME: Green Cornian 2 in Cave
+ID: 9300067 NAME: Dark Cornian 1 in Cave
+ID: 9300068 NAME: Dark Cornian 2 in Cave
+ID: 9300069 NAME: Red Wyvern 1 in Cave
+ID: 9300070 NAME: Red Wyvern 2 in Cave
+ID: 9300071 NAME: Blue Wyvern 1 in Cave
+ID: 9300072 NAME: Blue Wyvern 2 in Cave
+ID: 9300073 NAME: Dark Wyvern 1 in Cave
+ID: 9300074 NAME: Dark Wyvern 2 in Cave
+ID: 9300075 NAME: Skelegon 1 in Cave
+ID: 9300076 NAME: Skelegon 2 in Cave
+ID: 9300077 NAME: T-Skelegon in Cave
+ID: 9300078 NAME: Jr. Newtie in Cave
+ID: 9300079 NAME: Nest Golem in Cave
+ID: 9300080 NAME: Kru
+ID: 9300081 NAME: Flyeye
+ID: 9300082 NAME: Stirge
+ID: 9300083 NAME: Goblin Fire
+ID: 9300084 NAME: Deathly Fear
+ID: 9300085 NAME: Jr. Balrog in Another World
+ID: 9300086 NAME: The Elemental Thanatos
+ID: 9300087 NAME: The Charging Taurospear
+ID: 9300088 NAME: Dark Lord's Disciple
+ID: 9300089 NAME: Phoenix
+ID: 9300090 NAME: Freezer
+ID: 9300091 NAME: Buff Rocky in the Dark
+ID: 9300092 NAME: Jr. Balrog in Forgotten Shrine
+ID: 9300093 NAME: Tylus
+ID: 9300094 NAME: Crimson Balrog the Kidnapper
+ID: 9300095 NAME: Lycanthrope the Kidnapper
+ID: 9300096 NAME: Black Kentaurus
+ID: 9300097 NAME: Goby in Warped Dimension
+ID: 9300098 NAME: Bone Fish in Warped Dimension
+ID: 9300099 NAME: Shark in Warped Dimension
+ID: 9300100 NAME: The Elemental Thanatos
+ID: 9300101 NAME: Tamable Hog
+ID: 9300102 NAME: Watchhog
+ID: 9300103 NAME: Barnard Gray
+ID: 9300104 NAME: Zeta Gray
+ID: 9300105 NAME: Angry Lord Pirate
+ID: 9300106 NAME: Enraged Lord Pirate
+ID: 9300107 NAME: Peeking Lord Pirate
+ID: 9300108 NAME: Lord Pirate's Jar
+ID: 9300109 NAME: Lord Pirate's Ginseng Jar
+ID: 9300110 NAME: Lord Pirate's Bellflower
+ID: 9300111 NAME: Lord Pirate's Ancient Bellflower
+ID: 9300112 NAME: Lord Pirate's 100yrOld Bellflower
+ID: 9300113 NAME: Lord Pirate's 100yrOld Ancient Bellflower
+ID: 9300114 NAME: Lord Pirate's Enraged Mr. Alli
+ID: 9300115 NAME: Lord Pirate's Enraged Kru
+ID: 9300116 NAME: Lord Pirate's Enraged Captain
+ID: 9300117 NAME: Lord Pirate's Devoted Kru
+ID: 9300118 NAME: Lord Pirate's Devoted Captain
+ID: 9300119 NAME: Lord Pirate
+ID: 9300120 NAME: Lord Pirate's Furious Mr. Alli
+ID: 9300121 NAME: Lord Pirate's Furious Kru
+ID: 9300122 NAME: Lord Pirate's Furious Captain
+ID: 9300123 NAME: Lord Pirate's Mr. Alli
+ID: 9300124 NAME: Lord Pirate's Kru
+ID: 9300125 NAME: Lord Pirate's Captain
+ID: 9300126 NAME: Lord Pirate's Enraged Ginseng Jar
+ID: 9300127 NAME: Brown Teddy
+ID: 9300128 NAME: Bloctopus 
+ID: 9300129 NAME: Ratz
+ID: 9300130 NAME: Chronos 
+ID: 9300131 NAME: Toy Trojan
+ID: 9300132 NAME: Tick-Tock
+ID: 9300133 NAME: Robo
+ID: 9300134 NAME: King Block Golem
+ID: 9300135 NAME: Master Chronos 
+ID: 9300136 NAME: Rombot
+ID: 9300137 NAME: Juliet
+ID: 9300138 NAME: Romeo
+ID: 9300139 NAME: Frankenroid
+ID: 9300140 NAME: Angry Frankenroid
+ID: 9300141 NAME: Homun of Closed Laboratory
+ID: 9300142 NAME: Homunculu of hidden laboratory
+ID: 9300143 NAME: Reinforced Iron Mutae
+ID: 9300144 NAME: Reinforced Mithril Mutae
+ID: 9300145 NAME: Homun
+ID: 9300146 NAME: Cyti
+ID: 9300147 NAME: Homunculus
+ID: 9300148 NAME: Neo Huroid
+ID: 9300149 NAME: Roid
+ID: 9300150 NAME: Neo Huroid
+ID: 9300151 NAME: Frankenroid
+ID: 9300152 NAME: Angry Frankenroid
+ID: 9300153 NAME: Obstacle Mutae
+ID: 9300154 NAME: Experimental Neo Huroid
+ID: 9300155 NAME: Pig
+ID: 9300156 NAME: Black Magician's Disciple
+ID: 9300157 NAME: Scorpion
+ID: 9300158 NAME: Kyrin
+ID: 9300159 NAME: Inferno Kyrin
+ID: 9300160 NAME: Blue Flower Serpent
+ID: 9300161 NAME: Red Flower Serpent
+ID: 9300162 NAME: Willi
+ID: 9300163 NAME: Sage Cat
+ID: 9300164 NAME: The Book Ghost
+ID: 9300165 NAME: Peach Monkey
+ID: 9300166 NAME: Bomb
+ID: 9300167 NAME: Moonlight Thief
+ID: 9300169 NAME: Ratz from Another Dimension
+ID: 9300170 NAME: Black Ratz from Another Dimension
+ID: 9300171 NAME: Bloctopus from Another Dimension
+ID: 9300172 NAME: Poisoned Lord Tree
+ID: 9300173 NAME: Poisoned Stone Bug
+ID: 9300174 NAME: Poison Flower
+ID: 9300175 NAME: Poisoned Spright
+ID: 9300176 NAME: Poison Golem
+ID: 9300177 NAME: Poison Golem Level 2
+ID: 9300178 NAME: Poison Golem Level 3
+ID: 9300179 NAME: Spright
+ID: 9300180 NAME: Poison Golem
+ID: 9300181 NAME: Charged Poison Golem
+ID: 9300182 NAME: Super-Charged Poison Golem
+ID: 9300183 NAME: Deeply Poisoned Stone Bug
+ID: 9300184 NAME: Mano
+ID: 9300185 NAME: Stumpy
+ID: 9300186 NAME: Deo
+ID: 9300187 NAME: King Slime
+ID: 9300188 NAME: Giant Centipede
+ID: 9300189 NAME: Faust
+ID: 9300190 NAME: King Clang
+ID: 9300191 NAME: Mushmom
+ID: 9300192 NAME: Alishar
+ID: 9300193 NAME: Timer
+ID: 9300194 NAME: Dyle
+ID: 9300195 NAME: Papa Pixie
+ID: 9300196 NAME: Zombie Mushmom
+ID: 9300197 NAME: Zeno
+ID: 9300198 NAME: Lord Pirate
+ID: 9300199 NAME: Nine-Tailed Fox
+ID: 9300200 NAME: Tae Roon
+ID: 9300201 NAME: Super-Charged Poison Golem
+ID: 9300202 NAME: King Sage Cat
+ID: 9300203 NAME: Jr. Balrog
+ID: 9300204 NAME: Eliza
+ID: 9300205 NAME: Frankenroid
+ID: 9300206 NAME: Chimera
+ID: 9300207 NAME: Snack Bar
+ID: 9300208 NAME: Snowman
+ID: 9300209 NAME: Blue Mushmom
+ID: 9300210 NAME: Crimson Balrog
+ID: 9300211 NAME: Manon
+ID: 9300212 NAME: Griffey
+ID: 9300213 NAME: Leviathan
+ID: 9300214 NAME: Papulatus
+ID: 9300215 NAME: Mu Gong Merits
+ID: 9300216 NAME: A transparent item for checking elimination
+ID: 9300217 NAME: Blue Snail
+ID: 9300218 NAME: Red Snail
+ID: 9300219 NAME: Stump
+ID: 9300220 NAME: Axe Stump
+ID: 9300221 NAME: Cactus
+ID: 9300222 NAME: Royal Cactus
+ID: 9300223 NAME: Slime
+ID: 9300224 NAME: Black Sheep
+ID: 9300225 NAME: Lupin
+ID: 9300226 NAME: Zombie Lupin
+ID: 9300227 NAME: Lorang
+ID: 9300228 NAME: Clang
+ID: 9300229 NAME: Orange Mushroom
+ID: 9300230 NAME: Platoon Chronos
+ID: 9300231 NAME: Master Chronos
+ID: 9300232 NAME: Tick
+ID: 9300233 NAME: Tick-Tock
+ID: 9300234 NAME: Ligator
+ID: 9300235 NAME: Croko
+ID: 9300236 NAME: Luster Pixie
+ID: 9300237 NAME: Ghost Pixie
+ID: 9300238 NAME: Zombie Mushroom
+ID: 9300239 NAME: Zeta
+ID: 9300240 NAME: Ultra Gray
+ID: 9300241 NAME: Kru
+ID: 9300242 NAME: Captain
+ID: 9300243 NAME: Samiho
+ID: 9300244 NAME: Grizzly
+ID: 9300245 NAME: Panda
+ID: 9300246 NAME: Tree Road
+ID: 9300247 NAME: Stone Bug
+ID: 9300248 NAME: Sage Cat
+ID: 9300249 NAME: Tauromacis
+ID: 9300250 NAME: Taurospear
+ID: 9300251 NAME: Lucida
+ID: 9300252 NAME: Reinforced Iron Mutae
+ID: 9300253 NAME: Reinforced Mithril Mutae
+ID: 9300254 NAME: Reinforced Iron Mutae
+ID: 9300255 NAME: Mithril Mutae
+ID: 9300256 NAME: Transforming Doll Machine  (Before)
+ID: 9300257 NAME: Transforming Doll Machine  (After)
+ID: 9300258 NAME: Yeti
+ID: 9300259 NAME: Blue Mushroom
+ID: 9300260 NAME: Jr. Balrog
+ID: 9300261 NAME: Black Kentaurus
+ID: 9300262 NAME: Red Kentaurus
+ID: 9300263 NAME: Blue Kentaurus
+ID: 9300264 NAME: Dark Wyvern
+ID: 9300265 NAME: Blue Wyvern
+ID: 9300266 NAME: High Darkstar
+ID: 9300267 NAME: Low Darkstar
+ID: 9300268 NAME: Tae Roon
+ID: 9300269 NAME: So Gong
+ID: 9300270 NAME: Mingu
+ID: 9300271 NAME: Target Slime
+ID: 9300272 NAME: Target Orange Mushroom
+ID: 9300273 NAME: Target Pig
+ID: 9300274 NAME: Cynical Orange Mushroom
+ID: 9300275 NAME: Shammos
+ID: 9300276 NAME: Hoblin Hector
+ID: 9300277 NAME: Elite Hoblin
+ID: 9300278 NAME: Elite Green Hoblin
+ID: 9300279 NAME: Combat Hoblin
+ID: 9300280 NAME: Ferocious Hoblin
+ID: 9300281 NAME: Rex
+ID: 9300282 NAME: Shammos
+ID: 9300283 NAME: Rex Summoned Invisible Mob
+ID: 9300284 NAME: Shammos
+ID: 9300285 NAME: Puppeteer
+ID: 9300286 NAME: Dangerous Blue Mushroom
+ID: 9300287 NAME: Snowman of Competence
+ID: 9300288 NAME: Crimson Balrog of Competence 
+ID: 9300289 NAME: Snipe of Competence 
+ID: 9300290 NAME: Lilynouch of Competence
+ID: 9300291 NAME: Advanced Manon
+ID: 9300292 NAME: Advanced Griffey
+ID: 9300293 NAME: Advanced Leviathan
+ID: 9300294 NAME: Advanced Pianus
+ID: 9300295 NAME: Ifia
+ID: 9300296 NAME: Demon Gargoyle
+ID: 9300297 NAME: Red Crocky
+ID: 9300298 NAME: Power Dark Wyvern
+ID: 9300299 NAME: King Rombot
+ID: 9300300 NAME: Toy Black Knight
+ID: 9300301 NAME: Clouded Chief Guardian
+ID: 9300302 NAME: Clouded Monk Trainee
+ID: 9300303 NAME: Arkarium
+ID: 9300304 NAME: Arkarium
+ID: 9300305 NAME: Netherworld Monk
+ID: 9300306 NAME: Evil Reflection
+ID: 9300307 NAME: Spirit of Light
+ID: 9300308 NAME: Thanatos
+ID: 9300309 NAME: Puppeteer
+ID: 9300310 NAME: Sand Rabbit of the Maze
+ID: 9300315 NAME: Buffy
+ID: 9300316 NAME: Soul Teddy
+ID: 9300317 NAME: Lazy Buffy
+ID: 9300318 NAME: Master Soul Teddy
+ID: 9300319 NAME: Klock
+ID: 9300320 NAME: Buffoon
+ID: 9300321 NAME: Deep Buffoon
+ID: 9300322 NAME: Ghost Pirate
+ID: 9300323 NAME: Death Teddy 
+ID: 9300324 NAME: Viking
+ID: 9300325 NAME: Cat Sleeping Spot
+ID: 9300328 NAME: Tutorial Tino
+ID: 9300329 NAME: Wolf's Bomb
+ID: 9300330 NAME: Rose Thorn
+ID: 9300331 NAME: Gaga
+ID: 9300332 NAME: Barnard Gray
+ID: 9300334 NAME: Chief Gray
+ID: 9300335 NAME: Mateon
+ID: 9300336 NAME: Mecateon
+ID: 9300337 NAME: Mecateon
+ID: 9300338 NAME: Rescued Gaga
+ID: 9300339 NAME: Space Mateon
+ID: 9300340 NAME: Maple Bday Cake
+ID: 9300341 NAME: Target Slime
+ID: 9300342 NAME: Target Orange Mushroom
+ID: 9300343 NAME: Target Pig
+ID: 9300344 NAME: Puppeteer
+ID: 9300345 NAME: Puppeteer
+ID: 9300346 NAME: Puppeteer
+ID: 9300347 NAME: Giant Nependeath
+ID: 9300348 NAME: Giant
+ID: 9300349 NAME: Gentleman
+ID: 9300350 NAME: Mu Gong's Shadow
+ID: 9300351 NAME: Shadow Knight
+ID: 9300352 NAME: Gentleman
+ID: 9300353 NAME: Gentleman
+ID: 9300354 NAME: Wolf Underling
+ID: 9300355 NAME: Shapeshifter
+ID: 9300356 NAME: Sma Gingerman
+ID: 9300357 NAME: Grii Gingerman
+ID: 9300358 NAME: Grii Gingerman
+ID: 9300359 NAME: Sma Gingerman
+ID: 9300360 NAME: Grii Gingerman
+ID: 9300361 NAME: Grii Gingerman
+ID: 9300362 NAME: Grii Gingerman
+ID: 9300363 NAME: Grii Gingerman
+ID: 9300364 NAME: Sma Gingerman
+ID: 9300365 NAME: Grii Gingerman
+ID: 9300366 NAME: Grii Gingerman 
+ID: 9300367 NAME: Witch Bear
+ID: 9300368 NAME: Witch Bear
+ID: 9300369 NAME: Witch Bear
+ID: 9300370 NAME: Witch Bear
+ID: 9300371 NAME: Witch Bear
+ID: 9300372 NAME: Witch Bear
+ID: 9300373 NAME: Witch Bear
+ID: 9300374 NAME: Witch Bear
+ID: 9300375 NAME: Witch Bear
+ID: 9300376 NAME: Witch Bear
+ID: 9300377 NAME: Witch Bear
+ID: 9300378 NAME: Giant Nependeath
+ID: 9300379 NAME: Black Mage Wyvern
+ID: 9300380 NAME: Black Mage Cornian
+ID: 9300381 NAME: Black Mage Skelegon
+ID: 9300382 NAME: ???
+ID: 9400000 NAME: Crow
+ID: 9400001 NAME: Fire Raccoon
+ID: 9400002 NAME: Cloud Fox
+ID: 9400003 NAME: Nightghost
+ID: 9400004 NAME: Big Cloud Fox
+ID: 9400005 NAME: Red Boogie
+ID: 9400006 NAME: Blue Boogie
+ID: 9400007 NAME: Green Boogie
+ID: 9400008 NAME: Black Boogie
+ID: 9400009 NAME: Crow
+ID: 9400010 NAME: Flaming Raccoon
+ID: 9400011 NAME: Paper Lantern Ghost
+ID: 9400012 NAME: Water Goblin
+ID: 9400013 NAME: Dreamy Ghost
+ID: 9400014 NAME: Black Crow
+ID: 9400100 NAME: Extra A
+ID: 9400101 NAME: Extra B
+ID: 9400102 NAME: Extra C
+ID: 9400103 NAME: Extra D
+ID: 9400110 NAME: Leader A
+ID: 9400111 NAME: Leader B
+ID: 9400112 NAME: Bodyguard A
+ID: 9400113 NAME: Bodyguard B
+ID: 9400114 NAME: Slot Machine
+ID: 9400120 NAME: Male Boss A
+ID: 9400121 NAME: Female Boss
+ID: 9400122 NAME: Male Boss B
+ID: 9400200 NAME: Malady
+ID: 9400201 NAME: Wild Cargo
+ID: 9400202 NAME: Golden Slime
+ID: 9400203 NAME: Silver Slime
+ID: 9400204 NAME: Red Slime
+ID: 9400205 NAME: Blue Mushdad
+ID: 9400300 NAME: The Boss
+ID: 9400310 NAME: Tic (Easy)
+ID: 9400311 NAME: Tac (Easy)
+ID: 9400312 NAME: Toe (Easy)
+ID: 9400313 NAME: Tic (Medium)
+ID: 9400314 NAME: Tac (Medium)
+ID: 9400315 NAME: Toe (Medium)
+ID: 9400316 NAME: Tic (Hard)
+ID: 9400317 NAME: Tac (Hard)
+ID: 9400318 NAME: Toe (Hard)
+ID: 9400319 NAME: Cross (Easy)
+ID: 9400320 NAME: Cross (Medium)
+ID: 9400321 NAME: Cross (Hard)
+ID: 9400322 NAME: Giant Snowman (Lvl 1) - Easy
+ID: 9400323 NAME: Giant Snowman (Lvl 2) - Easy
+ID: 9400324 NAME: Giant Snowman (Lvl 3) - Easy
+ID: 9400325 NAME: Giant Snowman (Lvl 4) - Easy
+ID: 9400326 NAME: Giant Snowman (Lvl 5) - Easy
+ID: 9400327 NAME: Giant Snowman (Lvl 1) - Medium
+ID: 9400328 NAME: Giant Snowman (Lvl 2) - Medium
+ID: 9400329 NAME: Giant Snowman (Lvl 3) - Medium
+ID: 9400330 NAME: Giant Snowman (Lvl 4) - Medium
+ID: 9400331 NAME: Giant Snowman (Lvl 5) - Medium
+ID: 9400332 NAME: Giant Snowman (Lvl 1) - Hard
+ID: 9400333 NAME: Giant Snowman (Lvl 2) - Hard
+ID: 9400334 NAME: Giant Snowman (Lvl 3) - Hard
+ID: 9400335 NAME: Giant Snowman (Lvl 4) - Hard
+ID: 9400336 NAME: Giant Snowman (Lvl 5) - Hard
+ID: 9400500 NAME: Malady
+ID: 9400501 NAME: Jr. Wraith
+ID: 9400502 NAME: Wraith
+ID: 9400503 NAME: Stirge
+ID: 9400504 NAME: Coolie Zombie
+ID: 9400505 NAME: Turkey
+ID: 9400506 NAME: Candle Monster
+ID: 9400507 NAME: Cake Monster
+ID: 9400508 NAME: Mad Turkey
+ID: 9400509 NAME: Sakura Cellion
+ID: 9400510 NAME: Green Eggy Popp
+ID: 9400511 NAME: Yellow Eggy Popp
+ID: 9400512 NAME: Cake Mob (2nd) 
+ID: 9400513 NAME: Candle Mob (2nd) 
+ID: 9400514 NAME: Geist Balrog Phase 3
+ID: 9400515 NAME: Indigo Eye
+ID: 9400516 NAME: Crystal Boar
+ID: 9400517 NAME: Magik Fierry A
+ID: 9400518 NAME: Magik Fierry B
+ID: 9400519 NAME: G Slime
+ID: 9400520 NAME: P Slime
+ID: 9400521 NAME: O Slime
+ID: 9400522 NAME: B Slime
+ID: 9400523 NAME: Evil Eye GL
+ID: 9400524 NAME: Curse Eye GL
+ID: 9400525 NAME: Cold Eye GL
+ID: 9400526 NAME: Fierry GL
+ID: 9400527 NAME: Fire Boar GL
+ID: 9400528 NAME: Sentinel GL
+ID: 9400529 NAME: Ice Sentinel GL
+ID: 9400530 NAME: Zombie Lupin GL
+ID: 9400531 NAME: Toy Trojan GL
+ID: 9400533 NAME: Indigo Eye PQ
+ID: 9400534 NAME: Crystal Boar PQ
+ID: 9400535 NAME: Magik Fiarry A PQ
+ID: 9400536 NAME: Geist Balrog Phase 1
+ID: 9400537 NAME: Geist Balrog Phase 2
+ID: 9400538 NAME: Street Slime
+ID: 9400539 NAME: Urban Fungus
+ID: 9400540 NAME: Killa Bee
+ID: 9400541 NAME: Killa Bee
+ID: 9400542 NAME: Fire Tusk
+ID: 9400543 NAME: Electrophant
+ID: 9400544 NAME: Gryphon
+ID: 9400545 NAME: Wolf Spider
+ID: 9400546 NAME: I.AM.ROBOT
+ID: 9400547 NAME: Boomer
+ID: 9400548 NAME: Mighty Maple Eater
+ID: 9400549 NAME: Headless Horseman
+ID: 9400550 NAME: Boomer
+ID: 9400551 NAME: Bob
+ID: 9400552 NAME: Zoo Snail
+ID: 9400553 NAME: Purple Flying Book
+ID: 9400554 NAME: Orange Flying Book
+ID: 9400555 NAME: Blue Flying Book
+ID: 9400556 NAME: Glutton Ghoul
+ID: 9400557 NAME: Psycho Jack Box
+ID: 9400558 NAME: Psycho Jack
+ID: 9400559 NAME: Sophilia Doll Ground
+ID: 9400560 NAME: Sophilia Doll
+ID: 9400561 NAME: Voodoo
+ID: 9400562 NAME: Hoodoo
+ID: 9400563 NAME: Nightmare
+ID: 9400564 NAME: Mirror Ghost
+ID: 9400565 NAME: Glutton Ghoul
+ID: 9400566 NAME: Loki Box Ex
+ID: 9400567 NAME: Loki Box Tr
+ID: 9400568 NAME: Turkey Commando
+ID: 9400569 NAME: Big Puff Daddy
+ID: 9400570 NAME: Anniversary Cake
+ID: 9400571 NAME: Headless Horseman
+ID: 9400572 NAME: Geist Balrog
+ID: 9400573 NAME: Baby typhon
+ID: 9400574 NAME: Typhon
+ID: 9400575 NAME: Bigfoot
+ID: 9400576 NAME: Windraider
+ID: 9400577 NAME: Firebrand
+ID: 9400578 NAME: Firebrand
+ID: 9400579 NAME: Nightshadow
+ID: 9400580 NAME: Elderwraith
+ID: 9400581 NAME: Stormbreaker
+ID: 9400582 NAME: Crimson Guardian
+ID: 9400583 NAME: Leprechaun
+ID: 9400584 NAME: Leprechaun
+ID: 9400585 NAME: Crimson Tree
+ID: 9400586 NAME: Crimson Tree
+ID: 9400587 NAME: Phantom Tree
+ID: 9400588 NAME: Phantom Tree
+ID: 9400589 NAME: MV
+ID: 9400590 NAME: Margana
+ID: 9400591 NAME: Red Nirg
+ID: 9400592 NAME: Rellik
+ID: 9400593 NAME: Hsalf
+ID: 9400594 NAME: Master Guardian
+ID: 9400595 NAME: Blood Stirge
+ID: 9400596 NAME: Scarlet Phoenix
+ID: 9400597 NAME: Azure Ocelot
+ID: 9400598 NAME: Dark Menhir
+ID: 9400599 NAME: Black Bird
+ID: 9400600 NAME: MasteriaPQ Mob Summoner
+ID: 9400601 NAME: Birthday Candle
+ID: 9400602 NAME: Strawberry Cake
+ID: 9400603 NAME: Angry Strawberry Cake
+ID: 9400604 NAME: Deluxe Candle
+ID: 9400605 NAME: Chocolate Cake
+ID: 9400606 NAME: Giant Cake
+ID: 9400607 NAME: Cake Monster
+ID: 9400608 NAME: Big Puff Daddy
+ID: 9400704 NAME: Beef Eater
+ID: 9400750 NAME: Pie monster
+ID: 9400751 NAME: Cake Boss
+ID: 9400752 NAME: Pie Boss
+ID: 9400753 NAME: Giant Pie
+ID: 9400764 NAME: Giant Cake
+ID: 9400763 NAME: Giant Pie
+ID: 9400754 NAME: Giant Cake
+ID: 9400755 NAME: Little Pie monster
+ID: 9400706 NAME: Jr. MV
+ID: 9400707 NAME: Item Maker
+ID: 9400708 NAME: Snowman1
+ID: 9400709 NAME: Snowman2
+ID: 9400710 NAME: Snowman3
+ID: 9400711 NAME: Transparent Mob
+ID: 9400712 NAME: Little Snowman
+ID: 9400713 NAME: Item Killer
+ID: 9400714 NAME: Snow Blower
+ID: 9400715 NAME: Snow Blower
+ID: 9400716 NAME: Snow Blower
+ID: 9400717 NAME: Snow Blower
+ID: 9400718 NAME: Snow Blower
+ID: 9400719 NAME: Snow Blower
+ID: 9400720 NAME: Snow Blower
+ID: 9400721 NAME: Snow Blower
+ID: 9400722 NAME: Snow Blower
+ID: 9400723 NAME: Snow Blower
+ID: 9400724 NAME: Snow Blower
+ID: 9400743 NAME: Angry Guard Dog
+ID: 9400744 NAME: Crimson Balrog Minion
+ID: 9400745 NAME: Jr. Balrog Minion
+ID: 9400746 NAME: Muscle Stone Minion
+ID: 9400747 NAME: Bain Minion
+ID: 9400748 NAME: MV
+ID: 9400749 NAME: Red Eggy Popp
+ID: 9410000 NAME: Stray Dog
+ID: 9410001 NAME: Stylish Stray Dog
+ID: 9410002 NAME: Angry Stray Dog
+ID: 9410003 NAME: Clown Monkey
+ID: 9410004 NAME: Biker Monkey
+ID: 9410005 NAME: Red Bubble Tea
+ID: 9410006 NAME: Yellow Bubble Tea
+ID: 9410007 NAME: Green Bubble Tea
+ID: 9410008 NAME: Yeti UFO Catcher
+ID: 9410009 NAME: Yeti Doll
+ID: 9410010 NAME: Jr. Pepe UFO Catcher
+ID: 9410011 NAME: Jr. Pepe Doll
+ID: 9410012 NAME: UFO Catcher
+ID: 9410013 NAME: Doll Vending Machine
+ID: 9410014 NAME: Snack Bar
+ID: 9410015 NAME: Snack Bar
+ID: 9410016 NAME: Bubble Fish
+ID: 9420000 NAME: Toad
+ID: 9420001 NAME: Frog
+ID: 9420002 NAME: Python
+ID: 9420003 NAME: Red Lizard
+ID: 9420004 NAME: Yellow Lizard
+ID: 9420005 NAME: White Rooster
+ID: 9420015 NAME: NooNoo
+ID: 9420500 NAME: Stopnow
+ID: 9420501 NAME: Freezer
+ID: 9420502 NAME: Biner
+ID: 9420503 NAME: Nospeed
+ID: 9420504 NAME: Tippo Red
+ID: 9420505 NAME: Tippo Blue
+ID: 9420506 NAME: Batoo
+ID: 9420507 NAME: Trucker
+ID: 9420508 NAME: Octobunny
+ID: 9420509 NAME: Pac Pinky
+ID: 9420510 NAME: Slimy
+ID: 9420511 NAME: Selkie Jr.
+ID: 9420512 NAME: Mr. Anchor
+ID: 9420513 NAME: Capt. Latanica
+ID: 9500000 NAME: Making a wish to full moon
+ID: 9500001 NAME: Making a wish to the full moon
+ID: 9500002 NAME: Making a wish to the full moon
+ID: 9500003 NAME: Making a wish to the full moon
+ID: 9500004 NAME: Making a wish to the full moon
+ID: 9500005 NAME: Making a wish to the full moon
+ID: 9500100 NAME: Slime
+ID: 9500101 NAME: Pig
+ID: 9500102 NAME: Orange Mushroom
+ID: 9500103 NAME: Bubbling
+ID: 9500104 NAME: Octopus
+ID: 9500105 NAME: Green Mushroom
+ID: 9500106 NAME: Horny Mushroom
+ID: 9500107 NAME: Drumming Bunny
+ID: 9500108 NAME: Ligator
+ID: 9500109 NAME: Ratz
+ID: 9500110 NAME: Star Pixie
+ID: 9500111 NAME: Jr. Wraith
+ID: 9500112 NAME: Jr. Pepe
+ID: 9500113 NAME: Panda Teddy
+ID: 9500114 NAME: King Blockpus
+ID: 9500115 NAME: Lorang
+ID: 9500116 NAME: Zombie Lupin
+ID: 9500117 NAME: Helly
+ID: 9500118 NAME: Tweeter
+ID: 9500119 NAME: Toy Trojan
+ID: 9500120 NAME: King Block Golem
+ID: 9500121 NAME: Wraith
+ID: 9500122 NAME: Chief Gray
+ID: 9500123 NAME: Mixed Golem
+ID: 9500124 NAME: Mushmom
+ID: 9500125 NAME: Red Drake
+ID: 9500126 NAME: Ice Drake
+ID: 9500127 NAME: Master Soul Teddy
+ID: 9500128 NAME: Dark Yeti
+ID: 9500129 NAME: Taurospear
+ID: 9500130 NAME: Blue King Goblin
+ID: 9500131 NAME: Lucida
+ID: 9500132 NAME: Werewolf
+ID: 9500133 NAME: Yeti and Pepe
+ID: 9500134 NAME: Lycanthrope
+ID: 9500135 NAME: Death Teddy
+ID: 9500136 NAME: Gigantic Viking
+ID: 9500137 NAME: G. Phantom Watch
+ID: 9500138 NAME: Bain
+ID: 9500139 NAME: Jr. Balrog
+ID: 9500140 NAME: Crimson Balrog
+ID: 9500141 NAME: Separated Yeti
+ID: 9500142 NAME: Separated Pepe
+ID: 9500143 NAME: Coke Pig
+ID: 9500144 NAME: Coke Snail
+ID: 9500145 NAME: Coke Seal
+ID: 9500146 NAME: Play Seal
+ID: 9500147 NAME: Yeti and Coketump
+ID: 9500148 NAME: Igloo Turtle
+ID: 9500149 NAME: Coke Golem
+ID: 9500150 NAME: Ice Golem
+ID: 9500151 NAME: Coke Slime
+ID: 9500152 NAME: Coke Mushroom
+ID: 9500153 NAME: Coketump
+ID: 9500154 NAME: Coketump Lite
+ID: 9500155 NAME: Three-Tailed Fox
+ID: 9500156 NAME: Wraith
+ID: 9500157 NAME: Jr. Wraith
+ID: 9500158 NAME: Yellow King Goblin
+ID: 9500159 NAME: Blue King Goblin
+ID: 9500160 NAME: Green King Goblin
+ID: 9500161 NAME: Hankie
+ID: 9500162 NAME: Harp
+ID: 9500163 NAME: Blood Harp
+ID: 9500164 NAME: Black Kentaurus
+ID: 9500165 NAME: Red Kentaurus
+ID: 9500166 NAME: Blue Kentaurus
+ID: 9500167 NAME: Golden Pig
+ID: 9500168 NAME: King Slime
+ID: 9500169 NAME: Jr. Balrog
+ID: 9500170 NAME: Papa Pixie
+ID: 9500171 NAME: Crimson Balrog
+ID: 9500172 NAME: Alishar
+ID: 9500173 NAME: Griffey
+ID: 9500174 NAME: Manon
+ID: 9500175 NAME: Angry Lord Pirate
+ID: 9500176 NAME: Blue Mushmom
+ID: 9500177 NAME: Giant Centipede
+ID: 9500178 NAME: Snack Bar
+ID: 9500179 NAME: Transformed Snack Bar
+ID: 9500180 NAME: Papulatus
+ID: 9500181 NAME: Papulatus
+ID: 9500182 NAME: Watermelon Guard Hogol 
+ID: 9500183 NAME: Watermelon Guard Hogol 
+ID: 9500184 NAME: Rideword P
+ID: 9500185 NAME: Rideword Y
+ID: 9500186 NAME: Rideword B
+ID: 9500187 NAME: Busted Doll
+ID: 9500188 NAME: Destroyed Doll
+ID: 9500189 NAME: Gift Box
+ID: 9500190 NAME: Toy Clown
+ID: 9500191 NAME: Green Phantom
+ID: 9500192 NAME: Pumpkin Knight
+ID: 9500193 NAME: Fire Steed
+ID: 9500194 NAME: Mirror Ghost
+ID: 9500195 NAME: Jack-o-Lantern
+ID: 9500196 NAME: Ghost
+ID: 9500197 NAME: Ghost
+ID: 9500198 NAME: Gift Box
+ID: 9500199 NAME: Toy Clown
+ID: 9500200 NAME: Zoo Balrog
+ID: 9500201 NAME: Zoo Yeti
+ID: 9500202 NAME: Zoo White Fang
+ID: 9500203 NAME: Zoo Pig
+ID: 9500204 NAME: Zoo Ribbon Pig
+ID: 9500300 NAME: Busted Doll
+ID: 9500301 NAME: Destroyed Doll
+ID: 9500302 NAME: Jack-o-Lantern at Pumpkin Farm
+ID: 9500303 NAME: Mirror Ghost 2
+ID: 9500304 NAME: Mirror Ghost 3
+ID: 9500305 NAME: Jack-o-Lantern
+ID: 9500306 NAME: Mano
+ID: 9500307 NAME: Stumpy
+ID: 9500308 NAME: Faust
+ID: 9500309 NAME: King Clang
+ID: 9500310 NAME: Timer
+ID: 9500311 NAME: Dyle
+ID: 9500312 NAME: Nine-Tailed Fox
+ID: 9500313 NAME: Tae Roon
+ID: 9500314 NAME: King Sage Cat
+ID: 9500315 NAME: Eliza
+ID: 9500316 NAME: Snow Yeti
+ID: 9500317 NAME: Kid Snowman
+ID: 9500318 NAME: Angry Snowman
+ID: 9500319 NAME: Giant Snowman
+ID: 9500320 NAME: Lost Rudolph
+ID: 9500321 NAME: Snowman
+ID: 9500322 NAME: Kid Snowman
+ID: 9500323 NAME: Kitty from Cheese Storage
+ID: 9500324 NAME: Kitty from Cheese Storage
+ID: 9500325 NAME: King Slime
+ID: 9500326 NAME: Mushmom
+ID: 9500327 NAME: Jr. Balrog
+ID: 9500328 NAME: Crimson Balrog
+ID: 9500329 NAME: Papa Pixie
+ID: 9500330 NAME: Alishar
+ID: 9500331 NAME: Papulatus
+ID: 9500332 NAME: Pianus
+ID: 9500333 NAME: Leviathan
+ID: 9500334 NAME: Lord Pirate
+ID: 9500335 NAME: Frankenroid
+ID: 9500336 NAME: P Junior
+ID: 9500337 NAME: Mano
+ID: 9500338 NAME: Stumpy
+ID: 9500339 NAME: Deo
+ID: 9500340 NAME: King Slime
+ID: 9500341 NAME: Faust
+ID: 9500342 NAME: King Clang
+ID: 9500343 NAME: Alishar
+ID: 9500344 NAME: Timer
+ID: 9500345 NAME: Mushmom
+ID: 9500346 NAME: Dyle
+ID: 9500347 NAME: Zeno
+ID: 9500348 NAME: Nine-Tailed Fox
+ID: 9500349 NAME: Lord Pirate
+ID: 9500350 NAME: Tae Roon
+ID: 9500351 NAME: Papa Pixie
+ID: 9500352 NAME: King Sage Cat
+ID: 9500353 NAME: Jr. Balrog
+ID: 9500354 NAME: Frankenroid
+ID: 9500355 NAME: Eliza
+ID: 9500356 NAME: Chimera
+ID: 9500357 NAME: Snow Yeti
+ID: 9500358 NAME: Crimson Balrog
+ID: 9500359 NAME: Manon
+ID: 9500360 NAME: Griffey
+ID: 9500361 NAME: Leviathan
+ID: 9500362 NAME: Papulatus
+ID: 9500363 NAME: Pianus
+ID: 9500364 NAME: Mini Dungeon Transparent Monster
+ID: 9500365 NAME: Mini Dungeon Agent Box
+ID: 9500366 NAME: Barnard Gray
+ID: 9500367 NAME: Zeta Gray
+ID: 9500368 NAME: Ultra Gray
+ID: 9500369 NAME: Chief Gray
+ID: 9500370 NAME: Mecateon
+ID: 9500371 NAME: Mateon
+ID: 9500372 NAME: Plateon
+ID: 9500373 NAME: Machine MT-09
+ID: 9500400 NAME: Gourd
+ID: 9501000 NAME: Sealed
+ID: 9501001 NAME: Darkness
+ID: 9501002 NAME: Weakness
+ID: 9501003 NAME: Knocked Out
+ID: 9501004 NAME: Cursed
+ID: 9501005 NAME: Poisoned
+ID: 9501006 NAME: Slow
+ID: 9501007 NAME: Disable Buff
+ID: 9501008 NAME: Seduce
+ID: 9501009 NAME: Immune to Weapon
+ID: 9501010 NAME: Immune to Magic
+ID: 9501011 NAME: Cancel Element
+ID: 9501012 NAME: Reduce Element
+ID: 9501013 NAME: Expand Element
+ID: 9501014 NAME: Undead
+ID: 9501015 NAME: Boss
+ID: 9501016 NAME: Monster Book Test
+ID: 9501017 NAME: Skull
+ID: 9600001 NAME: Rooster
+ID: 9600002 NAME: Duck
+ID: 9600003 NAME: Sheep
+ID: 9600004 NAME: Goat
+ID: 9600005 NAME: Black Goat
+ID: 9600006 NAME: Cow
+ID: 9600007 NAME: Plow Ox
+ID: 9600008 NAME: Black Sheep
+ID: 9600065 NAME: Holiday Super Sock
+ID: 9600066 NAME: New Year's Party Pouch
+ID: 9999999 NAME: ???
+ID: 9400630 NAME: Event Horntail's Left Head
+ID: 9400631 NAME: Event Horntail's Right Head
+ID: 9400632 NAME: Event Pink Bean
+ID: 9420527 NAME: Chlorotrap
+ID: 9420528 NAME: Emo Slime
+ID: 9420529 NAME: Dark Fission
+ID: 9420530 NAME: Oly Oly
+ID: 9420531 NAME: Scaredy Scarlion
+ID: 9420532 NAME: Ratatula
+ID: 9420533 NAME: Rodeo
+ID: 9420534 NAME: Charmer
+ID: 9420535 NAME: Jester Scarlion
+ID: 9420536 NAME: Froscola
+ID: 9420537 NAME: Yabber Doo
+ID: 9420538 NAME: Booper Scarlion
+ID: 9420539 NAME: Vikerola
+ID: 9420540 NAME: Gallopera
+ID: 9420541 NAME: Targa
+ID: 9420542 NAME: Targa
+ID: 9420543 NAME: Angry Targa
+ID: 9420544 NAME: Furious Targa
+ID: 9420545 NAME: Ratatula
+ID: 9420546 NAME: Scarlion Boss
+ID: 9420547 NAME: Scarlion Boss
+ID: 9420548 NAME: Angry Scarlion Boss
+ID: 9420549 NAME: Furious Scarlion Boss
+ID: 9420550 NAME: Scaredy Scarlion
+ID: 6400006 NAME: Crimson Balrog
+ID: 6400007 NAME: Baby Balrog
+ID: 6400008 NAME: Jr. Balrog
+ID: 6400009 NAME: Crimson Balrog
+ID: 8830000 NAME: Balrog
+ID: 8830001 NAME: Balrog
+ID: 8830002 NAME: Balrog
+ID: 8830003 NAME: Balrog
+ID: 8830004 NAME: Balrog
+ID: 8830005 NAME: Balrog
+ID: 8830006 NAME: Balrog
+ID: 8830007 NAME: Balrog
+ID: 8830008 NAME: Balrog
+ID: 8830009 NAME: Balrog
+ID: 8830010 NAME: Balrog
+ID: 8830011 NAME: Balrog
+ID: 8830012 NAME: Balrog
+ID: 8830013 NAME: Balrog
+ID: 8840000 NAME: Von Leon
+ID: 8840001 NAME: Demon Gargoyle
+ID: 8840002 NAME: Red Crocky
+ID: 8840003 NAME: Prison Guard Boar
+ID: 8840004 NAME: Prison Guard Rhino
+ID: 8840005 NAME: Mini Castle Golem
+ID: 8840006 NAME: Von Leon
+ID: 8840010 NAME: Von Leon
+ID: 9300311 NAME: Bam Bam Cat
+ID: 9300312 NAME: Pigmy that lays Golden Eggs
+ID: 9300313 NAME: Witch Cat
+ID: 9300314 NAME: Witch Cat
+ID: 9300326 NAME: Unknown Jr. Balrog
+ID: 9300327 NAME: Balrog Corpse
+ID: 9302011 NAME: Lupin Pig
+ID: 9302012 NAME: Beast
+ID: 9302013 NAME: Beast
+ID: 9302014 NAME: Beast
+ID: 9302015 NAME: Beast
+ID: 9302016 NAME: Beast
+ID: 9302017 NAME: Beast
+ID: 9302018 NAME: Beast
+ID: 9302019 NAME: Raging Beast
+ID: 9302020 NAME: Picnic Trash Bag
+ID: 9302021 NAME: Lv. 20 Golden Dream Pig
+ID: 9302022 NAME: Lv. 34 Golden Dream Pig
+ID: 9302023 NAME: Lv. 36 Golden Dream Pig
+ID: 9302024 NAME: Lv. 46 Golden Dream Pig
+ID: 9302025 NAME: Lv. 50 Golden Dream Pig
+ID: 9302026 NAME: Lv. 55 Golden Dream Pig
+ID: 9302027 NAME: Lv. 56 Golden Dream Pig
+ID: 9302028 NAME: Lv. 66 Golden Dream Pig
+ID: 9302029 NAME: Lv. 70 Golden Dream Pig
+ID: 9302030 NAME: Lv. 76 Golden Dream Pig
+ID: 9302031 NAME: Lv. 83 Golden Dream Pig
+ID: 9302032 NAME: Lv. 85 Golden Dream Pig
+ID: 9302033 NAME: Lv. 100 Golden Dream Pig
+ID: 9302034 NAME: Lv. 118 Golden Dream Pig
+ID: 9302035 NAME: Lv. 135 Golden Dream Pig
+ID: 9302036 NAME: Lv. 150 Golden Dream Pig
+ID: 9302037 NAME: Lv. 140 Golden Dream Pig
+ID: 9302038 NAME: Lv. 26 Golden Dream Pig
+ID: 9001013 NAME: Thief Crow
+ID: 9001014 NAME: Uncontrollable Maha
+ID: 9303000 NAME: Mano
+ID: 9303001 NAME: Stumpy
+ID: 9303002 NAME: King Slime
+ID: 9303003 NAME: Deo
+ID: 9303004 NAME: Mushmom
+ID: 9303005 NAME: Tae Roon
+ID: 9303006 NAME: Rombot
+ID: 9303007 NAME: Zeno
+ID: 9303008 NAME: Nine-Tailed Fox
+ID: 9303009 NAME: King Sage Cat
+ID: 9303010 NAME: Jr. Balrog
+ID: 9303011 NAME: Lord Pirate
+ID: 9303012 NAME: Papa Pixie
+ID: 9303013 NAME: Crimson Balrog
+ID: 9303014 NAME: Seruf
+ID: 9303015 NAME: Eliza
+ID: 9303016 NAME: Leviathan
+ID: 9304000 NAME: Tamable Jaguar
+ID: 9304001 NAME: Tamable Jaguar
+ID: 9304002 NAME: Tamable Jaguar
+ID: 9304003 NAME: Tamable Jaguar
+ID: 9304004 NAME: Tamable Jaguar
+ID: 9304005 NAME: Jaira
+ID: 9304006 NAME: Snow White
+ID: 9305000 NAME: Spirit of Rock
+ID: 9305001 NAME: Xerxes
+ID: 9305002 NAME: Deet and Roi
+ID: 9305003 NAME: Ani
+ID: 9305004 NAME: Metal Golem
+ID: 9305005 NAME: Dodo
+ID: 9305006 NAME: Lilynouch
+ID: 9305007 NAME: Lyka
+ID: 9305100 NAME: Mano
+ID: 9305101 NAME: Mushmom
+ID: 9305102 NAME: Stumpy
+ID: 9305103 NAME: Blue Mushmom
+ID: 9305104 NAME: Zombie Mushmom
+ID: 9305105 NAME: King Slime
+ID: 9305106 NAME: Dyle
+ID: 9305107 NAME: King Clang
+ID: 9305108 NAME: Faust
+ID: 9305109 NAME: Spirit of Rock
+ID: 9305110 NAME: Metal Golem
+ID: 9305111 NAME: Eliza
+ID: 9305112 NAME: Jr. Balrog
+ID: 9305113 NAME: Nine-Tailed Fox
+ID: 9305114 NAME: Xerxes
+ID: 9305115 NAME: Deo
+ID: 9305116 NAME: Zeno
+ID: 9305117 NAME: Timer
+ID: 9305118 NAME: Snack Bar
+ID: 9305119 NAME: Tae Roon
+ID: 9305120 NAME: Papa Pixie
+ID: 9305121 NAME: Alishar
+ID: 9305122 NAME: Lord Pirate
+ID: 9305123 NAME: Deet and Roi
+ID: 9305124 NAME: Frankenroid
+ID: 9305125 NAME: Chimera
+ID: 9305126 NAME: Poison Golem
+ID: 9305127 NAME: King Sage Cat
+ID: 9305128 NAME: Giant Centipede
+ID: 9305129 NAME: Crimson Balrog
+ID: 9305130 NAME: Manon
+ID: 9305131 NAME: Griffey
+ID: 9305132 NAME: Snowman
+ID: 9305133 NAME: Papulatus
+ID: 9305134 NAME: Ani
+ID: 9305135 NAME: Leviathan
+ID: 9305136 NAME: Dodo
+ID: 9305137 NAME: Lilynouch
+ID: 9305138 NAME: Lyka
+ID: 9305139 NAME: Mu Gong
+ID: 9305200 NAME: Mano
+ID: 9305201 NAME: Mushmom
+ID: 9305202 NAME: Stumpy
+ID: 9305203 NAME: Blue Mushmom
+ID: 9305204 NAME: Zombie Mushmom
+ID: 9305205 NAME: King Slime
+ID: 9305206 NAME: Dyle
+ID: 9305207 NAME: King Clang
+ID: 9305208 NAME: Faust
+ID: 9305209 NAME: Spirit of Rock
+ID: 9305210 NAME: Metal Golem
+ID: 9305211 NAME: Eliza
+ID: 9305212 NAME: Jr. Balrog
+ID: 9305213 NAME: Nine-Tailed Fox
+ID: 9305214 NAME: Xerxes
+ID: 9305215 NAME: Deo
+ID: 9305216 NAME: Zeno
+ID: 9305217 NAME: Timer
+ID: 9305218 NAME: Snack Bar
+ID: 9305219 NAME: Tae Roon
+ID: 9305220 NAME: Papa Pixie
+ID: 9305221 NAME: Alishar
+ID: 9305222 NAME: Lord Pirate
+ID: 9305223 NAME: Deet and Roi
+ID: 9305224 NAME: Frankenroid
+ID: 9305225 NAME: Chimera
+ID: 9305226 NAME: Poison Golem
+ID: 9305227 NAME: King Sage Cat
+ID: 9305228 NAME: Giant Centipede
+ID: 9305229 NAME: Crimson Balrog
+ID: 9305230 NAME: Manon
+ID: 9305231 NAME: Griffey
+ID: 9305232 NAME: Snowman
+ID: 9305233 NAME: Papulatus
+ID: 9305234 NAME: Ani
+ID: 9305235 NAME: Leviathan
+ID: 9305236 NAME: Dodo
+ID: 9305237 NAME: Lilynouch
+ID: 9305238 NAME: Lyka
+ID: 9305239 NAME: Mu Gong
+ID: 9305300 NAME: Mano
+ID: 9305301 NAME: Mushmom
+ID: 9305302 NAME: Stumpy
+ID: 9305303 NAME: Blue Mushmom
+ID: 9305304 NAME: Zombie Mushmom
+ID: 9305305 NAME: King Slime
+ID: 9305306 NAME: Dyle
+ID: 9305307 NAME: King Clang
+ID: 9305308 NAME: Faust
+ID: 9305309 NAME: Spirit of Rock
+ID: 9305310 NAME: Metal Golem
+ID: 9305311 NAME: Eliza
+ID: 9305312 NAME: Jr. Balrog
+ID: 9305313 NAME: Nine-Tailed Fox
+ID: 9305314 NAME: Xerxes
+ID: 9305315 NAME: Deo
+ID: 9305316 NAME: Zeno
+ID: 9305317 NAME: Timer
+ID: 9305318 NAME: Snack Bar
+ID: 9305319 NAME: Tae Roon
+ID: 9305320 NAME: Papa Pixie
+ID: 9305321 NAME: Alishar
+ID: 9305322 NAME: Lord Pirate
+ID: 9305323 NAME: Deet and Roi
+ID: 9305324 NAME: Frankenroid
+ID: 9305325 NAME: Chimera
+ID: 9305326 NAME: Poison Golem
+ID: 9305327 NAME: King Sage Cat
+ID: 9305328 NAME: Giant Centipede
+ID: 9305329 NAME: Crimson Balrog
+ID: 9305330 NAME: Manon
+ID: 9305331 NAME: Griffey
+ID: 9305332 NAME: Snowman
+ID: 9305333 NAME: Papulatus
+ID: 9305334 NAME: Ani
+ID: 9305335 NAME: Leviathan
+ID: 9305336 NAME: Dodo
+ID: 9305337 NAME: Lilynouch
+ID: 9305338 NAME: Lyka
+ID: 9305339 NAME: Mu Gong
+ID: 9305400 NAME: Skeledog
+ID: 9305401 NAME: Pyramid Skeleton
+ID: 9305402 NAME: Giant Scorpion
+ID: 9305403 NAME: Pyramid Skeleton
+ID: 9305404 NAME: Skeledog
+ID: 9305405 NAME: Giant Scorpion
+ID: 9305406 NAME: Horus
+ID: 9305407 NAME: Advisor Mummy
+ID: 9305408 NAME: Pharaoh Yeti
+ID: 9305409 NAME: Mummydog
+ID: 9305410 NAME: Pyramid Skeleton Commander
+ID: 9305411 NAME: Horus
+ID: 9305412 NAME: Giant Scorpion
+ID: 9305413 NAME: Pharaoh Snake
+ID: 9305414 NAME: Pyramid Skeleton Commander
+ID: 9305415 NAME: Advisor Mummy
+ID: 9305416 NAME: Mummydog
+ID: 9305417 NAME: Horus
+ID: 9305418 NAME: Giant Scorpion
+ID: 9305419 NAME: Pyramid Skeleton Commander
+ID: 9305420 NAME: Advisor Mummy
+ID: 9305421 NAME: Pharaoh Snake
+ID: 9305422 NAME: Pharoah Mummy
+ID: 9305500 NAME: Skeledog
+ID: 9305501 NAME: Pyramid Skeleton
+ID: 9305502 NAME: Giant Scorpion
+ID: 9305503 NAME: Pyramid Skeleton
+ID: 9305504 NAME: Skeledog
+ID: 9305505 NAME: Giant Scorpion
+ID: 9305506 NAME: Horus
+ID: 9305507 NAME: Advisor Mummy
+ID: 9305508 NAME: Pharaoh Yeti
+ID: 9305509 NAME: Mummydog
+ID: 9305510 NAME: Pyramid Skeleton Commander
+ID: 9305511 NAME: Horus
+ID: 9305512 NAME: Giant Scorpion
+ID: 9305513 NAME: Pharaoh Snake
+ID: 9305514 NAME: Pyramid Skeleton Commander
+ID: 9305515 NAME: Advisor Mummy
+ID: 9305516 NAME: Mummydog
+ID: 9305517 NAME: Horus
+ID: 9305518 NAME: Giant Scorpion
+ID: 9305519 NAME: Pyramid Skeleton Commander
+ID: 9305520 NAME: Advisor Mummy
+ID: 9305521 NAME: Pharaoh Snake
+ID: 9305522 NAME: Pharoah Mummy
+ID: 9302000 NAME: Golden Pig
+ID: 9302001 NAME: Golden Pig
+ID: 9302002 NAME: Golden Pig
+ID: 9302003 NAME: Golden Pig
+ID: 9302004 NAME: Golden Pig
+ID: 9302005 NAME: Golden Pig
+ID: 9302006 NAME: Golden Pig
+ID: 9302007 NAME: Golden Pig
+ID: 9302008 NAME: Golden Pig
+ID: 9302009 NAME: Golden Pig
+ID: 9302010 NAME: Golden Pig
+ID: 100130 NAME: Muru
+ID: 100131 NAME: Murupa
+ID: 100132 NAME: Murupia
+ID: 100133 NAME: Murumuru
+ID: 100134 NAME: Murukun
+ID: 100200 NAME: Starfish
+ID: 9400609 NAME: Andras
+ID: 9400610 NAME: Amdusias
+ID: 9400611 NAME: Crocell
+ID: 9400612 NAME: Marbas
+ID: 9400613 NAME: Valefor
+ID: 9400614 NAME: Strange Orange Mushroom
+ID: 9400615 NAME: Strange Ribbon Pig
+ID: 9400616 NAME: Strange Green Mushroom
+ID: 9400617 NAME: Strange Pig
+ID: 9400618 NAME: Strange Dark Axe Stump
+ID: 9400619 NAME: Strange Zombie Mushroom
+ID: 9400620 NAME: Strange Dark Stump
+ID: 9400621 NAME: Strange Horny Mushroom
+ID: 9400622 NAME: Strange Blue Mushroom
+ID: 9400623 NAME: Amdusias
+ID: 9400633 NAME: Astaroth
+ID: 9400645 NAME: Totem1
+ID: 9400646 NAME: Totem2
+ID: 9400647 NAME: A Parasite
+ID: 9400634 NAME: Frog
+ID: 9400635 NAME: Cursed Frog
+ID: 9400636 NAME: Black Cat
+ID: 9400637 NAME: Cursed Black Cat
+ID: 9400638 NAME: Rotting Skeleton
+ID: 9400639 NAME: Dead Scarecrow
+ID: 9400640 NAME: Twisted Jester
+ID: 9400641 NAME: Olivia
+ID: 9400642 NAME: Olivia
+ID: 9400643 NAME: Olivia
+ID: 9400644 NAME: Malady
+ID: 9400648 NAME: Possessed Bear Doll
+ID: 9400649 NAME: Possessed Rabbit Doll
+ID: 9400650 NAME: Possessed Bear Doll
+ID: 9400651 NAME: Possessed Rabbit Doll
+ID: 9400652 NAME: Possessed Bear Doll
+ID: 9400653 NAME: Possessed Rabbit Doll
+ID: 9400654 NAME: Event Pink Bean
+ID: 9400655 NAME: Strange Orange Mushroom
+ID: 9400656 NAME: Strange Ribbon Pig
+ID: 9400657 NAME: Strange Green Mushroom
+ID: 3300000 NAME: Renegade Spores
+ID: 3300001 NAME: Poison Mushroom
+ID: 3300002 NAME: Intoxicated Pig
+ID: 3300003 NAME: Helmet Pepe
+ID: 3300004 NAME: Royal Guard Pepe
+ID: 3300005 NAME: Grey Yeti and King Pepe
+ID: 3300006 NAME: Gold Yeti and King Pepe
+ID: 3300007 NAME: White Yeti and King Pepe
+ID: 3300008 NAME: Prime Minister
+ID: 9101000 NAME: Green Mushroom
+ID: 9101001 NAME: Zombie Mushroom
+ID: 9101002 NAME: Ghost Stump
+ID: 9700000 NAME: Subway Slime
+ID: 9700001 NAME: Subway Orange Mushroom
+ID: 9700002 NAME: Subway Ribbon Pig
+ID: 9700003 NAME: Subway Horny Mushroom
+ID: 9700004 NAME: Pyramid Mummydog
+ID: 9700005 NAME: Pyramid Skeleton
+ID: 9700006 NAME: Mummy
+ID: 9700007 NAME: Pharaoh Snake
+ID: 9700008 NAME: Anubis
+ID: 9700009 NAME: Pyramid Mummydog
+ID: 9700010 NAME: Pyramid Skeleton
+ID: 9700011 NAME: Mummy
+ID: 9700012 NAME: Pharaoh Snake
+ID: 9700013 NAME: Anubis
+ID: 9700014 NAME: Pyramid Mummydog
+ID: 9700015 NAME: Pyramid Skeleton
+ID: 9700017 NAME: Pharaoh Snake
+ID: 9700016 NAME: Mummy
+ID: 9700018 NAME: Anubis
+ID: 9700019 NAME: Pharaoh Jr. Yeti
+ID: 9700020 NAME: Metro Bubbling
+ID: 9700021 NAME: Pharaoh Yeti
+ID: 9700022 NAME: Transparent Pharaoh Yeti
+ID: 9700023 NAME: Transparent Pharaoh Yeti
+ID: 9700024 NAME: Pyramid Mummydog
+ID: 9700025 NAME: Pyramid Skeleton
+ID: 9700026 NAME: Mummy
+ID: 9700027 NAME: Pharaoh Snake
+ID: 9700028 NAME: Anubis
+ID: 9700029 NAME: Pharaoh Jr. Yeti
+ID: 8220008 NAME: Unknow Snack Bar
+ID: 9001012 NAME: Scarred Bear
+ID: 9101003 NAME: Lord Balrog
+ID: 1210111 NAME: Strange Pig
+ID: 2220110 NAME: Crying Blue Mushroom
+ID: 2230112 NAME: Terrified Wild Boar
+ID: 2230113 NAME: Surgeon Eye
+ID: 2230114 NAME: Muddy Swamp Monster
+ID: 2230115 NAME: Muddy Sprout Monster
+ID: 3400000 NAME: Cherry Bubble Tea
+ID: 3400001 NAME: Mango Bubble Tea
+ID: 3400002 NAME: Melon Bubble Tea
+ID: 3400003 NAME: Yeti Doll Claw Game
+ID: 3400004 NAME: Yeti Doll  
+ID: 3400005 NAME: Jr. Pepe Doll Claw Game
+ID: 3400006 NAME: Jr. Pepe Doll  
+ID: 3400007 NAME: Transformed Doll Claw Game
+ID: 3400008 NAME: Transformed Doll Claw Game
+ID: 4300000 NAME: Blue Perfume
+ID: 4300001 NAME: Blue Perfume
+ID: 4300002 NAME: Yellow Perfume
+ID: 4300003 NAME: Yellow Perfume
+ID: 4300004 NAME: Pink Perfume
+ID: 4300005 NAME: Pink Perfume
+ID: 4300006 NAME: Kid Mannequin
+ID: 4300007 NAME: Female Mannequin
+ID: 4300008 NAME: Male Mannequin
+ID: 4300009 NAME: Latest Hits Compilation
+ID: 4300010 NAME: Greatest Oldies
+ID: 4300011 NAME: Cheap Amplifier
+ID: 9400800 NAME: Legendary Black Dragon
+ID: 4300012 NAME: Fancy Amplifier
+ID: 4300013 NAME: Spirit of Rock
+ID: 4300014 NAME: Greatest Oldies
+ID: 4300015 NAME: Cheap Amplifier
+ID: 4300016 NAME: Fancy Amplifier 
+ID: 4300017 NAME: Spirit of Rock's Soul
+ID: 7120100 NAME: Gatekeeper Nex
+ID: 7120101 NAME: Gatekeeper Nex
+ID: 7120102 NAME: Gatekeeper Nex
+ID: 7120103 NAME: Red Slime
+ID: 7120104 NAME: Silver Slime
+ID: 7120105 NAME: Gold Slime
+ID: 7120106 NAME: Overlord A
+ID: 7120107 NAME: Overlord B
+ID: 7120108 NAME: Robby
+ID: 7120109 NAME: Iruvata
+ID: 7220003 NAME: Bergamot
+ID: 7220004 NAME: Bergamot
+ID: 7220005 NAME: Bergamot
+ID: 8120100 NAME: Gatekeeper Nex
+ID: 8120101 NAME: Gatekeeper Nex
+ID: 8120102 NAME: Afterlord
+ID: 8120103 NAME: Prototype Lord
+ID: 8120104 NAME: Maverick Type A
+ID: 8120105 NAME: Maverick Type S
+ID: 8120106 NAME: Maverick Type D
+ID: 8120107 NAME: Maverick Type D
+ID: 8140510 NAME: Gatekeeper Nex
+ID: 8140511 NAME: Imperial Guard
+ID: 8140512 NAME: Royal Guard
+ID: 8220010 NAME: Dunas
+ID: 8220011 NAME: Aufheben
+ID: 8220012 NAME: Oberon
+ID: 8220013 NAME: Nibelung
+ID: 8220014 NAME: Nibelung
+ID: 8220015 NAME: Nibelung
+ID: 9300385 NAME: Treacherous Fox
+ID: 9300386 NAME: Trainee Spore
+ID: 9300387 NAME: Enraged Golem
+ID: 9300388 NAME: Free Spirit  
+ID: 9300389 NAME: Safe Guard
+ID: 9300390 NAME: Door Block
+ID: 9300391 NAME: Ice Wall
+ID: 9300392 NAME: Black Wing Henchman
+ID: 9300393 NAME: Gentleman
+ID: 9700030 NAME: Seaman Recruit Ghost
+ID: 9700031 NAME: Seaman Apprentice Ghost
+ID: 9700032 NAME: Lieutenant Ghost
+ID: 9700033 NAME: 1st Lieutenant Ghost
+ID: 9700034 NAME: Lieutenant Commander Ghost
+ID: 9700035 NAME: First Officer
+ID: 9700036 NAME: Wooden Box
+ID: 9700037 NAME: Ghost Ship Captain
+ID: 9700038 NAME: Ghost Ship Captain Spirit
+ID: 9800000 NAME: Stone Golem
+ID: 9800001 NAME: Dark Stone Golem
+ID: 9800002 NAME: Mixed Golem
+ID: 9800003 NAME: Metal Golem
+ID: 9800004 NAME: Latest Hits Compilation
+ID: 9800005 NAME: Greatest Oldies
+ID: 9800006 NAME: Cheap Amplifier
+ID: 9800007 NAME: Fancy Amplifier
+ID: 9800008 NAME: Spirit of Rock
+ID: 9800009 NAME: Crimson Rock
+ID: 9800010 NAME: Dark Jr. Yeti
+ID: 9800011 NAME: Dark Pepe
+ID: 9800012 NAME: Hector
+ID: 9800013 NAME: White Fang
+ID: 9800014 NAME: Yeti
+ID: 9800015 NAME: Dark Yeti
+ID: 9800016 NAME: Snow Witch
+ID: 9800017 NAME: Seacle
+ID: 9800018 NAME: Cico
+ID: 9800019 NAME: Krip
+ID: 9800020 NAME: Mask Fish
+ID: 9800021 NAME: Clang
+ID: 9800022 NAME: King Clang
+ID: 9800023 NAME: King Clang
+ID: 9800024 NAME: Seruf
+ID: 9800025 NAME: Seruf
+ID: 9800026 NAME: Red Drake
+ID: 9800027 NAME: Ice Drake
+ID: 9800028 NAME: Dark Drake
+ID: 9800029 NAME: Tauromacis
+ID: 9800030 NAME: Taurospear
+ID: 9800031 NAME: Jr. Balrog
+ID: 9800032 NAME: Hodori
+ID: 9800033 NAME: Three-Tailed Fox
+ID: 9800034 NAME: Hogul
+ID: 9800035 NAME: Blin
+ID: 9800036 NAME: Blin
+ID: 9800037 NAME: Scholar Ghost
+ID: 9800038 NAME: Nine-Tailed Fox
+ID: 9800039 NAME: Plateon
+ID: 9800040 NAME: Mecateon
+ID: 9800041 NAME: Machine MT-09
+ID: 9800042 NAME: Ultra Gray
+ID: 9800043 NAME: Chief Gray
+ID: 9800044 NAME: Zeno
+ID: 9800045 NAME: Rurumo
+ID: 9800046 NAME: Roid
+ID: 9800047 NAME: Neo Huroid
+ID: 9800048 NAME: Security Camera
+ID: 9800049 NAME: D. Roy
+ID: 9800050 NAME: Deet and Roi
+ID: 9800051 NAME: Mossy Snail
+ID: 9800052 NAME: Tree Rod
+ID: 9800053 NAME: Mossy Mushroom
+ID: 9800054 NAME: Primitive Boar
+ID: 9800055 NAME: Stone Bug
+ID: 9800056 NAME: Poison Golem
+ID: 9800057 NAME: Poison Golem
+ID: 9800058 NAME: Poison Golem
+ID: 9800059 NAME: Wooden Target Dummy
+ID: 9800060 NAME: Bamboo Warrior
+ID: 9800061 NAME: Grizzly
+ID: 9800062 NAME: Panda
+ID: 9800063 NAME: Tae Roon
+ID: 9800064 NAME: Sage Cat
+ID: 9800065 NAME: King Sage Cat
+ID: 9800066 NAME: Giant Centipede
+ID: 9800067 NAME: Dark Klock
+ID: 9800068 NAME: Death Teddy
+ID: 9800069 NAME: Phantom Watch
+ID: 9800070 NAME: Grim Phantom Watch
+ID: 9800071 NAME: Gate Keeper
+ID: 9800072 NAME: Thanatos
+ID: 9800073 NAME: Overlord A
+ID: 9800074 NAME: Afterlord
+ID: 9800075 NAME: Bergamot
+ID: 9800076 NAME: Bergamot
+ID: 9800077 NAME: Bergamot
+ID: 9800078 NAME: Maverick Type A
+ID: 9800079 NAME: Maverick Type S
+ID: 9800080 NAME: Imperial Guard
+ID: 9800081 NAME: Royal Guard
+ID: 9800082 NAME: Nibelung
+ID: 9800083 NAME: Nibelung
+ID: 9800084 NAME: Nibelung
+ID: 9800085 NAME: Werewolf
+ID: 9800086 NAME: Lycanthrope
+ID: 9800087 NAME: Coolie Zombie
+ID: 9800088 NAME: Minor Zombie
+ID: 9800089 NAME: Fire Poison
+ID: 9800090 NAME: Riche
+ID: 9800091 NAME: Eregos
+ID: 9800092 NAME: Crocky the Gatekeeper
+ID: 9800093 NAME: Reindeer
+ID: 9800094 NAME: Blood Reindeer
+ID: 9800095 NAME: Bearwolf
+ID: 9800096 NAME: Grey Vulture
+ID: 9800097 NAME: Castle Golem
+ID: 9800098 NAME: Prison Guard Boar
+ID: 9800099 NAME: Ani
+ID: 9800100 NAME: Red Dragon Turtles
+ID: 9800101 NAME: Dark Cornian
+ID: 9800102 NAME: Red Wyvern
+ID: 9800103 NAME: Blue Wyvern
+ID: 9800104 NAME: Dark Wyvern
+ID: 9800105 NAME: Leviathan
+ID: 9800106 NAME: Qualm Monk
+ID: 9800107 NAME: Qualm Guardian
+ID: 9800108 NAME: Dodo
+ID: 9800109 NAME: Lilynouch
+ID: 9800110 NAME: Oblivion Monk Trainee
+ID: 9800111 NAME: Oblivion Guard
+ID: 9800112 NAME: Chief Oblivion Guardian
+ID: 9800113 NAME: Lyka
+ID: 9800114 NAME: Knight A
+ID: 9800115 NAME: Knight B
+ID: 9800116 NAME: Knight C
+ID: 9800117 NAME: Knight D
+ID: 9800118 NAME: Knight E
+ID: 9800119 NAME: Chief Knight of Darkness
+ID: 9800120 NAME: Chief Knight of Darkness
+ID: 9800121 NAME: Ifrit
+ID: 9800122 NAME: Chief Knight of Darkness
+ID: 9800123 NAME: Chief Knight of Darkness
+ID: 9800124 NAME: Chief Knight of Darkness
+ID: 2100108 NAME: Meerkat
+ID: 8300000 NAME: Soaring Hawk 
+ID: 8300001 NAME: Soaring Eagle
+ID: 8300002 NAME: Soaring Red Wyvern 
+ID: 8300003 NAME: Soaring Blue Wyvern 
+ID: 8300004 NAME: Soaring Black Wyvern 
+ID: 8300005 NAME: Soaring Griffey
+ID: 8300006 NAME: Dragonoir
+ID: 8300007 NAME: Dragon Rider
+ID: 9101004 NAME: Blue Mushroom
+ID: 9300394 NAME: Delinquent Rudolph
+ID: 9300395 NAME: Watchmen Crew
+ID: 9300396 NAME: Watchmen Captain
+ID: 9500374 NAME: Green Cornian
+ID: 9500375 NAME: Dark Cornian
+ID: 9500376 NAME: Jr. Newtie
+ID: 9500377 NAME: Nest Golem
+ID: 9500378 NAME: Blue Dragon Turtle
+ID: 9500379 NAME: Red Dragon Turtle 
+ID: 9500380 NAME: Skelegon
+ID: 9500381 NAME: Skelosaurus
+ID: 9500382 NAME: Leviathan
+ID: 9990000 NAME: No Element
+ID: 9990001 NAME: Mammal
+ID: 9990002 NAME: Plant
+ID: 9990003 NAME: Fish
+ID: 9990004 NAME: Reptile
+ID: 9990005 NAME: Spirit
+ID: 9990006 NAME: Devil
+ID: 9990007 NAME: Immortal
+ID: 9990008 NAME: Enchanted
+ID: 9990009 NAME: Boss
+ID: 9990010 NAME: Fireball
+ID: 9990011 NAME: Blizzard
+ID: 9990012 NAME: Lightning
+ID: 9990013 NAME: Poison
+ID: 9990014 NAME: Holy
+ID: 9990015 NAME: Darkness
+ID: 9400658 NAME: Imperial Guard Type A
+ID: 9400659 NAME: Dunas Type D
+ID: 9400660 NAME: Royal Guard Type S
+ID: 9400661 NAME: Afterlord Type A
+ID: 9409011 NAME: Wild Monkey
+ID: 9409012 NAME: Mama Monkey
+ID: 9409013 NAME: White Baby Monkey
+ID: 9409014 NAME: White Mama Monkey
+ID: 9409015 NAME: Blue Goblin
+ID: 9409016 NAME: Red Goblin
+ID: 9409017 NAME: Strong Stone Goblin
+ID: 9409018 NAME: Ravana
+ID: 9409019 NAME: Red Mask
+ID: 9409020 NAME: Zombuddy
+ID: 9409021 NAME: Bully
+ID: 9101005 NAME: Ravana
+ID: 9101006 NAME: Mano
+ID: 9101007 NAME: Stumpy
+ID: 9101008 NAME: Dyle
+ID: 9101009 NAME: Faust
+ID: 9101010 NAME: King Clang
+ID: 9101011 NAME: Nine-Tailed Fox
+ID: 9101012 NAME: Zeno
+ID: 9500383 NAME: Wild Monkey
+ID: 9500384 NAME: Mama Monkey
+ID: 9500385 NAME: White Baby Monkey
+ID: 9500386 NAME: White Mama Monkey
+ID: 9500387 NAME: Blue Goblin
+ID: 9500388 NAME: Red Goblin
+ID: 9500389 NAME: Strong Stone Goblin
+ID: 9500390 NAME: Ravana
+ID: 9500391 NAME: Ravana
+ID: 9500392 NAME: Ravana
+ID: 9500393 NAME: Blue Goblin
+ID: 9500394 NAME: Red Goblin
+ID: 9500395 NAME: Strong Stone Goblin
+ID: 8800100 NAME: Chaos Zakum
+ID: 8800101 NAME: Chaos Zakum
+ID: 8800102 NAME: Chaos Zakum
+ID: 8800103 NAME: Chaos Zakum Arm 1
+ID: 8800104 NAME: Chaos Zakum Arm 2
+ID: 8800105 NAME: Chaos Zakum Arm 3
+ID: 8800106 NAME: Chaos Zakum Arm 4
+ID: 8800107 NAME: Chaos Zakum Arm 5
+ID: 8800108 NAME: Chaos Zakum Arm 6
+ID: 8800109 NAME: Chaos Zakum Arm 7
+ID: 8800110 NAME: Chaos Zakum Arm 8
+ID: 8800111 NAME: Chaos Boogie
+ID: 8800112 NAME: Chaos Puko
+ID: 8800113 NAME: Chaos Poonko
+ID: 8800114 NAME: Chaos Kusko
+ID: 8800115 NAME: Chaos Ooparts
+ID: 8800116 NAME: Chaos Patz
+ID: 8810100 NAME: Chaos Horntail's Left Head
+ID: 8810101 NAME: Chaos Horntail's Right Head
+ID: 8810102 NAME: Chaos Horntail's Head A
+ID: 8810103 NAME: Chaos Horntail's Head B
+ID: 8810104 NAME: Chaos Horntail's Head C 
+ID: 8810105 NAME: Chaos Horntail's Left Hand
+ID: 8810106 NAME: Chaos Horntail's Right Hand
+ID: 8810107 NAME: Chaos Horntail's Wings
+ID: 8810108 NAME: Chaos Horntail's Legs
+ID: 8810109 NAME: Chaos Horntail's Tail
+ID: 8810118 NAME: Chaos Horntail
+ID: 8810119 NAME: Chaos Horntail
+ID: 8810120 NAME: Chaos Horntail
+ID: 8810121 NAME: Chaos Horntail
+ID: 8810122 NAME: Chaos Horntail
+ID: 8810123 NAME: Chaos Red Wyvern
+ID: 8810124 NAME: Chaos Blue Wyvern
+ID: 8810125 NAME: Chaos Dark Wyvern
+ID: 8810126 NAME: Chaos Green Cornian
+ID: 8810127 NAME: Chaos Dark Cornian
+ID: 8810128 NAME: Summon Chaos Horntail's Left Head
+ID: 8810129 NAME: Summon Chaos Horntail's Right Head
+ID: 8810130 NAME: Summon Chaos Horntail
+ID: 8890000 NAME: Black Mage's Henchman A
+ID: 8890001 NAME: Black Mage's Henchman A
+ID: 8890002 NAME: Black Mage's Henchman B
+ID: 9001015 NAME: Shadow Dual Blade
+ID: 9001016 NAME: Giant Shadow Blade
+ID: 9001017 NAME: Shadow Blade Lord
+ID: 9001018 NAME: Giant Blade Master
+ID: 9001019 NAME: Secret Room Guardian Doll
+ID: 9001020 NAME: Straw Training Doll
+ID: 9001021 NAME: Wooden Training Doll
+ID: 9001022 NAME: Training Jar
+ID: 9001023 NAME: Training Bellflower
+ID: 9001024 NAME: Primitive Thief Boar
+ID: 9001025 NAME: Kenta's Freezer
+ID: 9001026 NAME: Kenta's Seruf
+ID: 9001027 NAME: Decaying Coolie Zombie
+ID: 9001028 NAME: Secret Master Soul Teddy
+ID: 9001029 NAME: Ship Captain
+ID: 9001030 NAME: Ship Kru
+ID: 9001031 NAME: Schiller
+ID: 9001032 NAME: Energy Conducting Device
+ID: 9001033 NAME: Bomb
+ID: 9001034 NAME: Attacking Android
+ID: 9001035 NAME: Poison Gas Generator
+ID: 9001036 NAME: Strange Monster
+ID: 9001037 NAME: Mastema
+ID: 9001038 NAME: Mastema
+ID: 9001039 NAME: Past Self
+ID: 9001040 NAME: Past Self
+ID: 9001041 NAME: Past Self
+ID: 9001042 NAME: Past Self
+ID: 9001043 NAME: Manon, Herald of Heroes
+ID: 9001044 NAME: Griffey Herald of Heroes
+ID: 9300408 NAME: Gold Captain
+ID: 9300409 NAME: Training Robot A
+ID: 9300410 NAME: Training Robot B
+ID: 9300411 NAME: Training Robot C
+ID: 9300412 NAME: Training Robot O
+ID: 9300413 NAME: Training Robot Force
+ID: 9300414 NAME: Suspicious Thief
+ID: 9300415 NAME: Surl
+ID: 9300416 NAME: Rowdy Puppet
+ID: 9300417 NAME: Eleanor's Cockatrice
+ID: 9300418 NAME: Fabio's Firebomb
+ID: 9300419 NAME: Mansion Guard Robot
+ID: 9300420 NAME: Emergency Guard Robot L
+ID: 9300421 NAME: Even More Suspicious Thief
+ID: 9300422 NAME: Slime
+ID: 9300423 NAME: Puppetree
+ID: 9300424 NAME: Puppetree 2
+ID: 9300425 NAME: Puppetree 3
+ID: 9300426 NAME: Zombie Mushmom
+ID: 9300427 NAME: Master of Disguise
+ID: 9300428 NAME: Black Wing Henchman
+ID: 9300429 NAME: Black Wing Henchman
+ID: 9300430 NAME: Black Wing Henchman
+ID: 9300431 NAME: Mu Young
+ID: 9300432 NAME: Dargoth
+ID: 9300433 NAME: Black Wing Henchman
+ID: 9300434 NAME: Black Wing Henchman
+ID: 9300435 NAME: Orchid
+ID: 9300436 NAME: Jr. Balrog
+ID: 9300437 NAME: Jelly Fish
+ID: 9300438 NAME: Iceman
+ID: 9300439 NAME: White Fang
+ID: 9300440 NAME: Hector
+ID: 9300441 NAME: Iceman
+ID: 9300442 NAME: Ice Knight
+ID: 9300443 NAME: Bone Fish
+ID: 9300444 NAME: Squid
+ID: 9300445 NAME: Risell Squid
+ID: 9300446 NAME: Shark
+ID: 9300447 NAME: Cold Shark
+ID: 9300448 NAME: Bloody Boom
+ID: 9300449 NAME: Blood Reindeer
+ID: 9300450 NAME: Grey Vulture
+ID: 9300451 NAME: Castle Golem
+ID: 9300452 NAME: Prison Guard Boar
+ID: 9300453 NAME: Prison Guard Rhino
+ID: 9300454 NAME: Prison Guard Ani
+ID: 9300455 NAME: Lyka
+ID: 9300456 NAME: Black Wing Spy
+ID: 9300457 NAME: Suspicious Magician
+ID: 9300458 NAME: Suspicious Magician Leader
+ID: 9300459 NAME: Moon Bunny
+ID: 9300460 NAME: Kenta
+ID: 9300461 NAME: Pianus
+ID: 9300462 NAME: Shark
+ID: 9300463 NAME: Cold Shark
+ID: 9300464 NAME: Ice Knight
+ID: 9300465 NAME: Ice Knight
+ID: 9300466 NAME: Transparent Mob
+ID: 9300468 NAME: Pianus
+ID: 9300469 NAME: Bloody Boom
+ID: 9500401 NAME: 6th Anniversary Balloon
+ID: 9500402 NAME: Mischievous Orange Mushroom
+ID: 9500403 NAME: Mischievous Ribbon Pig
+ID: 9500404 NAME: Ad Balloon Die
+ID: 9500405 NAME: Ad Balloon Attack
+ID: 9500406 NAME: Carriage Ghost
+ID: 9500407 NAME: Graveyard Stirge
+ID: 9500422 NAME: Megran
+ID: 9500423 NAME: Mouse Trap
+ID: 9500424 NAME: Storage Ratz
+ID: 9500425 NAME: Transparent Storage Ratz
+ID: 9420065 NAME: Ultimate Visitor
+ID: 9420066 NAME: Ultimate Visitor
+ID: 9420067 NAME: Ultimate Visitor
+ID: 9420068 NAME: Ultimate Visitor
+ID: 9420069 NAME: OS3D Diver
+ID: 9420070 NAME: OS3M Miner
+ID: 9420071 NAME: OS3A Machine
+ID: 9420072 NAME: OS4 Shuttle
+ID: 9420073 NAME: OS4 Delivery Ship
+ID: 9420074 NAME: Randall Machine
+ID: 9420075 NAME: Researcher H
+ID: 9420076 NAME: OS4 Delivery Ship
+ID: 9420077 NAME: Randall Machine
+ID: 9420078 NAME: Scientist Who Could Be Abducted
+ID: 9420079 NAME: Scientist Who Could Be Abducted
+ID: 9420080 NAME: Scientist Who Could Be Abducted
+ID: 9420081 NAME: Present Fake Scientist Abductor Alien
+ID: 9420082 NAME: Present Fake Scientist Abductor Alien
+ID: 9420083 NAME: Present Fake Scientist Abductor Alien
+ID: 9999998 NAME: Smart Manon
+ID: 9420018 NAME: Unidentified Alien
+ID: 9420019 NAME: Unidentified Alien
+ID: 9420020 NAME: Unidentified Alien
+ID: 9420021 NAME: Unidentified Alien
+ID: 9420022 NAME: Unidentified Alien
+ID: 9420023 NAME: Unidentified Alien
+ID: 9420024 NAME: Axe Visitor
+ID: 9420025 NAME: Cleric Visitor
+ID: 9420026 NAME: Sniper Visitor
+ID: 9420027 NAME: Gunner Visitor
+ID: 9420028 NAME: Assassin Visitor
+ID: 9420029 NAME: Spirit Visitor
+ID: 9420030 NAME: Axe Visitor
+ID: 9420031 NAME: Cleric Visitor
+ID: 9420032 NAME: Sniper Visitor
+ID: 9420033 NAME: Gunner Visitor
+ID: 9420034 NAME: Assassin Visitor
+ID: 9420035 NAME: Spirit Visitor
+ID: 9420036 NAME: Axe Visitor
+ID: 9420037 NAME: Cleric Visitor
+ID: 9420038 NAME: Sniper Visitor
+ID: 9420039 NAME: Gunner Visitor
+ID: 9420040 NAME: Assassin Visitor
+ID: 9420041 NAME: Spirit Visitor
+ID: 9420042 NAME: Bully Visitor
+ID: 9420043 NAME: Bully Visitor
+ID: 9420044 NAME: Bully Visitor
+ID: 9420045 NAME: Bully Visitor
+ID: 9420046 NAME: Bully Visitor
+ID: 9420047 NAME: Bully Visitor
+ID: 9420048 NAME: Bully Visitor
+ID: 9420049 NAME: Bully Visitor
+ID: 9420050 NAME: Bully Visitor
+ID: 9420051 NAME: Unjust Visitor
+ID: 9420052 NAME: Unjust Visitor
+ID: 9420053 NAME: Unjust Visitor
+ID: 9420054 NAME: Speedy Visitor
+ID: 9420055 NAME: Speedy Visitor
+ID: 9420056 NAME: Speedy Visitor
+ID: 9420057 NAME: Destroyer
+ID: 9420058 NAME: Destroyer
+ID: 9420059 NAME: Destroyer
+ID: 9420060 NAME: Commander
+ID: 9420061 NAME: Commander
+ID: 9420062 NAME: Commander
+ID: 9420063 NAME: Visitor Bomb
+ID: 9420064 NAME: Unwelcome Guest Bomb
+ID: 9420084 NAME: Scientist Abductor Alien
+ID: 9420085 NAME: Unidentified Powerful Alien
+ID: 9420086 NAME: Powerful Alien Summoning Cube
+ID: 9420087 NAME: Powerful Alien Soldier
+ID: 9420088 NAME: Alien That Appeared
+ID: 9420089 NAME: Alien That Appeared Summoner
+ID: 9420090 NAME: Axe Visitor
+ID: 9420091 NAME: Visitor Time Bomb
+ID: 9420092 NAME: Sniper Visitor
+ID: 9420093 NAME: Assassin Visitor
+ID: 9420094 NAME: Gunner Visitor
+ID: 9420095 NAME: Gunner Visitor
+ID: 9420096 NAME: Unseen Visitor
+ID: 9420097 NAME: Lighting Cube Clear Check Fake Mob
+ID: 9420098 NAME: Energy Core
+ID: 9420099 NAME: Alien That's Taken Over The Future
+ID: 9420100 NAME: Alien That's Taken Over The Future
+ID: 9420101 NAME: Alien That's Taken Over The Future
+ID: 9420102 NAME: Alien That's Taken Over The Future
+ID: 9420103 NAME: Visitor Time Bomb
+ID: 9420104 NAME: Axe Visitor
+ID: 9420105 NAME: Axe Visitor
+ID: 9420106 NAME: Assassin Visitor
+ID: 9420107 NAME: Assassin Visitor
+ID: 9420108 NAME: Gunner Visitor
+ID: 9420109 NAME: Gunner Visitor
+ID: 9420112 NAME: Unseen Visitor
+ID: 9420113 NAME: Unseen Visitor
+ID: 9420114 NAME: Sniper Visitor
+ID: 9420115 NAME: Sniper Visitor
+ID: 9420116 NAME: Sniper Visitor
+ID: 9420117 NAME: Assassin Visitor
+ID: 9420118 NAME: Assassin Visitor
+ID: 9420119 NAME: Assassin Visitor
+ID: 9420120 NAME: Cleric Visitor
+ID: 9420121 NAME: Cleric Visitor
+ID: 9420122 NAME: Cleric Visitor
+ID: 9420123 NAME: Unidentified Dexterous Alien
+ID: 9420124 NAME: Unidentified Wise Alien
+ID: 9420125 NAME: Unidentified Lucky Alien
+ID: 9420126 NAME: Wise Alien Summoning Cube
+ID: 9420127 NAME: Lucky Alien Summoning Cube
+ID: 9420128 NAME: Wise Alien Soldier
+ID: 9420129 NAME: Lucky Alien Soldier
+ID: 9420130 NAME: Wise Alien Scientist Abductor
+ID: 9420131 NAME: Lucky Alien Scientist Abductor
+ID: 9420132 NAME: Skill for Restraining Visitor Representative
+ID: 9420133 NAME: OSD Diver
+ID: 9420134 NAME: Another Diver Agent
+ID: 9420135 NAME: Another Miner Agent
+ID: 9400400 NAME: Genin
+ID: 9400401 NAME: Chunin
+ID: 9400402 NAME: Jonin
+ID: 9400403 NAME: Ninto
+ID: 9400404 NAME: Ashigaru
+ID: 9400405 NAME: Kacchuu Musha
+ID: 9400406 NAME: Kunoichi
+ID: 9400407 NAME: Toad
+ID: 9400408 NAME: Castellan
+ID: 9400409 NAME: Castellan Toad
+ID: 9400410 NAME: Rock
+ID: 9420514 NAME: Berserkie
+ID: 9420515 NAME: Veetron
+ID: 9420516 NAME: Slygie
+ID: 9420517 NAME: Petrifighter
+ID: 9420518 NAME: Montrecer
+ID: 9420519 NAME: Duku
+ID: 9420520 NAME: Krexel
+ID: 9420521 NAME: Krexel
+ID: 9420522 NAME: Krexel
+ID: 9420523 NAME: Bacal
+ID: 9420524 NAME: Bacal
+ID: 9400758 NAME: Barricade
+ID: 9400759 NAME: Barricade
+ID: 9400760 NAME: Barricade
+ID: 9400761 NAME: Barricade
+ID: 9420525 NAME: Gas Tank
+ID: 9420526 NAME: Broken Wires
+ID: 9400765 NAME: Cake monster
+ID: 9400766 NAME: Cake monster
+ID: 9400767 NAME: Cake monster
+ID: 9400768 NAME: Pie monster
+ID: 9400769 NAME: Pie monster
+ID: 9400770 NAME: Pie monster
+ID: 9400771 NAME: Cake monster
+ID: 9400772 NAME: Cake monster
+ID: 9400773 NAME: Cake monster
+ID: 9400774 NAME: Pie monster
+ID: 9400775 NAME: Pie monster
+ID: 9400776 NAME: Pie monster
+ID: 9400777 NAME: Cake monster
+ID: 9400778 NAME: Cake monster
+ID: 9400779 NAME: Cake monster
+ID: 9400780 NAME: Pie monster
+ID: 9400781 NAME: Pie monster
+ID: 9400783 NAME: Cake monster
+ID: 9400784 NAME: Cake monster
+ID: 9400785 NAME: Cake monster
+ID: 9400786 NAME: Pie monster
+ID: 9400787 NAME: Pie monster
+ID: 9400788 NAME: Pie monster
+ID: 9400789 NAME: Barricade
+ID: 9400782 NAME: Pie monster
+ID: 9101013 NAME: Lv. 13 - 30 Monsters
+ID: 9101014 NAME: Lv. 31 - 50 Monsters
+ID: 9101015 NAME: Lv. 51 - 70 Monsters
+ID: 9101016 NAME: Lv. 71 - 90 Monsters
+ID: 9101017 NAME: Lv. 91 - 110 Monsters
+ID: 9101018 NAME: Lv. 111 - 130 Monsters
+ID: 9101019 NAME: Lv. 131 - 150 Monsters
+ID: 9101020 NAME: Lv. 151+ Monsters
+ID: 9101021 NAME: Monster Park Boss (Under Lv. 70)
+ID: 9101022 NAME: Monster Park Boss (Lv. 70 - 119)
+ID: 9101023 NAME: Monster Park Boss (Lv. 120+)
+ID: 9101024 NAME: Lv. 10 - 30 Monsters
+ID: 9101025 NAME: Monster Within Level Range
+ID: 9101026 NAME: Golden Dream Pig
+ID: 9500006 NAME: Gigantic Boy Moon Bunny
+ID: 9500007 NAME: Gigantic Girl Moon Bunny
+ID: 9500008 NAME: Invisible Gigantic Moon Bunny
+ID: 9500408 NAME: Von Leon
+ID: 9500409 NAME: Prison Guard Boar
+ID: 9500410 NAME: Prison Guard Rhino
+ID: 9500411 NAME: Mini Castle Golem
+ID: 9500412 NAME: Von Leon
+ID: 9500426 NAME: Lv. 20 100 Day Sweetheart Spores
+ID: 9500427 NAME: Lv. 60 Love Grizzly
+ID: 9500428 NAME: Lv. 80 Love Panda
+ID: 9500429 NAME: Lv. 60 Love Panda
+ID: 9500430 NAME: Lv. 80 Love Grizzly
+ID: 9500431 NAME: Lv. 40 100 Day Sweetheart Spores
+ID: 9500432 NAME: Lv. 60 100 Day Sweetheart Spores
+ID: 9500433 NAME: Lv. 80 100 Day Sweetheart Spores
+ID: 9500434 NAME: Lv. 100 100 Day Sweetheart Spores
+ID: 9500435 NAME: Lv. 20 Love Grizzly
+ID: 9500436 NAME: Lv. 40 Love Grizzly
+ID: 9500437 NAME: Lv. 100 Love Grizzly
+ID: 9500438 NAME: Lv. 20 Love Panda
+ID: 9500439 NAME: Lv. 40 Love Panda
+ID: 9500440 NAME: Lv. 100 Love Panda
+ID: 9500441 NAME: Lv. 120 100 Day Sweetheart Spores
+ID: 9500442 NAME: Lv. 140 100 Day Sweetheart Spores
+ID: 9500443 NAME: Lv. 160 100 Day Sweetheart Spores
+ID: 9500444 NAME: Lv. 120 Love Grizzly
+ID: 9500445 NAME: Lv. 140 Love Grizzly
+ID: 9500446 NAME: Lv. 160 Love Grizzly
+ID: 9500447 NAME: Lv. 120 Love Panda
+ID: 9500448 NAME: Lv. 140 Love Panda
+ID: 9500449 NAME: Lv. 160 Love Panda
+ID: 9500450 NAME: Joy Bird
+ID: 9500451 NAME: Star Paparazzi
+ID: 9500452 NAME: Eregos
+ID: 9500453 NAME: Eregos
+ID: 9500454 NAME: Eregos
+ID: 9500455 NAME: Eregos
+ID: 9500456 NAME: Eregos
+ID: 9500457 NAME: Eregos
+ID: 9500458 NAME: Eregos
+ID: 9500459 NAME: Eregos
+ID: 9500460 NAME: Eregos
+ID: 9500461 NAME: Eregos
+ID: 9500462 NAME: Eregos
+ID: 9500463 NAME: Eregos
+ID: 9500464 NAME: Eregos
+ID: 9500465 NAME: Transparent Eregos
+ID: 9500466 NAME: Transparent Eregos
+ID: 9500467 NAME: Transparent Eregos
+ID: 9500468 NAME: Transparent Eregos
+ID: 9500469 NAME: Transparent Eregos
+ID: 9500470 NAME: Transparent Eregos
+ID: 9500471 NAME: Eregos
+ID: 9500472 NAME: Eregos
+ID: 9500473 NAME: Eregos
+ID: 9500474 NAME: Transparent Eregos
+ID: 9500477 NAME: Lv. 20 Calico Mack, the Pirate King
+ID: 9500478 NAME: Lv. 34 Calico Mack, the Pirate King
+ID: 9500479 NAME: Lv. 46 Calico Mack, the Pirate King
+ID: 9500480 NAME: Lv. 55 Calico Mack, the Pirate King
+ID: 9500481 NAME: Lv. 66 Calico Mack, the Pirate King
+ID: 9500482 NAME: Lv. 76 Calico Mack, the Pirate King
+ID: 9500483 NAME: Lv. 85 Calico Mack, the Pirate King
+ID: 9500484 NAME: Lv. 100 Calico Mack, the Pirate King
+ID: 9500485 NAME: Lv. 118 Calico Mack, the Pirate King
+ID: 9500486 NAME: Lv. 135 Calico Mack, the Pirate King
+ID: 9500487 NAME: Lv. 150 Calico Mack, the Pirate King
+ID: 9500488 NAME: Lv. 20 Monster Trainee
+ID: 9500489 NAME: Lv. 34 Monster Trainee
+ID: 9500490 NAME: Lv. 36 Monster Trainee
+ID: 9500491 NAME: Lv. 46 Monster Trainee
+ID: 9500492 NAME: Lv. 50 Monster Trainee
+ID: 9500493 NAME: Lv. 55 Monster Trainee
+ID: 9500494 NAME: Lv. 56 Monster Trainee
+ID: 9500495 NAME: Lv. 66 Monster Trainee
+ID: 9500496 NAME: Lv. 70 Monster Trainee
+ID: 9500497 NAME: Lv. 76 Monster Trainee
+ID: 9500498 NAME: Lv. 83 Monster Trainee
+ID: 9500499 NAME: Lv. 85 Monster Trainee
+ID: 9500500 NAME: Lv. 100 Monster Trainee
+ID: 9500501 NAME: Lv. 118 Monster Trainee
+ID: 9500502 NAME: Lv. 135 Monster Trainee
+ID: 9500503 NAME: Lv. 150 Monster Trainee
+ID: 9500504 NAME: Lv. 140 Monster Trainee
+ID: 9500505 NAME: Lv. 26 Monster Trainee
+ID: 9500506 NAME: Lv. 20 Gigantic Boy Moon Bunny
+ID: 9500507 NAME: Lv. 34 Gigantic Girl Moon Bunny
+ID: 9500508 NAME: Lv. 46 Gigantic Boy Moon Bunny
+ID: 9500509 NAME: Lv. 55 Gigantic Girl Moon Bunny
+ID: 9500510 NAME: Lv. 66 Gigantic Boy Moon Bunny
+ID: 9500511 NAME: Lv. 76 Gigantic Girl Moon Bunny
+ID: 9500512 NAME: Lv. 85 Gigantic Boy Moon Bunny
+ID: 9500513 NAME: Lv. 100 Gigantic Girl Moon Bunny
+ID: 9500514 NAME: Lv. 118 Gigantic Boy Moon Bunny
+ID: 9500515 NAME: Lv. 135 Gigantic Girl Moon Bunny
+ID: 9500516 NAME: Lv. 150 Gigantic Boy Moon Bunny
+ID: 9500517 NAME: Goodie Ball
+ID: 9500518 NAME: Blue Team Tae Roon
+ID: 9500519 NAME: White Team Tae Roon
+ID: 9500520 NAME: Goodie Ball
+ID: 9500521 NAME: Goodie Ball
+ID: 9500522 NAME: Transparent Blue Team Tae Roon 
+ID: 9500523 NAME: Transparent White Team Tae Roon
+ID: 9500524 NAME: Transparent White Team Tae Roon
+ID: 9500525 NAME: Transparent White Team Tae Roon
+ID: 9500526 NAME: 할로윈 펌프킨
+ID: 9500527 NAME: 투명 할로윈 펌프킨
+ID: 9500528 NAME: 곰라큘라
+ID: 9500529 NAME: 박쥐는 사탕을 좋아해
+ID: 9500530 NAME: 쌍둥이 월묘
+ID: 9500531 NAME: 박쥐는 호박을 좋아해
+ID: 9500544 NAME: 할로윈 마녀 고양이
+ID: 9500545 NAME: Ghost
+ID: 9500546 NAME: Green Phantom
+ID: 9500547 NAME: Rideword P
+ID: 9500548 NAME: Rideword Y
+ID: 9500549 NAME: Rideword B
+ID: 9500550 NAME: Busted Doll
+ID: 9500551 NAME: Destroyed Doll
+ID: 9500552 NAME: Jack-o-Lantern
+ID: 9500553 NAME: 호박기사
+ID: 9500554 NAME: Masked Gentleman
+ID: 9500555 NAME: Pumpkin Lock
+ID: 9500556 NAME: Pumpkin Lock
+ID: 9500557 NAME: Pumpkin Lock
+ID: 9500558 NAME: Pumpkin Lock
+ID: 9500559 NAME: Pumpkin Lock
+ID: 9500560 NAME: Rideword P
+ID: 9500561 NAME: Rideword Y
+ID: 9500562 NAME: Rideword B
+ID: 8600000 NAME: Mutant Snail
+ID: 8600001 NAME: Mutant Orange Mushroom
+ID: 8600002 NAME: Mutant Slime
+ID: 8600003 NAME: Mutant Ribbon Pig
+ID: 8600004 NAME: Mutant Tino
+ID: 8600005 NAME: Mutant Tiru
+ID: 8600006 NAME: Mutant Tiguru
+ID: 8610000 NAME: Dawn
+ID: 8610001 NAME: Blaze
+ID: 8610002 NAME: Wind
+ID: 8610003 NAME: Night
+ID: 8610004 NAME: Thunder
+ID: 8610005 NAME: Official Knight A
+ID: 8610006 NAME: Official Knight B
+ID: 8610007 NAME: Official Knight C
+ID: 8610008 NAME: Official Knight D
+ID: 8610009 NAME: Official Knight E
+ID: 8610010 NAME: Advanced Knight A
+ID: 8610011 NAME: Advanced Knight B
+ID: 8610012 NAME: Advanced Knight C
+ID: 8610013 NAME: Advanced Knight D
+ID: 8610014 NAME: Advanced Knight E
+ID: 8610015 NAME: Ifrit
+ID: 8610016 NAME: Watchman
+ID: 8610017 NAME: Watchman
+ID: 8610018 NAME: Watchman
+ID: 8610019 NAME: Watchman
+ID: 8610020 NAME: Watchman
+ID: 8610021 NAME: Watchman
+ID: 8610022 NAME: Official Knight A
+ID: 8610023 NAME: Advanced Knight A
+ID: 8610024 NAME: Advanced Knight B
+ID: 8610025 NAME: Advanced Knight C
+ID: 8610026 NAME: Advanced Knight D
+ID: 8610027 NAME: Advanced Knight E
+ID: 8850000 NAME: Mikhail
+ID: 8850001 NAME: Oz
+ID: 8850002 NAME: Irena
+ID: 8850003 NAME: Eckhart
+ID: 8850004 NAME: Hawkeye
+ID: 8850005 NAME: Mikhail
+ID: 8850006 NAME: Oz
+ID: 8850007 NAME: Irena
+ID: 8850008 NAME: Eckhart
+ID: 8850009 NAME: Hawkeye
+ID: 8850010 NAME: Shinsoo
+ID: 8850011 NAME: Cygnus
+ID: 8850012 NAME: Cygnus
+ID: 9501052 NAME: Airborne User
+ID: 9501053 NAME: Range, Damage over Time
+ID: 9501054 NAME: Transform User
+ID: 9501055 NAME: Explode User
+ID: 9501056 NAME: Counterattack(Aggro, HP Check)
+ID: 8220016 NAME: Corrupted Wyvern
+ID: 8220017 NAME: Corrupted Cornian
+ID: 8220018 NAME: Corrupted Skelegon
+ID: 8220019 NAME: Corrupted Kentaurus
+ID: 8220020 NAME: Corrupted Chief Memory Guardian
+ID: 8220021 NAME: Corrupted Time Monk Trainee
+ID: 8860000 NAME: Arkarium
+ID: 8860001 NAME: Arkarium
+ID: 8860002 NAME: Netherworld Monk
+ID: 8860003 NAME: Duplicate in Twisted Darkness
+ID: 8860004 NAME: Arkarium Clear Check Dummy
+ID: 9300470 NAME: Black Wing Henchman
+ID: 9300471 NAME: Lord Skeleton
+ID: 9300472 NAME: Pixiemom
+ID: 9300473 NAME: Toy Black Knight
+ID: 9300474 NAME: Coco
+ID: 9300475 NAME: Over Timer
+ID: 9300476 NAME: Zeno Eclipse
+ID: 9300477 NAME: Deo Ghameq
+ID: 9300478 NAME: King Centipede
+ID: 9300479 NAME: Master Hoblin
+ID: 9300480 NAME: Master Harp
+ID: 9300481 NAME: Master Birk
+ID: 9300482 NAME: Kentaurus King
+ID: 9300483 NAME: Queen Pepe
+ID: 9300484 NAME: Black Mage's Servant
+ID: 9300485 NAME: Starling
+ID: 9300486 NAME: Crow
+ID: 9300487 NAME: Corrupted Bastille
+ID: 9300488 NAME: Crimson Rock
+ID: 9300489 NAME: Corrupted Bastille
+ID: 9300490 NAME: Attacking Android
+ID: 9300491 NAME: Guwaru's Vestige
+ID: 9300492 NAME: Black Wing Henchmen
+ID: 9300493 NAME: Attacking Android
+ID: 9300495 NAME: Black Wing Henchmen
+ID: 9300496 NAME: Black Wing Henchmen
+ID: 9300497 NAME: Mysterious Crystal
+ID: 8860010 NAME: Arkarium
+ID: 8860009 NAME: Dummy for Checking Purpose
+ID: 8860008 NAME: Dummy for Checking Purpose
+ID: 9400762 NAME: Barricade
+ID: 9400793 NAME: Pie monster
+ID: 9400794 NAME: Pie monster
+ID: 9400795 NAME: Pie monster
+ID: 9400791 NAME: Cake monster
+ID: 9400792 NAME: Cake monster
+ID: 9400790 NAME: Cake monster
+ID: 9400725 NAME: Lord Skeleton
+ID: 9400726 NAME: Pixiemom
+ID: 9400727 NAME: Queen Pepe
+ID: 9400728 NAME: Toy Black Knight
+ID: 9400729 NAME: King Centipede
+ID: 9400730 NAME: Master Hoblin
+ID: 9400731 NAME: Master Harp
+ID: 9400732 NAME: Master Birk
+ID: 9400733 NAME: Kentaurus King
+ID: 9400734 NAME: Coco
+ID: 9400735 NAME: Starling
+ID: 9400736 NAME: Starling
+ID: 9400737 NAME: Starling
+ID: 9400738 NAME: Crow
+ID: 9400739 NAME: Crow
+ID: 9400740 NAME: Crow
+ID: 9400741 NAME: Coco
+ID: 9400742 NAME: (Script Trigger Use)
+ID: 9400796 NAME: Jack-o-Lantern
+ID: 9400797 NAME: Wicked Witch of the Right-Side
+ID: 9400798 NAME: Wicked Witch of the Right-Side
+ID: 9400799 NAME: Turkey
+ID: 9400900 NAME: Pink Zakum
+ID: 9400901 NAME: Pink Zakum
+ID: 9400902 NAME: Pink Zakum
+ID: 9400903 NAME: Zakum's Arm 1
+ID: 9400904 NAME: Zakum's Arm 2
+ID: 9400905 NAME: Zakum's Arm 3
+ID: 9400906 NAME: Zakum's Arm 4
+ID: 9400907 NAME: Zakum's Arm 5
+ID: 9400908 NAME: Zakum's Arm 6
+ID: 9400909 NAME: Zakum's Arm 7
+ID: 9400910 NAME: Zakum's Arm 8
+ID: 9400911 NAME: Zakum's Arm 8
+ID: 9400912 NAME: was Pink bean
+ID: 9400802 NAME: Galacto-Drill
+
+ID: 9400803 NAME: Alien Cog
+
+ID: 9400804 NAME: Alien Cog
+
+ID: 9400805 NAME: Alien Cog
+
+ID: 9400806 NAME: Alien Cog
+
+ID: 9400807 NAME: Alien Miner
+
+ID: 9400808 NAME: Alien Miner
+
+ID: 9400809 NAME: Space Cop
+
+ID: 9400810 NAME: Alien Cog
+
+ID: 9400811 NAME: Alien Miner
+
+ID: 9400812 NAME: Pie Boss
+ID: 9400813 NAME: Cake Boss
+ID: 9999997 NAME: Pie Boss
+ID: 9999996 NAME: Pie Boss

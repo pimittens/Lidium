@@ -422,7 +422,7 @@ public class EventInstanceManager {
             return;
         }
         try {
-            int inc = ((Double) em.getIv().invokeFunction("monsterValue", this, mob.getId())).intValue();
+            int inc = ((Integer) em.getIv().invokeFunction("monsterValue", this, mob.getId()));
             if (disposed || chr == null) {
                 return;
             }

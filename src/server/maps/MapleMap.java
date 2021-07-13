@@ -498,9 +498,9 @@ public final class MapleMap {
                 if (de.getQuestId() > 0 && chr.getQuestStatus(de.getQuestId()) != 1) {
                     continue;
                 }
-                if (de.getItemId() / 10000 == 238 && !mob.getStats().isBoss() && chr.getMonsterBook().getLevelByCard(ii.getCardMobId(de.getItemId())) >= 2) {
+                /*if (de.getItemId() / 10000 == 238 && !mob.getStats().isBoss() && chr.getMonsterBook().getLevelByCard(ii.getCardMobId(de.getItemId())) >= 2) {
                     continue;
-                }
+                }*/
                 if (droptype == 3) {
                     pos.x = (mobpos + (d % 2 == 0 ? (40 * (d + 1) / 2) : -(40 * (d / 2))));
                 } else {
@@ -1654,7 +1654,7 @@ public final class MapleMap {
         final MapleMapItem mdrop = new MapleMapItem(idrop, dropPos, mob, chr, droptype, false, questid);
 
         spawnAndAddRangedMapObject(mdrop, (MapleClient c) -> {
-            if (c != null && c.getPlayer() != null && (questid <= 0 || c.getPlayer().getQuestStatus(questid) == 1) && (idrop.getItemId() / 10000 != 238 || c.getPlayer().getMonsterBook().getLevelByCard(idrop.getItemId()) >= 2) && mob != null && dropPos != null) {
+            if (c != null && c.getPlayer() != null && (questid <= 0 || c.getPlayer().getQuestStatus(questid) == 1) && (idrop.getItemId() / 10000 != 238 || c.getPlayer().getMonsterBook().getLevelByCard(idrop.getItemId()) <= 2) && mob != null && dropPos != null) {
                 c.getSession().write(CField.dropItemFromMapObject(mdrop, mob.getTruePosition(), dropPos, (byte) 1));
             }
         });

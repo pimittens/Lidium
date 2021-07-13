@@ -96,7 +96,7 @@ function allMonstersDead(eim) {
 
     eim.setProperty("points", totalp);
 
-    eim.broadcastPlayerMsg(5, "Your team've gained "+num+" points! With a total of "+totalp+".");
+    eim.broadcastPlayerMsg(5, "Your team gained "+num+" points! With a total of "+totalp+".");
 
     eim.saveBossQuest(num);
 
@@ -104,7 +104,7 @@ function allMonstersDead(eim) {
 	eim.broadcastPlayerMsg(6, "Prepare! The next boss will appear in a glimpse of an eye!");
 } else {
 	eim.saveBossQuest(200);
-	eim.broadcastPlayerMsg(5, "Your team've beaten the EASY mode and have gained an extra 200 points!");
+	eim.broadcastPlayerMsg(5, "Your team has beaten the EASY mode and have gained an extra 200 points!");
     }
 // When invoking unregisterMonster(MapleMonster mob) OR killed
 // Happens only when size = 0

@@ -1600,4 +1600,8 @@ public class MapleMonster extends AbstractLoadedMapleLife {
             stati.put(MonsterStatus.HYPNOTIZE, new MonsterStatusEffect(MonsterStatus.HYPNOTIZE, 60000, 30001062, null, false));
         }
     }
+    
+    public boolean isBoss() {
+        return stats.isBoss();
+    }
 }

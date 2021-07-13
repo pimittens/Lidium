@@ -1,0 +1,1158 @@
+﻿/* GM HANDBOOK */
+//MAPLE TYPE: GMS
+//VERSION: 111
+//IMG NAME: Ins.img
+ID: 3010000 NAME: The Relaxer
+ID: 3010001 NAME: Sky-blue Wooden Chair
+ID: 3010002 NAME: Green Chair
+ID: 3010003 NAME: Red Chair
+ID: 3010004 NAME: The Yellow Relaxer
+ID: 3010005 NAME: The Red Relaxer
+ID: 3010006 NAME: Yellow Chair
+ID: 3010007 NAME: Pink Seal Cushion
+ID: 3010008 NAME: Blue Seal Cushion
+ID: 3010009 NAME: Red Round Chair
+ID: 3010010 NAME: White Seal Cushion
+ID: 3010011 NAME: Amorian Relaxer
+ID: 3010012 NAME: Warrior Throne
+ID: 3010013 NAME: Beach Chair
+ID: 3010014 NAME: Moon Star Chair
+ID: 3010015 NAME: The Red Relaxer
+ID: 3010016 NAME: Grey Seal Cushion
+ID: 3010017 NAME: Gold Seal Cushion
+ID: 3010018 NAME: Palm Tree Beach Chair
+ID: 3010019 NAME: Kadomatsu
+ID: 3010021 NAME: Wooden Tub
+ID: 3010025 NAME: Under the Maple Tree...
+ID: 3010036 NAME: Maple Tree Chair
+ID: 3010038 NAME: Clear Chair
+ID: 3010039 NAME: Black Seal Cushion
+ID: 3010040 NAME: The Stirge Seat
+ID: 3010041 NAME: Skull Throne
+ID: 3010043 NAME: Halloween Broomstick Chair
+ID: 3010044 NAME: Winter Red Chair 
+ID: 3010045 NAME: Ice Chair
+ID: 3010046 NAME: Dragon Chair(Inferno)
+ID: 3010047 NAME: Dragon Chair(Abyss)
+ID: 3010049 NAME: Igloo
+ID: 3010052 NAME: Sand Bunny
+ID: 3010054 NAME: Teddy Bear Bed
+ID: 3010055 NAME: Mochi Ice Cream Chair
+ID: 3010057 NAME: BloodyRose
+ID: 3010058 NAME: WorldEnd
+ID: 3010060 NAME: Noblesse Chair
+ID: 3010061 NAME: Underneath the Maple Tree…
+ID: 3010062 NAME: Bamboo Chair 
+ID: 3010063 NAME: Moon and Star Cushion
+ID: 3010064 NAME: Male Desert Rabbit Cushion  
+ID: 3010065 NAME: Pink Beach Parasol
+ID: 3010066 NAME: Navy Velvet Sofa  
+ID: 3010067 NAME: Red Designer Chair  
+ID: 3010068 NAME: Lotus Leaf Chair
+ID: 3010069 NAME: Yellow Robot Chair
+ID: 3010071 NAME: Mini Shinsoo Chair
+ID: 3010072 NAME: Miwok Chief's Chair
+ID: 3010073 NAME: Giant Pink Bean Cushion
+ID: 3010075 NAME: Music Box
+ID: 3010077 NAME: It's a Hoot! Chair
+ID: 3010080 NAME: Swing on the Persimmon Tree
+ID: 3010081 NAME: 홍상모 월묘 방석
+ID: 3010082 NAME: 청상모 월묘 방석
+ID: 3010083 NAME: 부채춤 월묘 방석
+ID: 3010084 NAME: 태평소 월묘 방석
+ID: 3010085 NAME: Olivia's Chair
+ID: 3010092 NAME: Witch's Broomstick
+ID: 3010093 NAME: Roasted Relaxer
+ID: 3010095 NAME: Stone Golem Hand Chair
+ID: 3010096 NAME: Dragon Skull Chair
+ID: 3010097 NAME: Strong Wooden Chair
+ID: 3010098 NAME: TV Recliner
+ID: 3010099 NAME: Cuddly Polar Bear
+ID: 3010101 NAME: Christmas Gift Box
+ID: 3010106 NAME: Ryko Chair
+ID: 3010107 NAME: Dragon Egg
+ID: 3010108 NAME: Baby Swing 
+ID: 3010109 NAME: Furnace Chair
+ID: 3010110 NAME: Polar Bear Chair
+ID: 3010111 NAME: Tiger Skin Chair
+ID: 3010112 NAME: Locker Chair
+ID: 3010113 NAME: Soul Teddy Chair
+ID: 3010114 NAME: Lord Pirate Chair
+ID: 3010115 NAME: Teddy Bear Bed
+ID: 3010116 NAME: The Spirit of Rock Chair
+ID: 3010117 NAME: Magic Book Chair
+ID: 3010118 NAME: Musical Note Chair
+ID: 3010119 NAME: Sheep Chair
+ID: 3010120 NAME: Easter Egg Basket
+ID: 3010123 NAME: Spring Flower Corsage Chair
+ID: 3010124 NAME: Dunas Jet Chair
+ID: 3010125 NAME: Nibelung Battleship Chair
+ID: 3010126 NAME: Balrog Chair
+ID: 3010127 NAME: Zakum Chair
+ID: 3010128 NAME: Horntail Chair
+ID: 3010129 NAME: Chief Chair
+ID: 3010130 NAME: Rose Chair
+ID: 3010131 NAME: Chewing Panda Chair
+ID: 3010132 NAME: Fuzzy Kitty Chair
+ID: 3010133 NAME: Tent Chair
+ID: 3010134 NAME: Underneath the Maple Tree...
+ID: 3010136 NAME: 6th Anniversary Chair
+ID: 3010137 NAME: Dragon Lord Chair
+ID: 3010138 NAME: Settee Chair
+ID: 3010139 NAME: Your Throne
+ID: 3010140 NAME: Hospital Bed
+ID: 3010141 NAME: Cake Chair
+ID: 3010142 NAME: Fish Tank Chair
+ID: 3010145 NAME: Maple Crystal Chair
+ID: 3010149 NAME: Cat lying in front of a Fan
+ID: 3010151 NAME: Desert Island Chair
+ID: 3010152 NAME: Yellow Tent Chair
+ID: 3010154 NAME: Mechanical Chair
+ID: 3010155 NAME: Owl Chair
+ID: 3010156 NAME: Visitor Representative Machine
+ID: 3010157 NAME: Guild Chair
+ID: 3010161 NAME: Squeep
+ID: 3010163 NAME: Full Moon Chair
+ID: 3010165 NAME: Swing on the Persimmon Tree
+ID: 3010167 NAME: Cake Chair
+ID: 3010168 NAME: Chair on the Range
+ID: 3010169 NAME: Kitten Chair
+ID: 3010170 NAME: December Chair
+ID: 3010171 NAME: Cat's Love Chair
+ID: 3010172 NAME: Sky Chair
+ID: 3010173 NAME: Psychic Chair
+ID: 3010174 NAME: Scary Witch Chair
+ID: 3010175 NAME: Easel Chair
+ID: 3010177 NAME: Gamepad Chair
+ID: 3010179 NAME: Tea Time Chair
+ID: 3010180 NAME: Giant HP Bottle
+ID: 3010181 NAME: Giant MP Bottle
+ID: 3010183 NAME: Carrot Chair
+ID: 3010184 NAME: Ice Fishing
+ID: 3010186 NAME: Bunny Chair
+ID: 3010187 NAME: Cat's Love Chair
+ID: 3010188 NAME: Von Leon Chair
+ID: 3010189 NAME: Xerxes Chair
+ID: 3010191 NAME: Love Chair
+ID: 3010194 NAME: Campfire Chair
+ID: 3010196 NAME: Bubble Bath Chair
+ID: 3010197 NAME: Hero's Chair-Aran
+ID: 3010198 NAME: NLC Chair
+ID: 3010199 NAME: Igloo
+ID: 3010200 NAME: Hero's Chair-Evan
+ID: 3010201 NAME: Hero's Chair-Dual Blade
+ID: 3010202 NAME: Underneath the Maple Tree...
+ID: 3010203 NAME: Pink Beach Parasol Chair
+ID: 3010205 NAME: Antique Phonograph Chair
+ID: 3010206 NAME: Artistic Vision Chair
+ID: 3010207 NAME: Chair on the Range
+ID: 3010208 NAME: Tuxedo Kitty Chair
+ID: 3010211 NAME: Elven Throne
+ID: 3010215 NAME: Chair of Aran the Guardian
+ID: 3010216 NAME: Chair of Evan the Guardian
+ID: 3010224 NAME: Mochi Ice Cream Chair
+ID: 3010225 NAME: Pink Bean Chair
+ID: 3010228 NAME: Teddy Bear Bed
+ID: 3010229 NAME: Igloo
+ID: 3010230 NAME: Cake Chair
+ID: 3010231 NAME: Polar Bear Chair
+ID: 3010232 NAME: Furnace Chair
+ID: 3010233 NAME: Bunny Chair
+ID: 3010234 NAME: Giant HP Bottle
+ID: 3010235 NAME: Giant MP Bottle
+ID: 3010236 NAME: Zakum Chair
+ID: 3010237 NAME: Horntail Chair
+ID: 3010238 NAME: Miwok Chief's Chair
+ID: 3010239 NAME: Cat's Love Chair
+ID: 3010240 NAME: Your Throne
+ID: 3010241 NAME: Music Box
+ID: 3010242 NAME: Desert Island Chair
+ID: 3010243 NAME: Tea Time Chair
+ID: 3010244 NAME: Xerxes Chair
+ID: 3010245 NAME: Locker Chair
+ID: 3010246 NAME: 6th Anniversary Chair
+ID: 3010247 NAME: Tiger Skin Chair
+ID: 3010248 NAME: Swing on the Persimmon Tree
+ID: 3010249 NAME: The Spirit of Rock Chair
+ID: 3010250 NAME: Yellow Robot Chair
+ID: 3010251 NAME: Dragon Egg
+ID: 3010252 NAME: Baby Swing 
+ID: 3010253 NAME: Full Moon Chair
+ID: 3010254 NAME: Black Seal Cushion
+ID: 3010255 NAME: Maple Crystal Chair
+ID: 3010256 NAME: Clear Chair
+ID: 3010257 NAME: Underneath the Maple Tree...
+ID: 3010279 NAME: 할로윈 호박 의자
+ID: 3010282 NAME: Stork Swing
+ID: 3010284 NAME: Pumpkin Chair
+ID: 3010285 NAME: Legends Awards Chair
+ID: 3010286 NAME: Nautilus Chair
+ID: 3010287 NAME: Royal Harp
+ID: 3010288 NAME: Pearly Clam Chair
+ID: 3010289 NAME: Storytime Chair
+ID: 3010290 NAME: Demon Throne
+ID: 3010296 NAME: Peppermint Throne
+ID: 3010299 NAME: Dino Egg Chair
+ID: 3010301 NAME: Elixir Chair
+ID: 3010302 NAME: Power Elixir Chair
+ID: 3010308 NAME: Shamrock Chair
+ID: 3010311 NAME: Black Dragon Throne
+ID: 3010313 NAME: Pink Zakum Chair
+ID: 3010355 NAME: Galacto-Drill Chair
+
+ID: 3010358 NAME: It's a Hoot! Chair
+ID: 3010359 NAME: Stork Swing
+ID: 3010378 NAME: 메이플 수호자 깃발 의자
+ID: 3010379 NAME: 메이플 수호자 깃발 의자
+ID: 3010380 NAME: 메이플 수호자 깃발 의자
+ID: 3010381 NAME: 메이플 수호자 깃발 의자
+ID: 3010382 NAME: 메이플 수호자 깃발 의자
+ID: 3010383 NAME: 메이플 수호자 깃발 의자
+ID: 3010384 NAME: 메이플 수호자 깃발 의자
+ID: 3010385 NAME: 메이플 수호자 깃발 의자
+ID: 3010386 NAME: 메이플 수호자 깃발 의자
+ID: 3010387 NAME: 메이플 수호자 깃발 의자
+ID: 3010388 NAME: 메이플 수호자 깃발 의자
+ID: 3010389 NAME: 메이플 수호자 깃발 의자
+ID: 3010390 NAME: 메이플 수호자 깃발 의자
+ID: 3010391 NAME: 메이플 수호자 깃발 의자
+ID: 3010392 NAME: 메이플 수호자 깃발 의자
+ID: 3010393 NAME: 메이플 수호자 깃발 의자
+ID: 3010394 NAME: 메이플 수호자 깃발 의자
+ID: 3010395 NAME: 메이플 수호자 깃발 의자
+ID: 3010396 NAME: 메이플 수호자 깃발 의자
+ID: 3010397 NAME: 메이플 수호자 깃발 의자
+ID: 3010398 NAME: 메이플 수호자 깃발 의자
+ID: 3010399 NAME: 메이플 터줏대감 깃발 의자
+ID: 3011000 NAME: Fishing Chair
+ID: 3012003 NAME: Love Chair
+ID: 3012005 NAME: Amorian Loveseat
+ID: 3012010 NAME: Half-Heart Chocolate Cake Chair
+ID: 3012011 NAME: Chocolate Fondue Chair
+ID: 3012015 NAME: Love Chair
+ID: 3049000 NAME: Basic Extractor
+ID: 3049001 NAME: Intermediate Extractor
+ID: 3049002 NAME: Advanced Extractor
+ID: 3700000 NAME: Lulu the Fairy's Friend
+ID: 3700001 NAME: Dolphin Lover!
+ID: 3700002 NAME: Virtue's Apprentice
+ID: 3700003 NAME: Virtue's Successor
+ID: 3700004 NAME: Virtue's Savior
+ID: 3700005 NAME: Watermelon Wrangler
+ID: 3700006 NAME: Chill
+ID: 3700007 NAME: Very Chill
+ID: 3700008 NAME: Super Chill
+ID: 3700009 NAME: Chilled Out
+ID: 3700010 NAME: Hero of Legends
+ID: 3700011 NAME: Guardian of Memories
+ID: 3700012 NAME: The brave
+ID: 3700013 NAME: The Coolest
+ID: 3700014 NAME: Moon Watcher
+ID: 3700015 NAME: Moonlighter
+ID: 3700016 NAME: Lunatic
+ID: 3700017 NAME: Love-Struck
+ID: 3700018 NAME: Moonheart
+ID: 3700019 NAME: Windswept Coyote 
+ID: 3700020 NAME: Calmwater Vessel 
+ID: 3700021 NAME: Party Hunter
+ID: 3700022 NAME: Quest Master 
+ID: 3700023 NAME: Answer Master 
+ID: 3700024 NAME: Friend Seeker 
+ID: 3700025 NAME: 해피 할로윈
+ID: 3700026 NAME: 가면신사 보고 있나?
+ID: 3700027 NAME: High Level Sidekick
+ID: 3700028 NAME: Low Level Sidekick
+ID: 3700029 NAME: Witch Slayer
+ID: 3800010 NAME: L Forest I
+ID: 3800011 NAME: Kerning City
+ID: 3800012 NAME: Construction Site North of Kerning City
+ID: 3800013 NAME: West Domain of Perion
+ID: 3800014 NAME: Thieves' Hideout
+ID: 3800015 NAME: Subway Ticketing Booth
+ID: 3800030 NAME: Balrog Treasure Bag
+ID: 3800031 NAME: Zakum Treasure Bag
+ID: 3800032 NAME: Horntail Treasure Bag
+ID: 3800033 NAME: Pink Bean Treasure Bag
+ID: 3800087 NAME: Recorded Information
+ID: 3800088 NAME: ???
+ID: 3800089 NAME: Abandoned Construction Site
+ID: 3800090 NAME: Fruit Trees with Acorns
+ID: 3800091 NAME: Caged Baby Ore Muncher
+ID: 3800164 NAME: Lovebirds Wedding Ring
+ID: 3800165 NAME: Promise Wedding Ring
+ID: 3800166 NAME: Mano
+ID: 3800167 NAME: Stumpy
+ID: 3800168 NAME: Dyle
+ID: 3800169 NAME: Faust
+ID: 3800170 NAME: Lord Skeleton
+ID: 3800171 NAME: King Clang
+ID: 3800172 NAME: Pixiemom
+ID: 3800173 NAME: Eliza
+ID: 3800174 NAME: Toy Black Knight
+ID: 3800175 NAME: Nine-Tailed Fox
+ID: 3800176 NAME: Timer
+ID: 3800177 NAME: Zeno
+ID: 3800178 NAME: Dio
+ID: 3800179 NAME: Rurumo
+ID: 3800180 NAME: D. Roy
+ID: 3800181 NAME: King Sage Cat
+ID: 3800182 NAME: King Centipede
+ID: 3800183 NAME: Master Moryong
+ID: 3800184 NAME: Master Harp
+ID: 3800185 NAME: Master Birk
+ID: 3800186 NAME: Kentaurus King
+ID: 3800187 NAME: Coco
+ID: 3800188 NAME: Queen Pepe
+ID: 3800189 NAME: Bastille
+ID: 3800190 NAME: Starling
+ID: 3800191 NAME: Crow
+ID: 3800192 NAME: Monster Park Shuttle
+ID: 3802046 NAME: EXP based on level
+ID: 3990000 NAME: Red No. 1
+ID: 3990001 NAME: Red No. 2
+ID: 3990002 NAME: Red No. 3
+ID: 3990003 NAME: Red No. 4
+ID: 3990004 NAME: Red No. 5
+ID: 3990005 NAME: Red No. 6
+ID: 3990006 NAME: Red No. 7
+ID: 3990007 NAME: Red No. 8
+ID: 3990008 NAME: Red No. 9
+ID: 3990009 NAME: Red No. 0
+ID: 3990010 NAME: Green No. 1
+ID: 3990011 NAME: Green No. 2
+ID: 3990012 NAME: Green No. 3
+ID: 3990013 NAME: Green No. 4
+ID: 3990014 NAME: Green No. 5
+ID: 3990015 NAME: Green No. 6
+ID: 3990016 NAME: Green No. 7
+ID: 3990017 NAME: Green No. 8
+ID: 3990018 NAME: Green No. 9
+ID: 3990019 NAME: Green No. 0
+ID: 3990020 NAME: Red " + "
+ID: 3990021 NAME: Red " - "
+ID: 3990022 NAME: Green " + "
+ID: 3990023 NAME: Green " - "
+ID: 3991000 NAME: Red "A"
+ID: 3991001 NAME: Red "B"
+ID: 3991002 NAME: Red "C"
+ID: 3991003 NAME: Red "D"
+ID: 3991004 NAME: Red "E"
+ID: 3991005 NAME: Red "F"
+ID: 3991006 NAME: Red "G"
+ID: 3991007 NAME: Red "H"
+ID: 3991008 NAME: Red "I"
+ID: 3991009 NAME: Red "J"
+ID: 3991010 NAME: Red "K"
+ID: 3991011 NAME: Red "L"
+ID: 3991012 NAME: Red "M"
+ID: 3991013 NAME: Red "N"
+ID: 3991014 NAME: Red "O"
+ID: 3991015 NAME: Red "P"
+ID: 3991016 NAME: Red "Q"
+ID: 3991017 NAME: Red "R"
+ID: 3991018 NAME: Red "S"
+ID: 3991019 NAME: Red "T"
+ID: 3991020 NAME: Red "U"
+ID: 3991021 NAME: Red "V"
+ID: 3991022 NAME: Red "W"
+ID: 3991023 NAME: Red "X"
+ID: 3991024 NAME: Red "Y"
+ID: 3991025 NAME: Red "Z"
+ID: 3991026 NAME: Green "A"
+ID: 3991027 NAME: Green "B"
+ID: 3991028 NAME: Green "C"
+ID: 3991029 NAME: Green "D"
+ID: 3991030 NAME: Green "E"
+ID: 3991031 NAME: Green "F"
+ID: 3991032 NAME: Green "G"
+ID: 3991033 NAME: Green "H"
+ID: 3991034 NAME: Green "I"
+ID: 3991035 NAME: Green "J"
+ID: 3991036 NAME: Green "K"
+ID: 3991037 NAME: Green "L"
+ID: 3991038 NAME: Green "M"
+ID: 3991039 NAME: Green "N"
+ID: 3991040 NAME: Green "O"
+ID: 3991041 NAME: Green "P"
+ID: 3991042 NAME: Green "Q"
+ID: 3991043 NAME: Green "R"
+ID: 3991044 NAME: Green "S"
+ID: 3991045 NAME: Green "T"
+ID: 3991046 NAME: Green "U"
+ID: 3991047 NAME: Green "V"
+ID: 3991048 NAME: Green "W"
+ID: 3991049 NAME: Green "X"
+ID: 3991050 NAME: Green "Y"
+ID: 3991051 NAME: Green "Z"
+ID: 3992000 NAME: Santa Ornament
+ID: 3992001 NAME: Rudolph Ornament
+ID: 3992002 NAME: Mushroom Ornament
+ID: 3992003 NAME: Pig Ornament
+ID: 3992004 NAME: Slime Ornament
+ID: 3992005 NAME: Red Gift-Box Ornament
+ID: 3992006 NAME: Blue Gift-Box Ornament
+ID: 3992007 NAME: Yellow Gift-Box Ornament
+ID: 3992008 NAME: Red Star Miniature Bulb
+ID: 3992009 NAME: Blue Star Miniature Bulb
+ID: 3992010 NAME: Green Star Miniature Bulb
+ID: 3992011 NAME: Pink Star Miniature Bulb
+ID: 3992012 NAME: Orange Star Miniature Bulb
+ID: 3992013 NAME: Red Miniature Bulb
+ID: 3992014 NAME: Blue Miniature Bulb
+ID: 3992015 NAME: Yellow Miniature Bulb
+ID: 3992016 NAME: Green Miniature Bulb
+ID: 3992017 NAME: Red Ball Ornament
+ID: 3992018 NAME: Blue Ball Ornament
+ID: 3992019 NAME: Yellow Ball Ornament
+ID: 3992020 NAME: Red Sock
+ID: 3992021 NAME: The gingerbread man
+ID: 3992022 NAME: The gingerbread woman
+ID: 3992023 NAME: Candy Cane
+ID: 3992024 NAME: Circular Tree Ornament
+ID: 3992025 NAME: King-sized Star
+ID: 3992026 NAME: Christmas wreath
+ID: 3992027 NAME: Red Candle
+ID: 3992028 NAME: Blue Candle
+ID: 3992029 NAME: Yellow Candle
+ID: 3992030 NAME: Red Candy Canes
+ID: 3992031 NAME: Blue Candy Canes
+ID: 3992032 NAME: Yellow Candy Canes
+ID: 3992033 NAME: Red Fruit Leaves
+ID: 3992034 NAME: Yellow Fruit Leaves
+ID: 3992035 NAME: Red-Ribboned Giftbox
+ID: 3992036 NAME: Blue-Ribboned Giftbox
+ID: 3992037 NAME: Yellow-Ribboned Giftbox
+ID: 3992038 NAME: Ruldolph Santa Boots
+ID: 3992039 NAME: Marker of Heroism
+ID: 3992040 NAME: Map of Phantom Forest
+ID: 3992041 NAME: Crimsonwood Keystone
+ID: 3993000 NAME: Lucky Dish
+ID: 3993001 NAME: Luck Sack
+ID: 3993002 NAME: Bamboo Luck Sack
+ID: 3993003 NAME: Red Luck Sack
+ID: 3994000 NAME: Alphabet Soup Pasta "A"
+ID: 3994001 NAME: Alphabet Soup Pasta "E"
+ID: 3994002 NAME: Alphabet Soup Pasta "I"
+ID: 3994003 NAME: Alphabet Soup Pasta "L"
+ID: 3994004 NAME: Alphabet Soup Pasta "N"
+ID: 3994005 NAME: Alphabet Soup Pasta "O"
+ID: 3994006 NAME: Alphabet Soup Pasta "P"
+ID: 3994007 NAME: Alphabet Soup Pasta "R"
+ID: 3994008 NAME: Alphabet Soup Pasta "T"
+ID: 3994009 NAME: Alphabet Soup Pasta "X"
+ID: 3994010 NAME: Alphabet Soup Pasta "Y"
+ID: 3994011 NAME: Alphabet Soup Pasta "Z"
+ID: 3994012 NAME: Special "M"
+ID: 3994013 NAME: Special "S"
+ID: 3994014 NAME: Special "W"
+ID: 3994015 NAME: Wooden Alphabet C
+ID: 3994016 NAME: Wooden Alphabet H
+ID: 3994017 NAME: Alphabet A
+ID: 3994018 NAME: Alphabet E
+ID: 3994019 NAME: Alphabet H
+ID: 3994020 NAME: Alphabet N
+ID: 3994021 NAME: Alphabet P
+ID: 3994022 NAME: Alphabet R
+ID: 3994023 NAME: Alphabet W
+ID: 3994024 NAME: Alphabet Y
+ID: 3994085 NAME: Admin's Candle
+ID: 3994086 NAME: Birthday Cake Candle
+ID: 3994089 NAME: Agent W's Memory Chip
+ID: 3994090 NAME: Spices
+ID: 3994091 NAME: Memorabilia from Thailand
+ID: 3994092 NAME: Unagi
+ID: 3994093 NAME: Taxidermy Shark
+ID: 3994094 NAME: Crow-feather Hat
+ID: 3994096 NAME: Number 1
+ID: 3994097 NAME: Number 2
+ID: 3994098 NAME: Number 3
+ID: 3994099 NAME: Number 4
+ID: 3994100 NAME: Number 5
+ID: 3994101 NAME: Cassandra's Giant Star  
+ID: 3994102 NAME: Letter N for Compass
+ID: 3994103 NAME: Letter E for Compass
+ID: 3994104 NAME: Letter W for Compass
+ID: 3994105 NAME: Letter S for Compass
+ID: 3994106 NAME: 5th Anniversary Maple Leaf of Journey 
+ID: 3994115 NAME: Easy Mode 
+ID: 3994116 NAME: Normal Mode 
+ID: 3994117 NAME: Hard Mode
+ID: 3994118 NAME: Hell Mode  
+ID: 3994120 NAME: Unknown
+ID: 3994121 NAME: Agent M
+ID: 3994122 NAME: Agent C
+ID: 3994123 NAME: Agent E
+ID: 3994124 NAME: Agent S
+ID: 3994125 NAME: Agent O
+ID: 3994126 NAME: Aran Memory Fragments
+ID: 3994127 NAME: Aran Memory Fragments
+ID: 3994128 NAME: Aran Memory Fragments
+ID: 3994129 NAME: Aran Memory Fragments
+ID: 3994130 NAME: Aran Memory Fragments
+ID: 3994131 NAME: Aran Memory Fragments
+ID: 3994132 NAME: Aran Memory Fragments
+ID: 3994133 NAME: Aran Memory Fragments
+ID: 3994134 NAME: Aran Memory Fragments
+ID: 3994135 NAME: Aran Memory Fragments
+ID: 3994136 NAME: Aran Memory Fragments
+ID: 3994137 NAME: Aran Memory Fragments
+ID: 3994138 NAME: Ice Crystal
+ID: 3994139 NAME: Maha Charm
+ID: 3994141 NAME: Cassandra's Candle
+ID: 3994179 NAME: 카산드라의 별상자
+ID: 3994180 NAME: 카산드라의 PC방 왕별
+ID: 3994184 NAME: Cassandra's Strange Potion 
+ID: 3994185 NAME: Cassandra's Strange Slush 
+ID: 3994186 NAME: Mini Dragon Egg 
+ID: 3994187 NAME: Mini Dragon
+ID: 3994188 NAME: Empty Compass
+ID: 3994192 NAME: Dark Feather
+ID: 3994193 NAME: Bright Feather
+ID: 3994195 NAME: 6 King Star
+ID: 3994196 NAME: Hawkeye Sticker
+ID: 3994197 NAME: Carta's Sandglass
+ID: 3994198 NAME: Carta's Sandglass
+ID: 3994199 NAME: Melted Chocolate
+ID: 3994200 NAME: First Chocolate
+ID: 3994201 NAME: Second Chocolate
+ID: 3994202 NAME: Third Chocolate
+ID: 3994203 NAME: Fourth Chocolate
+ID: 3994204 NAME: Fifth Chocolate
+ID: 3994205 NAME: Sixth Chocolate
+ID: 3994206 NAME: Seventh Chocolate
+ID: 3994207 NAME: Eighth Chocolate
+ID: 3994208 NAME: Ninth Chocolate
+ID: 3994209 NAME: Oz Sticker
+ID: 3994220 NAME: 추석 한과
+ID: 3994224 NAME: Evolving Ring Upgrade Potion Box
+ID: 3994225 NAME: Evolving Ring Upgrade Potion
+ID: 3994241 NAME: Cassandra's Hot Stone
+ID: 3994246 NAME: Yellow Four-leaf Clover
+ID: 3994247 NAME: Green Four-leaf Clover
+ID: 3994248 NAME: Deep Blue Baggy Jeans
+ID: 3994249 NAME: Sweet Pink Angel Wings
+ID: 3994250 NAME: Rainbow Bangle
+ID: 3994251 NAME: Pink Jeweled Chaplain Hat
+ID: 3994252 NAME: Jester Sweater
+ID: 3994253 NAME: Stone Washed Jeans
+ID: 3994254 NAME: Straw Sun Hat
+ID: 3994255 NAME: Yellow Anticipation
+ID: 3994256 NAME: Yellow Rainbow Shoes
+ID: 3994257 NAME: Empty Lunch Box
+ID: 3994258 NAME: Cherry Tomato
+ID: 3994259 NAME: Kimchi Rice Roll
+ID: 3994260 NAME: Tuna Sandwich
+ID: 3994261 NAME: Spicy Chicken Piece
+ID: 3994262 NAME: Clear Soda
+ID: 3994263 NAME: Sunshine Doll
+ID: 3994264 NAME: Shining Sunshine Doll
+ID: 3994271 NAME: Handbell <Do>
+ID: 3994272 NAME: Handbell <Re>
+ID: 3994273 NAME: Handbell <Mi>
+ID: 3994274 NAME: Handbell <Fa>
+ID: 3994275 NAME: Handbell <Sol>
+ID: 3994276 NAME: Handbell <La>
+ID: 3994277 NAME: Handbell <Ti>
+ID: 3994278 NAME: Handbell <High Do>
+ID: 3994279 NAME: Orpheus's Sheet Music <Page 1>
+ID: 3994280 NAME: Orpheus's Sheet Music <Page 2>
+ID: 3994281 NAME: Orpheus's Sheet Music <Page 3>
+ID: 3994282 NAME: Orpheus's Sheet Music <Page 4>
+ID: 3994283 NAME: Orpheus's Sheet Music <Page 5>
+ID: 3994284 NAME: Orpheus's Sheet Music <Page 6>
+ID: 3994285 NAME: Orpheus's Sheet Music <Page 7>
+ID: 3994286 NAME: Orpheus's Sheet Music <Page 8>
+ID: 3994287 NAME: Calorie Counter
+ID: 3994288 NAME: Funky Machine
+ID: 3994289 NAME: Encouragement Placard
+ID: 3994290 NAME: Humiliating Picture Film
+ID: 3994291 NAME: Funktastic Funky Machine
+ID: 3994292 NAME: Handbell <Do>
+ID: 3994293 NAME: Handbell <Re>
+ID: 3994294 NAME: Handbell <Mi>
+ID: 3994295 NAME: Handbell <Fa>
+ID: 3994296 NAME: Handbell <Sol>
+ID: 3994297 NAME: Handbell <La>
+ID: 3994298 NAME: Handbell <Ti>
+ID: 3994299 NAME: Handbell <High Do>
+ID: 3994300 NAME: Orpheus's Sheet Music <Page 1>
+ID: 3994301 NAME: Orpheus's Sheet Music <Page 2>
+ID: 3994302 NAME: Orpheus's Sheet Music <Page 3>
+ID: 3994303 NAME: Orpheus's Sheet Music <Page 4>
+ID: 3994304 NAME: Orpheus's Sheet Music <Page 5>
+ID: 3994305 NAME: Orpheus's Sheet Music <Page 6>
+ID: 3994306 NAME: Orpheus's Sheet Music <Page 7>
+ID: 3994307 NAME: Orpheus's Sheet Music <Page 8>
+ID: 3994308 NAME: Calorie Counter
+ID: 3994309 NAME: Funky Machine
+ID: 3994310 NAME: Encouragement Placard
+ID: 3994311 NAME: Humiliating Picture Film
+ID: 3994312 NAME: Funktastic Funky Machine
+ID: 3994313 NAME: Handbell <Do>
+ID: 3994314 NAME: Handbell <Re>
+ID: 3994315 NAME: Handbell <Mi>
+ID: 3994316 NAME: Handbell <Fa>
+ID: 3994317 NAME: Handbell <Sol>
+ID: 3994318 NAME: Handbell <La>
+ID: 3994319 NAME: Handbell <Ti>
+ID: 3994320 NAME: Handbell <High Do>
+ID: 3994321 NAME: Orpheus's Sheet Music <Page 1>
+ID: 3994322 NAME: Orpheus's Sheet Music <Page 2>
+ID: 3994323 NAME: Orpheus's Sheet Music <Page 3>
+ID: 3994324 NAME: Orpheus's Sheet Music <Page 4>
+ID: 3994325 NAME: Orpheus's Sheet Music <Page 5>
+ID: 3994326 NAME: Orpheus's Sheet Music <Page 6>
+ID: 3994327 NAME: Orpheus's Sheet Music <Page 7>
+ID: 3994328 NAME: Orpheus's Sheet Music <Page 8>
+ID: 3994329 NAME: Calorie Counter
+ID: 3994330 NAME: Funky Machine
+ID: 3994331 NAME: Encouragement Placard
+ID: 3994332 NAME: Humiliating Picture Film
+ID: 3994333 NAME: Funktastic Funky Machine
+ID: 3994334 NAME: Calorie Counter
+ID: 3994335 NAME: Calorie Counter
+ID: 3994336 NAME: Calorie Counter
+ID: 3994337 NAME: Calorie Counter
+ID: 3994338 NAME: Calorie Counter
+ID: 3994350 NAME: Sliced Fruit
+ID: 3994351 NAME: Shredded Ice
+ID: 3994352 NAME: Sweet Syrup
+ID: 3994353 NAME: Pirate King's Treasure Map <1st Piece>
+ID: 3994354 NAME: Pirate King's Treasure Map <2nd Piece>
+ID: 3994355 NAME: Pirate King's Treasure Map <3rd Piece>
+ID: 3994356 NAME: Pirate King's Treasure Map <4th Piece>
+ID: 3994357 NAME: Pirate King's Treasure Map <5th Piece>
+ID: 3994358 NAME: Pirate King's Treasure Map <6th Piece>
+ID: 3994359 NAME: Bling Bling Monkey
+ID: 3994360 NAME: Monkey Doll
+ID: 3994361 NAME: Red Bling Bling Monkey
+ID: 3994362 NAME: 메이플 3000일 기념 우표
+ID: 3994363 NAME: Red Strawberry
+ID: 3994364 NAME: Cool Melon
+ID: 3994365 NAME: Ripe Kiwi
+ID: 3994366 NAME: Fresh Pineapple
+ID: 3994367 NAME: Maple Syrup
+ID: 3994368 NAME: Legendary Maple Syrup
+ID: 3994369 NAME: Legendary Lamp
+ID: 3994372 NAME: Cosmic Green
+ID: 3994373 NAME: Good Vibe Detector
+ID: 3994374 NAME: Completed Good Vibe Detector
+ID: 3994376 NAME: Nutritious Drumstick
+ID: 3994377 NAME: Nutritious Drumstick
+ID: 3994378 NAME: Command Emblem
+ID: 3994379 NAME: Mini-Coconut Tree
+ID: 3994380 NAME: Melted Igloo
+ID: 3994381 NAME: Legendary Igloo
+ID: 3994382 NAME: Noise Recorder
+ID: 3994383 NAME: Completed Noise Recorder
+ID: 3994384 NAME: Roasted Turkey
+ID: 3994385 NAME: Golden Maple Leaf
+ID: 3994386 NAME: Premium Special Red Bean Sundae
+ID: 3994387 NAME: 
+ID: 3994388 NAME: Good Looking Monkey Doll
+ID: 3994389 NAME: Maple Legends Commemorative Stamp
+ID: 3994390 NAME: Cosmic Green
+ID: 3994391 NAME: Piece of Trash
+ID: 3994392 NAME: Totally Cool Melon
+ID: 3994393 NAME: Wet Fireworks
+ID: 3994394 NAME: Nice Dry Fireworks
+ID: 3994395 NAME: Faded Photograph
+ID: 3994396 NAME: Old Hankerchief
+ID: 3994397 NAME: Old Pendant
+ID: 3994398 NAME: Love Detector
+ID: 3994399 NAME: Complete Love Detector
+ID: 3994400 NAME: Wish Paper
+ID: 3994401 NAME: Wish Paper
+ID: 3994402 NAME: Wish Paper
+ID: 3994403 NAME: Wish Paper
+ID: 3994404 NAME: Wish Paper
+ID: 3994405 NAME: Wish Paper
+ID: 3994406 NAME: Wish Paper
+ID: 3994407 NAME: Wish Paper
+ID: 3994408 NAME: White Song Pyun
+ID: 3994409 NAME: Mugwort Song Pyun
+ID: 3994410 NAME: Pink Song Pyun
+ID: 3994411 NAME: Golden Song Pyun
+ID: 3994412 NAME: Empty Moonlight Bottle
+ID: 3994413 NAME: Moonlight Bottle
+ID: 3994414 NAME: Rainbow Timer
+ID: 3994415 NAME: Rainbow Timer
+ID: 3994416 NAME: Wednesday Crayon Piece
+ID: 3994417 NAME: Red Crayon
+ID: 3994418 NAME: Orange Crayon
+ID: 3994419 NAME: Yellow Crayon
+ID: 3994420 NAME: Green Crayon
+ID: 3994421 NAME: Blue Crayon
+ID: 3994422 NAME: Indigo Crayon
+ID: 3994423 NAME: Violet Crayon
+ID: 3994424 NAME: Crayon Piece
+ID: 3994425 NAME: Saturday Crayon Piece
+ID: 3994426 NAME: Marble That Evolves Into A Belt After 30 Minutes.
+ID: 3994427 NAME: Mysterious Gem
+ID: 3994428 NAME: Strong Cage Key
+ID: 3994429 NAME: Delicious Rice Roll
+ID: 3994430 NAME: Spicy Chicken Piece
+ID: 3994431 NAME: Carbonated Drink
+ID: 3994432 NAME: Spicy Rice Cake
+ID: 3994433 NAME: Sports Drink
+ID: 3994434 NAME: Frozen Sports Drink
+ID: 3994435 NAME: Miraculous Garlic
+ID: 3994436 NAME: Young Mugworth of Patience
+ID: 3994437 NAME: Fully-Grown Mugworth of Patience
+ID: 3994438 NAME: Maple Memory
+ID: 3994442 NAME: Chaos Mode
+ID: 3994443 NAME: Cheerleading Pom-poms
+ID: 3994444 NAME: Returning Pocket Watch
+ID: 3994445 NAME: Returning Pocket Watch
+ID: 3994446 NAME: 할로윈 호박 등불
+ID: 3994447 NAME: 할로윈 마법의 사탕
+ID: 3994450 NAME: 할로윈 사탕
+ID: 3994451 NAME: 게스트룸 키
+ID: 3994452 NAME: 서재 키
+ID: 3994453 NAME: 호박밭 키
+ID: 3994454 NAME: 엉망진창 중앙홀 키
+ID: 3994455 NAME: Legendary Ore
+ID: 3994456 NAME: Legendary Gold
+ID: 3994457 NAME: 레전드 어워드 트로피
+ID: 3994458 NAME: 레전드 어워드 특별 트로피
+ID: 3994460 NAME: Golden Ornament
+ID: 3994461 NAME: Fireworks
+ID: 3994462 NAME: Glass Marble
+ID: 3994463 NAME: Shiny Light Bulb
+ID: 3994464 NAME: Flashy Button
+ID: 3994465 NAME: Rock-Paper-Scissors Trophy
+ID: 3994466 NAME: Great Protector Trophy
+ID: 3994467 NAME: Golden Statue
+ID: 3994468 NAME: Golden Statue
+ID: 3994470 NAME: Training Stone
+ID: 3994478 NAME: Melted Chocolate
+ID: 3994479 NAME: Heart Chocolate
+ID: 3994482 NAME: Great Fortitude
+ID: 3994483 NAME: Roasted Turkey
+ID: 3994484 NAME: Stone of Virtue
+ID: 3994485 NAME: Premium Special Sundae
+ID: 3994511 NAME: Paint Brush
+ID: 3994512 NAME: Gold Colored Egg 
+ID: 3995000 NAME: .
+ID: 3060000 NAME: [D] Nebulite (STR)
+ID: 3060001 NAME: [D] Nebulite (STR)
+ID: 3060010 NAME: [D] Nebulite (DEX)
+ID: 3060011 NAME: [D] Nebulite (DEX)
+ID: 3060020 NAME: [D] Nebulite (INT)
+ID: 3060021 NAME: [D] Nebulite (INT)
+ID: 3060030 NAME: [D] Nebulite (LUK)
+ID: 3060031 NAME: [D] Nebulite (LUK)
+ID: 3060040 NAME: [D] Nebulite (Max HP)
+ID: 3060041 NAME: [D] Nebulite (Max HP)
+ID: 3060042 NAME: [D] Nebulite (Max HP)
+ID: 3060050 NAME: [D] Nebulite (Max MP)
+ID: 3060051 NAME: [D] Nebulite (Max MP)
+ID: 3060052 NAME: [D] Nebulite (Max MP)
+ID: 3060060 NAME: [D] Nebulite (Accuracy)
+ID: 3060061 NAME: [D] Nebulite (Accuracy)
+ID: 3060070 NAME: [D] Nebulite (Avoidability)
+ID: 3060071 NAME: [D] Nebulite (Avoidability)
+ID: 3060080 NAME: [D] Nebulite (Speed)
+ID: 3060081 NAME: [D] Nebulite (Speed)
+ID: 3060090 NAME: [D] Nebulite (Jump)
+ID: 3060091 NAME: [D] Nebulite (Jump)
+ID: 3060100 NAME: [D] Nebulite (Weapon ATT)
+ID: 3060110 NAME: [D] Nebulite (Magic ATT)
+ID: 3060120 NAME: [D] Nebulite (Weapon Defense)
+ID: 3060121 NAME: [D] Nebulite (Weapon Defense)
+ID: 3060122 NAME: [D] Nebulite (Weapon Defense)
+ID: 3060130 NAME: [D] Nebulite (Magic Defense)
+ID: 3060131 NAME: [D] Nebulite (Magic Defense)
+ID: 3060132 NAME: [D] Nebulite (Magic Defense)
+ID: 3060140 NAME: [D] Nebulite (Face)
+ID: 3060150 NAME: [D] Nebulite (Face)
+ID: 3060160 NAME: [D] Nebulite (Face)
+ID: 3060170 NAME: [D] Nebulite (Face)
+ID: 3060180 NAME: [D] Nebulite (Face)
+ID: 3061000 NAME: [C] Nebulite (STR)
+ID: 3061001 NAME: [C] Nebulite (STR)
+ID: 3061010 NAME: [C] Nebulite (DEX)
+ID: 3061011 NAME: [C] Nebulite (DEX)
+ID: 3061020 NAME: [C] Nebulite (INT)
+ID: 3061021 NAME: [C] Nebulite (INT)
+ID: 3061030 NAME: [C] Nebulite (LUK)
+ID: 3061031 NAME: [C] Nebulite (LUK)
+ID: 3061040 NAME: [C] Nebulite (Max HP)
+ID: 3061041 NAME: [C] Nebulite (Max HP)
+ID: 3061042 NAME: [C] Nebulite (Max HP)
+ID: 3061050 NAME: [C] Nebulite (Max MP)
+ID: 3061051 NAME: [C] Nebulite (Max MP)
+ID: 3061052 NAME: [C] Nebulite (Max MP)
+ID: 3061060 NAME: [C] Nebulite (Accuracy)
+ID: 3061061 NAME: [C] Nebulite (Accuracy)
+ID: 3061070 NAME: [C] Nebulite (Avoidability)
+ID: 3061071 NAME: [C] Nebulite (Avoidability)
+ID: 3061080 NAME: [C] Nebulite (Speed)
+ID: 3061081 NAME: [C] Nebulite (Speed)
+ID: 3061090 NAME: [C] Nebulite (Jump)
+ID: 3061091 NAME: [C] Nebulite (Jump)
+ID: 3061100 NAME: [C] Nebulite (Weapon ATT)
+ID: 3061110 NAME: [C] Nebulite (Magic ATT)
+ID: 3061120 NAME: [C] Nebulite (Weapon Defense)
+ID: 3061121 NAME: [C] Nebulite (Weapon Defense)
+ID: 3061122 NAME: [C] Nebulite (Weapon Defense)
+ID: 3061123 NAME: [C] Nebulite (Weapon Defense)
+ID: 3061124 NAME: [C] Nebulite (Weapon Defense)
+ID: 3061125 NAME: [C] Nebulite (Weapon Defense)
+ID: 3061130 NAME: [C] Nebulite (Magic Defense)
+ID: 3061131 NAME: [C] Nebulite (Magic Defense)
+ID: 3061132 NAME: [C] Nebulite (Magic Defense)
+ID: 3061133 NAME: [C] Nebulite (Magic Defense)
+ID: 3061134 NAME: [C] Nebulite (Magic Defense)
+ID: 3061135 NAME: [C] Nebulite (Magic Defense)
+ID: 3061140 NAME: [C] Nebulite (STR %)
+ID: 3061150 NAME: [C] Nebulite (DEX %)
+ID: 3061160 NAME: [C] Nebulite (INT %)
+ID: 3061170 NAME: [C] Nebulite (LUK %)
+ID: 3061180 NAME: [C] Nebulite (Max HP %)
+ID: 3061190 NAME: [C] Nebulite (Max MP %)
+ID: 3061200 NAME: [C] Nebulite (Accuracy %)
+ID: 3061210 NAME: [C] Nebulite (Avoidability %)
+ID: 3061220 NAME: [C] Nebulite (Weapon ATT %)
+ID: 3061230 NAME: [C] Nebulite (Magic ATT %)
+ID: 3061240 NAME: [C] Nebulite (Weapon Defense %)
+ID: 3061250 NAME: [C] Nebulite (Magic Defense %)
+ID: 3061260 NAME: [C] Nebulite (Crit Rate %)
+ID: 3061270 NAME: [C] Nebulite (All Damage %)
+ID: 3061271 NAME: [C] Nebulite (All Damage %)
+ID: 3061280 NAME: [C] Nebulite (All Stat)
+ID: 3061290 NAME: [C] Nebulite (Recovery HP)
+ID: 3061291 NAME: [C] Nebulite (Recovery HP)
+ID: 3061292 NAME: [C] Nebulite (Recovery HP)
+ID: 3061293 NAME: [C] Nebulite (Recovery HP)
+ID: 3061294 NAME: [C] Nebulite (Recovery HP)
+ID: 3061295 NAME: [C] Nebulite (Recovery HP)
+ID: 3061300 NAME: [C] Nebulite (Recovery MP)
+ID: 3061301 NAME: [C] Nebulite (Recovery MP)
+ID: 3061302 NAME: [C] Nebulite (Recovery MP)
+ID: 3061303 NAME: [C] Nebulite (Recovery MP)
+ID: 3061304 NAME: [C] Nebulite (Recovery MP)
+ID: 3061305 NAME: [C] Nebulite (Recovery MP)
+ID: 3061310 NAME: [C] Nebulite (Recovery HP)
+ID: 3061311 NAME: [C] Nebulite (Recovery HP)
+ID: 3061312 NAME: [C] Nebulite (Recovery HP)
+ID: 3061313 NAME: [C] Nebulite (Recovery HP)
+ID: 3061314 NAME: [C] Nebulite (Recovery HP)
+ID: 3061315 NAME: [C] Nebulite (Recovery HP)
+ID: 3061320 NAME: [C] Nebulite (Recovery MP)
+ID: 3061321 NAME: [C] Nebulite (Recovery MP)
+ID: 3061322 NAME: [C] Nebulite (Recovery MP)
+ID: 3061323 NAME: [C] Nebulite (Recovery MP)
+ID: 3061324 NAME: [C] Nebulite (Recovery MP)
+ID: 3061325 NAME: [C] Nebulite (Recovery MP)
+ID: 3061330 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061331 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061332 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061333 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061334 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061335 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061340 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061341 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061350 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061351 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061360 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061361 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061362 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061370 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061371 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061380 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061381 NAME: [C] Nebulite (Abnormal Status)
+ID: 3061390 NAME: [C] Nebulite (Ignore monster's defense)
+ID: 3062000 NAME: [B] Nebulite (STR)
+ID: 3062001 NAME: [B] Nebulite (STR)
+ID: 3062010 NAME: [B] Nebulite (DEX)
+ID: 3062011 NAME: [B] Nebulite (DEX)
+ID: 3062020 NAME: [B] Nebulite (INT)
+ID: 3062021 NAME: [B] Nebulite (INT)
+ID: 3062030 NAME: [B] Nebulite (LUK)
+ID: 3062031 NAME: [B] Nebulite (LUK)
+ID: 3062040 NAME: [B] Nebulite (Max HP)
+ID: 3062041 NAME: [B] Nebulite (Max HP)
+ID: 3062042 NAME: [B] Nebulite (Max HP)
+ID: 3062050 NAME: [B] Nebulite (Max MP)
+ID: 3062051 NAME: [B] Nebulite (Max MP)
+ID: 3062052 NAME: [B] Nebulite (Max MP)
+ID: 3062060 NAME: [B] Nebulite (Accuracy)
+ID: 3062061 NAME: [B] Nebulite (Accuracy)
+ID: 3062062 NAME: [B] Nebulite (Accuracy)
+ID: 3062070 NAME: [B] Nebulite (Avoidability)
+ID: 3062071 NAME: [B] Nebulite (Avoidability)
+ID: 3062072 NAME: [B] Nebulite (Avoidability)
+ID: 3062080 NAME: [B] Nebulite (Speed)
+ID: 3062081 NAME: [B] Nebulite (Speed)
+ID: 3062090 NAME: [B] Nebulite (Jump)
+ID: 3062091 NAME: [B] Nebulite (Jump)
+ID: 3062100 NAME: [B] Nebulite (Weapon ATT)
+ID: 3062101 NAME: [B] Nebulite (Weapon ATT)
+ID: 3062110 NAME: [B] Nebulite (Magic ATT)
+ID: 3062111 NAME: [B] Nebulite (Magic ATT)
+ID: 3062120 NAME: [B] Nebulite (Weapon Defense)
+ID: 3062121 NAME: [B] Nebulite (Weapon Defense)
+ID: 3062122 NAME: [B] Nebulite (Weapon Defense)
+ID: 3062130 NAME: [B] Nebulite (Magic Defense)
+ID: 3062131 NAME: [B] Nebulite (Magic Defense)
+ID: 3062132 NAME: [B] Nebulite (Magic Defense)
+ID: 3062140 NAME: [B] Nebulite (STR %)
+ID: 3062150 NAME: [B] Nebulite (DEX %)
+ID: 3062160 NAME: [B] Nebulite (INT %)
+ID: 3062170 NAME: [B] Nebulite (LUK %)
+ID: 3062180 NAME: [B] Nebulite (Max HP %)
+ID: 3062190 NAME: [B] Nebulite (Max MP %)
+ID: 3062200 NAME: [B] Nebulite (Accuracy %)
+ID: 3062210 NAME: [B] Nebulite (Avoidability %)
+ID: 3062220 NAME: [B] Nebulite (Weapon ATT %)
+ID: 3062230 NAME: [B] Nebulite (Magic ATT %)
+ID: 3062240 NAME: [B] Nebulite (Weapon Defense %)
+ID: 3062250 NAME: [B] Nebulite (Magic Defense %)
+ID: 3062260 NAME: [B] Nebulite (Crit Rate %)
+ID: 3062261 NAME: [B] Nebulite (Crit Rate %)
+ID: 3062270 NAME: [B] Nebulite (All Damage %)
+ID: 3062271 NAME: [B] Nebulite (All Damage %)
+ID: 3062280 NAME: [B] Nebulite (All Stat %)
+ID: 3062281 NAME: [B] Nebulite (All Stat %)
+ID: 3062290 NAME: [B] Nebulite (Recovery HP)
+ID: 3062291 NAME: [B] Nebulite (Recovery HP)
+ID: 3062292 NAME: [B] Nebulite (Recovery HP)
+ID: 3062293 NAME: [B] Nebulite (Recovery HP)
+ID: 3062294 NAME: [B] Nebulite (Recovery HP)
+ID: 3062295 NAME: [B] Nebulite (Recovery HP)
+ID: 3062300 NAME: [B] Nebulite (Recovery MP)
+ID: 3062301 NAME: [B] Nebulite (Recovery MP)
+ID: 3062302 NAME: [B] Nebulite (Recovery MP)
+ID: 3062303 NAME: [B] Nebulite (Recovery MP)
+ID: 3062304 NAME: [B] Nebulite (Recovery MP)
+ID: 3062305 NAME: [B] Nebulite (Recovery MP)
+ID: 3062310 NAME: [B] Nebulite (Ignore monster's defense)
+ID: 3062320 NAME: [B] Nebulite (Damage defense)
+ID: 3062321 NAME: [B] Nebulite (Damage defense)
+ID: 3062322 NAME: [B] Nebulite (Damage defense)
+ID: 3062323 NAME: [B] Nebulite (Damage defense)
+ID: 3062324 NAME: [B] Nebulite (Damage defense)
+ID: 3062325 NAME: [B] Nebulite (Damage defense)
+ID: 3062330 NAME: [B] Nebulite (Damage defense)
+ID: 3062331 NAME: [B] Nebulite (Damage defense)
+ID: 3062332 NAME: [B] Nebulite (Damage defense)
+ID: 3062333 NAME: [B] Nebulite (Damage defense)
+ID: 3062334 NAME: [B] Nebulite (Damage defense)
+ID: 3062335 NAME: [B] Nebulite (Damage defense)
+ID: 3062340 NAME: [B] Nebulite (Damage defense)
+ID: 3062341 NAME: [B] Nebulite (Damage defense)
+ID: 3062342 NAME: [B] Nebulite (Damage defense)
+ID: 3062343 NAME: [B] Nebulite (Damage defense)
+ID: 3062344 NAME: [B] Nebulite (Damage defense)
+ID: 3062345 NAME: [B] Nebulite (Damage defense)
+ID: 3062350 NAME: [B] Nebulite (Invincibility)
+ID: 3062360 NAME: [B] Nebulite (Abnormal Status Time)
+ID: 3062370 NAME: [B] Nebulite (Recovery HP)
+ID: 3062371 NAME: [B] Nebulite (Recovery HP)
+ID: 3062372 NAME: [B] Nebulite (Recovery HP)
+ID: 3062373 NAME: [B] Nebulite (Recovery HP)
+ID: 3062374 NAME: [B] Nebulite (Recovery HP)
+ID: 3062375 NAME: [B] Nebulite (Recovery HP)
+ID: 3062380 NAME: [B] Nebulite (Recovery MP)
+ID: 3062381 NAME: [B] Nebulite (Recovery MP)
+ID: 3062382 NAME: [B] Nebulite (Recovery MP)
+ID: 3062383 NAME: [B] Nebulite (Recovery MP)
+ID: 3062384 NAME: [B] Nebulite (Recovery MP)
+ID: 3062385 NAME: [B] Nebulite (Recovery MP)
+ID: 3063000 NAME: [A] Nebulite (STR)
+ID: 3063001 NAME: [A] Nebulite (STR)
+ID: 3063010 NAME: [A] Nebulite (DEX)
+ID: 3063011 NAME: [A] Nebulite (DEX)
+ID: 3063020 NAME: [A] Nebulite (INT)
+ID: 3063021 NAME: [A] Nebulite (INT)
+ID: 3063030 NAME: [A] Nebulite (LUK)
+ID: 3063031 NAME: [A] Nebulite (LUK)
+ID: 3063040 NAME: [A] Nebulite (Max HP)
+ID: 3063041 NAME: [A] Nebulite (Max HP)
+ID: 3063042 NAME: [A] Nebulite (Max HP)
+ID: 3063050 NAME: [A] Nebulite (Max MP)
+ID: 3063051 NAME: [A] Nebulite (Max MP)
+ID: 3063052 NAME: [A] Nebulite (Max MP)
+ID: 3063060 NAME: [A] Nebulite (Accuracy)
+ID: 3063061 NAME: [A] Nebulite (Accuracy)
+ID: 3063062 NAME: [A] Nebulite (Accuracy)
+ID: 3063063 NAME: [A] Nebulite (Accuracy)
+ID: 3063070 NAME: [A] Nebulite (Avoidability)
+ID: 3063071 NAME: [A] Nebulite (Avoidability)
+ID: 3063072 NAME: [A] Nebulite (Avoidability)
+ID: 3063073 NAME: [A] Nebulite (Avoidability)
+ID: 3063080 NAME: [A] Nebulite (Speed)
+ID: 3063081 NAME: [A] Nebulite (Speed)
+ID: 3063090 NAME: [A] Nebulite (Jump)
+ID: 3063091 NAME: [A] Nebulite (Jump)
+ID: 3063100 NAME: [A] Nebulite (Weapon ATT)
+ID: 3063101 NAME: [A] Nebulite (Weapon ATT)
+ID: 3063110 NAME: [A] Nebulite (Magic ATT)
+ID: 3063111 NAME: [A] Nebulite (Magic ATT)
+ID: 3063120 NAME: [A] Nebulite (Weapon Defense)
+ID: 3063121 NAME: [A] Nebulite (Weapon Defense)
+ID: 3063122 NAME: [A] Nebulite (Weapon Defense)
+ID: 3063130 NAME: [A] Nebulite (Magic Defense)
+ID: 3063131 NAME: [A] Nebulite (Magic Defense)
+ID: 3063132 NAME: [A] Nebulite (Magic Defense)
+ID: 3063140 NAME: [A] Nebulite (STR %)
+ID: 3063141 NAME: [A] Nebulite (STR %)
+ID: 3063150 NAME: [A] Nebulite (DEX %)
+ID: 3063151 NAME: [A] Nebulite (DEX %)
+ID: 3063160 NAME: [A] Nebulite (INT %)
+ID: 3063161 NAME: [A] Nebulite (INT %)
+ID: 3063170 NAME: [A] Nebulite (LUK %)
+ID: 3063171 NAME: [A] Nebulite (LUK %)
+ID: 3063180 NAME: [A] Nebulite (Max HP %)
+ID: 3063181 NAME: [A] Nebulite (Max HP %)
+ID: 3063190 NAME: [A] Nebulite (Max MP %)
+ID: 3063191 NAME: [A] Nebulite (Max MP %)
+ID: 3063200 NAME: [A] Nebulite (Accuracy %)
+ID: 3063201 NAME: [A] Nebulite (Accuracy %)
+ID: 3063210 NAME: [A] Nebulite (Avoidability %)
+ID: 3063211 NAME: [A] Nebulite (Avoidability %)
+ID: 3063220 NAME: [A] Nebulite (Weapon ATT %)
+ID: 3063221 NAME: [A] Nebulite (Weapon ATT %)
+ID: 3063230 NAME: [A] Nebulite (Magic ATT %)
+ID: 3063231 NAME: [A] Nebulite (Magic ATT %)
+ID: 3063240 NAME: [A] Nebulite (Weapon Defense %)
+ID: 3063241 NAME: [A] Nebulite (Weapon Defense %)
+ID: 3063250 NAME: [A] Nebulite (Magic Defense %)
+ID: 3063251 NAME: [A] Nebulite (Magic Defense %)
+ID: 3063260 NAME: [A] Nebulite (Crit Rate %)
+ID: 3063261 NAME: [A] Nebulite (Crit Rate %)
+ID: 3063270 NAME: [A] Nebulite (All Damage %)
+ID: 3063271 NAME: [A] Nebulite (All Damage %)
+ID: 3063280 NAME: [A] Nebulite (All Stat %)
+ID: 3063281 NAME: [A] Nebulite (All Stat %)
+ID: 3063290 NAME: [A] Nebulite (All Skill Level)
+ID: 3063300 NAME: [A] Nebulite (Ignore monster's defense)
+ID: 3063310 NAME: [A] Nebulite (Damage defense %)
+ID: 3063320 NAME: [A] Nebulite (Invincibility)
+ID: 3063330 NAME: [A] Nebulite (Invincibility)
+ID: 3063340 NAME: [A] Nebulite (Recovery Rate)
+ID: 3063341 NAME: [A] Nebulite (Recovery Rate)
+ID: 3063350 NAME: [A] Nebulite (Boss Damage)
+ID: 3063351 NAME: [A] Nebulite (Boss Damage)
+ID: 3063360 NAME: [A] Nebulite (Auto Steal)
+ID: 3063361 NAME: [A] Nebulite (Auto Steal)
+ID: 3063370 NAME: [A] Nebulite (Skill)
+ID: 3063380 NAME: [A] Nebulite (Skill)
+ID: 3063390 NAME: [A] Nebulite (Skill)
+ID: 3063400 NAME: [A] Nebulite (Skill)
+ID: 3064000 NAME: [S] Nebulite (STR)
+ID: 3064001 NAME: [S] Nebulite (STR)
+ID: 3064002 NAME: [S] Nebulite (STR)
+ID: 3064010 NAME: [S] Nebulite (DEX)
+ID: 3064011 NAME: [S] Nebulite (DEX)
+ID: 3064012 NAME: [S] Nebulite (DEX)
+ID: 3064020 NAME: [S] Nebulite (INT)
+ID: 3064021 NAME: [S] Nebulite (INT)
+ID: 3064022 NAME: [S] Nebulite (INT)
+ID: 3064030 NAME: [S] Nebulite (LUK)
+ID: 3064031 NAME: [S] Nebulite (LUK)
+ID: 3064032 NAME: [S] Nebulite (LUK)
+ID: 3064040 NAME: [S] Nebulite (Max HP)
+ID: 3064041 NAME: [S] Nebulite (Max HP)
+ID: 3064042 NAME: [S] Nebulite (Max HP)
+ID: 3064050 NAME: [S] Nebulite (Max MP)
+ID: 3064051 NAME: [S] Nebulite (Max MP)
+ID: 3064052 NAME: [S] Nebulite (Max MP)
+ID: 3064060 NAME: [S] Nebulite (Accuracy)
+ID: 3064061 NAME: [S] Nebulite (Accuracy)
+ID: 3064062 NAME: [S] Nebulite (Accuracy)
+ID: 3064070 NAME: [S] Nebulite (Avoidability)
+ID: 3064071 NAME: [S] Nebulite (Avoidability)
+ID: 3064072 NAME: [S] Nebulite (Avoidability)
+ID: 3064080 NAME: [S] Nebulite (Speed)
+ID: 3064081 NAME: [S] Nebulite (Speed)
+ID: 3064090 NAME: [S] Nebulite (Jump)
+ID: 3064091 NAME: [S] Nebulite (Jump)
+ID: 3064100 NAME: [S] Nebulite (Weapon ATT)
+ID: 3064101 NAME: [S] Nebulite (Weapon ATT)
+ID: 3064110 NAME: [S] Nebulite (Magic ATT)
+ID: 3064111 NAME: [S] Nebulite (Magic ATT)
+ID: 3064120 NAME: [S] Nebulite (Weapon Defense)
+ID: 3064121 NAME: [S] Nebulite (Weapon Defense)
+ID: 3064122 NAME: [S] Nebulite (Weapon Defense)
+ID: 3064123 NAME: [S] Nebulite (Weapon Defense)
+ID: 3064124 NAME: [S] Nebulite (Weapon Defense)
+ID: 3064130 NAME: [S] Nebulite (Magic Defense)
+ID: 3064131 NAME: [S] Nebulite (Magic Defense)
+ID: 3064132 NAME: [S] Nebulite (Magic Defense)
+ID: 3064133 NAME: [S] Nebulite (Magic Defense)
+ID: 3064134 NAME: [S] Nebulite (Magic Defense)
+ID: 3064140 NAME: [S] Nebulite (STR %)
+ID: 3064141 NAME: [S] Nebulite (STR %)
+ID: 3064150 NAME: [S] Nebulite (DEX %)
+ID: 3064151 NAME: [S] Nebulite (DEX %)
+ID: 3064160 NAME: [S] Nebulite (INT %)
+ID: 3064161 NAME: [S] Nebulite (INT %)
+ID: 3064170 NAME: [S] Nebulite (LUK %)
+ID: 3064171 NAME: [S] Nebulite (LUK %)
+ID: 3064180 NAME: [S] Nebulite (Max HP %)
+ID: 3064181 NAME: [S] Nebulite (Max HP %)
+ID: 3064190 NAME: [S] Nebulite (Max MP %)
+ID: 3064191 NAME: [S] Nebulite (Max MP %)
+ID: 3064200 NAME: [S] Nebulite (Accuracy %)
+ID: 3064201 NAME: [S] Nebulite (Accuracy %)
+ID: 3064210 NAME: [S] Nebulite (Avoidability %)
+ID: 3064211 NAME: [S] Nebulite (Avoidability %)
+ID: 3064220 NAME: [S] Nebulite (Weapon ATT %)
+ID: 3064221 NAME: [S] Nebulite (Weapon ATT %)
+ID: 3064230 NAME: [S] Nebulite (Magic ATT %)
+ID: 3064231 NAME: [S] Nebulite (Magic ATT %)
+ID: 3064240 NAME: [S] Nebulite (Weapon Defense %)
+ID: 3064241 NAME: [S] Nebulite (Weapon Defense %)
+ID: 3064250 NAME: [S] Nebulite (Magic Defense %)
+ID: 3064251 NAME: [S] Nebulite (Magic Defense %)
+ID: 3064260 NAME: [S] Nebulite (Crit Rate %)
+ID: 3064261 NAME: [S] Nebulite (Crit Rate %)
+ID: 3064270 NAME: [S] Nebulite (Min Crit Damage %)
+ID: 3064271 NAME: [S] Nebulite (Min Crit Damage %)
+ID: 3064272 NAME: [S] Nebulite (Min Crit Damage %)
+ID: 3064280 NAME: [S] Nebulite (Max Crit Damage %)
+ID: 3064281 NAME: [S] Nebulite (Max Crit Damage %)
+ID: 3064282 NAME: [S] Nebulite (Max Crit Damage %)
+ID: 3064290 NAME: [S] Nebulite (All Damage %)
+ID: 3064291 NAME: [S] Nebulite (All Damage %)
+ID: 3064300 NAME: [S] Nebulite (All Stat)
+ID: 3064301 NAME: [S] Nebulite (All Stat)
+ID: 3064302 NAME: [S] Nebulite (All Stat)
+ID: 3064310 NAME: [S] Nebulite (All Stat %)
+ID: 3064311 NAME: [S] Nebulite (All Stat %)
+ID: 3064320 NAME: [S] Nebulite (All Skill Level)
+ID: 3064330 NAME: [S] Nebulite (Elemental Resistance)
+ID: 3064331 NAME: [S] Nebulite (Elemental Resistance)
+ID: 3064340 NAME: [S] Nebulite (Abnormal Status Resistance)
+ID: 3064341 NAME: [S] Nebulite (Abnormal Status Resistance)
+ID: 3064350 NAME: [S] Nebulite (Ignore monster's defense)
+ID: 3064360 NAME: [S] Nebulite (Damage defense %)
+ID: 3064370 NAME: [S] Nebulite (Invincibility)
+ID: 3064380 NAME: [S] Nebulite (Invincibility)
+ID: 3064390 NAME: [S] Nebulite (Reflect Damage)
+ID: 3064391 NAME: [S] Nebulite (Reflect Damage)
+ID: 3064392 NAME: [S] Nebulite (Reflect Damage)
+ID: 3064393 NAME: [S] Nebulite (Reflect Damage)
+ID: 3064400 NAME: [S] Nebulite (Skill MP Reduce)
+ID: 3064401 NAME: [S] Nebulite (Skill MP Reduce)
+ID: 3064410 NAME: [S] Nebulite (Recovery Rate)
+ID: 3064420 NAME: [S] Nebulite (Reduce Cooltime)
+ID: 3064421 NAME: [S] Nebulite (Reduce Cooltime)
+ID: 3064430 NAME: [S] Nebulite (Boss Damage)
+ID: 3064431 NAME: [S] Nebulite (Boss Damage)
+ID: 3064440 NAME: [S] Nebulite (Meso Prop)
+ID: 3064441 NAME: [S] Nebulite (Meso Prop)
+ID: 3064442 NAME: [S] Nebulite (Meso Prop)
+ID: 3064450 NAME: [S] Nebulite (Reward Prop)
+ID: 3064451 NAME: [S] Nebulite (Reward Prop)
+ID: 3064452 NAME: [S] Nebulite (Reward Prop)
+ID: 3064460 NAME: [S] Nebulite (Auto Steal)
+ID: 3064461 NAME: [S] Nebulite (Auto Steal)
+ID: 3064470 NAME: [S] Nebulite (Skill)
+ID: 3064480 NAME: [S] Nebulite (Skill)
+ID: 3064490 NAME: [S] Nebulite (Skill)
+ID: 3010222 NAME: Reading Chair
+ID: 3013000 NAME: Cherry Blossoms Chair
+ID: 3013002 NAME: Fireworks Chair

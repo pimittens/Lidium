@@ -1,0 +1,802 @@
+﻿/* GM HANDBOOK */
+//MAPLE TYPE: GMS
+//VERSION: 111
+//IMG NAME: Cash.img
+ID: 5000011 NAME: Monkey
+ID: 5010000 NAME: Sunny Day
+ID: 5010001 NAME: Moon & the Stars
+ID: 5010002 NAME: Colorful Rainbow
+ID: 5010003 NAME: Little Devil
+ID: 5010004 NAME: Underwater
+ID: 5010005 NAME: Looking for Love
+ID: 5010006 NAME: Baby Angel
+ID: 5010007 NAME: Fugitive
+ID: 5010008 NAME: Mr. Jackpot
+ID: 5010009 NAME: Martial Effect
+ID: 5010010 NAME: Play with Me
+ID: 5010011 NAME: Loner
+ID: 5010012 NAME: Equalizer
+ID: 5010013 NAME: Fireworks
+ID: 5010014 NAME: Stormy Cloud
+ID: 5010015 NAME: 777 Effect
+ID: 5010016 NAME: Siren
+ID: 5010017 NAME: Twinkling Star
+ID: 5010018 NAME: Smile
+ID: 5010019 NAME: Heart
+ID: 5010020 NAME: Go! Korea!
+ID: 5010021 NAME: Skeleton of Horror
+ID: 5010022 NAME: Twinkling Star
+ID: 5010023 NAME: Pumping Heart
+ID: 5010024 NAME: The Flocking Ducks
+ID: 5010025 NAME: Silent Spectre
+ID: 5010026 NAME: Indigo Dracula
+ID: 5010027 NAME: Hot Head
+ID: 5010028 NAME: Indigo Flames
+ID: 5010029 NAME: Demonfyre
+ID: 5010030 NAME: Nuclear Fire
+ID: 5010031 NAME: My Boyfriend
+ID: 5010032 NAME: My Girlfriend
+ID: 5010033 NAME: Sheer Fear
+ID: 5010034 NAME: Christmas Tree
+ID: 5010035 NAME: Snowman
+ID: 5010038 NAME: Shower Power
+ID: 5010039 NAME: Spotlight
+ID: 5010041 NAME: Super Symphony
+ID: 5010042 NAME: Busy Bee
+ID: 5010043 NAME: Eyelighter
+ID: 5010044 NAME: Shadow Style
+ID: 5010045 NAME: Struck by Lightning
+ID: 5010046 NAME: Maple Champion
+ID: 5010048 NAME: Maple Champion
+ID: 5010049 NAME: Maple Champion
+ID: 5010051 NAME: O Maplemas Tree
+ID: 5010052 NAME: Santa Sled
+ID: 5010053 NAME: Mistletoe
+ID: 5010054 NAME: Jingling Santa
+ID: 5010055 NAME: UFO
+ID: 5010056 NAME: Garden Trail
+ID: 5010057 NAME: Flower Fairy
+ID: 5010059 NAME: Trail of Darkness Effect
+ID: 5010060 NAME: Caroler Effect
+ID: 5010061 NAME: Ace of Hearts
+ID: 5010064 NAME: Rock Band Effect
+ID: 5010065 NAME: Scoreboard Effect
+ID: 5010066 NAME: Disco Effect
+ID: 5010068 NAME: Return of Angel Wing
+ID: 5010069 NAME: Seraphim's Dark Wings
+ID: 5010070 NAME: Sprite Wings
+ID: 5010073 NAME: Miss Popular
+ID: 5010074 NAME: Mr. Popular
+ID: 5010078 NAME: Owl Effect
+ID: 5010079 NAME: Cygnus Effect
+ID: 5010080 NAME: Spring Rain
+ID: 5010081 NAME: Peacock Effect
+ID: 5010082 NAME: Shining Star
+ID: 5010083 NAME: Winter Wonderland
+ID: 5010999 NAME: Changing to a Monster
+ID: 5021000 NAME: Water Balloon
+ID: 5021001 NAME: Paper Plane
+ID: 5021002 NAME: Energy Ball
+ID: 5021003 NAME: Super Star
+ID: 5021004 NAME: Winged Baseball
+ID: 5021005 NAME: Football
+ID: 5021006 NAME: Chalkboard Eraser
+ID: 5021007 NAME: Shooting Hearts
+ID: 5021008 NAME: Throwing Teddy
+ID: 5021009 NAME: Throwing Pepe
+ID: 5021010 NAME: Mr. Puff Throwing Star
+ID: 5021011 NAME: Skull Striker
+ID: 5021012 NAME: Pumpkin Bomb
+ID: 5021013 NAME: Pirate Bomb
+ID: 5021014 NAME: Poo Stars
+ID: 5021015 NAME: Egg Throwing Star
+ID: 5021016 NAME: Devilball
+ID: 5021017 NAME: Dragon Disc
+ID: 5021019 NAME: Shooting Star Medal
+ID: 5021020 NAME: Throwing Boomers
+ID: 5021021 NAME: Exploding Sheep
+ID: 5021022 NAME: Plate Throwing Star
+ID: 5021023 NAME: Stirge Throwing Star
+ID: 5021024 NAME: Throwing Eggs Weapon
+ID: 5021025 NAME: Charm of the Undead
+ID: 5021026 NAME: Gift Box Throwing Stars
+ID: 5030000 NAME: Mushroom House Elf
+ID: 5030001 NAME: Mushroom House Elf
+ID: 5030002 NAME: Cashier: Teddy Bear Clerk
+ID: 5030003 NAME: Cashier: Teddy Bear Clerk
+ID: 5030004 NAME: The Robot Stand
+ID: 5030005 NAME: The Robot Stand
+ID: 5030006 NAME: Mushroom House Elf
+ID: 5030008 NAME: Homely Coffeehouse
+ID: 5030009 NAME: Homely Coffeehouse
+ID: 5030010 NAME: Granny's Food Stand
+ID: 5030011 NAME: Granny's Food Stand
+ID: 5030012 NAME: Tiki Torch Store
+ID: 5030015 NAME: Homely Coffeehouse: 4 days
+ID: 5040000 NAME: The Teleport Rock
+ID: 5040001 NAME: Teleport Coke
+ID: 5040003 NAME: Rookie Teleport Rock
+ID: 5040006 NAME: [1-Day] Teleport Rock
+ID: 5040007 NAME: [3-Day] Teleport Rock
+ID: 5040008 NAME: [7-Day] Teleport Rock
+ID: 5040004 NAME: Hyper Teleport Rock
+ID: 5041000 NAME: VIP Teleport Rock
+ID: 5041001 NAME: Premium VIP Teleport Rock
+ID: 5041002 NAME: [1-Day] VIP Teleport Rock
+ID: 5041003 NAME: [3-Day] VIP Teleport Rock
+ID: 5041004 NAME: [7-Day] VIP Teleport Rock
+ID: 5041005 NAME: [1-Day] Premium VIP Teleport Rock
+ID: 5041006 NAME: [3-Day] Premium VIP Teleport Rock
+ID: 5041007 NAME: [7-Day] Premium VIP Teleport Rock
+ID: 5044000 NAME: [1-Day] World Map Warp Drive
+ID: 5044001 NAME: [3-Day] World Map Warp Drive
+ID: 5044002 NAME: [7-Day] World Map Warp Drive
+ID: 5050000 NAME: AP Reset
+ID: 5050001 NAME: SP Reset (1st job)
+ID: 5050002 NAME: SP Reset (2nd job)
+ID: 5050003 NAME: SP Reset (3rd job)
+ID: 5050004 NAME: SP Reset (4th job)
+ID: 5050005 NAME: Evan SP Reset (1st/2nd Skill) 
+ID: 5050006 NAME: Evan SP Reset (3rd/4th Skill) 
+ID: 5050007 NAME: Evan SP Reset (5th/6th Skill) 
+ID: 5050008 NAME: Evan SP Reset (7th/8th Skill) 
+ID: 5050009 NAME: Evan SP Reset (9th/10th Skill) 
+ID: 5051000 NAME:  
+ID: 5060000 NAME: Item Tag
+ID: 5060001 NAME: Item Guard
+ID: 5060002 NAME: Incubator
+ID: 5060003 NAME: Peanut Machine
+ID: 5060004 NAME: Microwave
+ID: 5060005 NAME: Incubator
+ID: 5060006 NAME: Magic Music Box
+ID: 5061000 NAME: Item Guard : 7 Days
+ID: 5061001 NAME: Item Guard : 30 Days
+ID: 5061002 NAME: Item Guard : 90 days
+ID: 5061003 NAME: Item Guard : 365 Days
+ID: 5062000 NAME: Miracle Cube
+ID: 5062001 NAME: Premium Miracle Cube
+ID: 5062002 NAME: Super Miracle Cube
+ID: 5062100 NAME: 8th Anniversary Miracle Cube
+ID: 5063000 NAME: Luck's Key
+ID: 5064000 NAME: Shielding Ward
+ID: 5064100 NAME: Shield Scroll
+ID: 5064200 NAME: Perfect Innocence Scroll
+ID: 5064300 NAME: Guardian Scroll
+ID: 5065000 NAME: Rapid-Fire Fireworks
+ID: 5070000 NAME: Cheap Megaphone
+ID: 5071000 NAME: Megaphone
+ID: 5072000 NAME: Super Megaphone
+ID: 5073000 NAME: Heart Megaphone
+ID: 5074000 NAME: Skull Megaphone
+ID: 5075000 NAME: MapleTV Messenger
+ID: 5075001 NAME: MapleTV Star Messenger
+ID: 5075002 NAME: MapleTV Heart Messenger
+ID: 5075003 NAME: Megassenger
+ID: 5075004 NAME: Star Megassenger
+ID: 5075005 NAME: Heart Megassenger
+ID: 5076000 NAME: Item Megaphone
+ID: 5077000 NAME: Triple Megaphone
+ID: 5079001 NAME: Cake Megaphone
+ID: 5079002 NAME: Pie Megaphone
+ID: 5079004 NAME: Echo Megaphone
+ID: 5080000 NAME: Korean Kite
+ID: 5080001 NAME: Heart Balloon
+ID: 5080002 NAME: Graduation Banner
+ID: 5080003 NAME: Admission Banner
+ID: 5090000 NAME: Note
+ID: 5100000 NAME: Congratulatory Song
+ID: 5110000 NAME: Heart-Shaped Chocolate
+ID: 5120000 NAME: Snowy Snow
+ID: 5120001 NAME: Sprinkled Flowers
+ID: 5120002 NAME: Soap Bubbles
+ID: 5120003 NAME: Snowflakes
+ID: 5120004 NAME: Sprinkled Presents
+ID: 5120005 NAME: Sprinkled Chocolate
+ID: 5120006 NAME: Sprinkled Flower Petals
+ID: 5120007 NAME: Sprinkled Candy
+ID: 5120008 NAME: Sprinkled Maple Leaves
+ID: 5120009 NAME: Fireworks
+ID: 5120010 NAME: Sprinkled Coke
+ID: 5120011 NAME: Spirit Haunt
+ID: 5120012 NAME: Holiday Sock
+ID: 5120014 NAME: Christmas Socks
+ID: 5120015 NAME: Chinese Lantern Firecrackers
+ID: 5120016 NAME: For Moon Bunny Quest 
+ID: 5120017 NAME: For First Time Together Quest
+ID: 5120018 NAME: For Dimensional Schism Quest
+ID: 5120019 NAME: For Tower of Goddess Quest
+ID: 5120020 NAME: For Lord Pirate Quest
+ID: 5120021 NAME: For Brady Quest 
+ID: 5120022 NAME: For Brittany Quest 
+ID: 5120023 NAME: For Ellin Forest Quest
+ID: 5120024 NAME: For Mu Lung Dojo Quest
+ID: 5120025 NAME: For Manager
+ID: 5120026 NAME: For Gold Richie's Maze 
+ID: 5120027 NAME: Spaceship
+ID: 5120028 NAME: Raining Cats & Dogs
+ID: 5120030 NAME: Witch Tower
+ID: 5120034 NAME: Cloudy Meatballs
+ID: 5120036 NAME: 5th Anniversary Confetti
+ID: 5120043 NAME: Empress Thought Bubble
+ID: 5120049 NAME: Commitment Ceremony
+ID: 5121000 NAME: Fighting Spirit
+ID: 5121001 NAME: Korean Soccer Chant
+ID: 5121002 NAME: Soccer Fever
+ID: 5121003 NAME: Chicken Soup
+ID: 5121004 NAME: Song Pyun
+ID: 5121005 NAME: Han Gwa
+ID: 5121006 NAME: Flock of Witches
+ID: 5121007 NAME: Tree Decor
+ID: 5121008 NAME: Happy Birthday
+ID: 5121009 NAME: Petite Rose
+ID: 5121010 NAME: Floral Fest
+ID: 5121014 NAME: Snowing Fishbread
+ID: 5121015 NAME: Snowy Snowman
+ID: 5121016 NAME: Heart-shaped Chocolate Box
+ID: 5121017 NAME: Water Splash
+ID: 5121019 NAME: Winter Knit Fest
+ID: 5121020 NAME: Happy New Year
+ID: 5121025 NAME: 2010 Cheer for Victory
+ID: 5121026 NAME: Rookie Floral Fest
+ID: 5121028 NAME: Love Rain
+ID: 5121030 NAME: 메리 해피 할로윈!
+ID: 5122000 NAME: Hearty Party Bear
+ID: 5130000 NAME: Safety Charm
+ID: 5130003 NAME: Rookie Defense Charm
+ID: 5140000 NAME: Regular Store Permit
+ID: 5140001 NAME: Summer Store Permit(SE)
+ID: 5140002 NAME: Pink VIP Store Permit
+ID: 5140003 NAME: Fall Store Permit(SE)
+ID: 5140004 NAME: Spring Store Permit (SE)
+ID: 5140006 NAME: Holiday Store Permit
+ID: 5150000 NAME: Henesys Hair Style Coupon (REG)
+ID: 5150001 NAME: Henesys Hair Style Coupon (VIP)
+ID: 5150002 NAME: Kerning City Hair Style Coupon (REG)
+ID: 5150003 NAME: Kerning City Hair Style Coupon (VIP)
+ID: 5150004 NAME: Orbis Hair Style Coupon (REG)
+ID: 5150005 NAME: Orbis Hair Style Coupon (VIP)
+ID: 5150006 NAME: Ludibrium Hair Style Coupon (REG)
+ID: 5150007 NAME: Ludibrium Hair Style Coupon (VIP)
+ID: 5150008 NAME: Showa Hair Style Coupon (REG)
+ID: 5150009 NAME: Showa Hair Style Coupon (VIP)
+ID: 5150010 NAME: Henesys Hair Style Coupon (REG)
+ID: 5150011 NAME: Kerning City Hair Style Coupon (REG)
+ID: 5150012 NAME: Ludibrium Hair Style Coupon (REG)
+ID: 5150013 NAME: Orbis Hair Style Coupon (REG)
+ID: 5150019 NAME: Amoria Hairstyle Coupon (REG)
+ID: 5150020 NAME: Amoria Hairstyle Coupon (VIP)
+ID: 5150021 NAME: Night Market Hair Style Coupon (REG)
+ID: 5150022 NAME: Night Market Hair Style Coupon (VIP)
+ID: 5150024 NAME: Mu Lung Hair Style Coupon (REG)
+ID: 5150025 NAME: Mu Lung Hair Style Coupon (VIP)
+ID: 5150026 NAME: Ariant Hair Style Coupon (REG)
+ID: 5150027 NAME: Ariant Hair Style Coupon (VIP)
+ID: 5150030 NAME: NLC Hairstyle Coupon (REG)
+ID: 5150031 NAME: NLC Hairstyle Coupon (VIP)
+ID: 5150032 NAME: CBD Hair Style Coupon (REG)
+ID: 5150033 NAME: CBD Hair Style Coupon (VIP)
+ID: 5150038 NAME: Matinee Idol Hair Coupon
+ID: 5150040 NAME: Royal Hair Coupon
+ID: 5150044 NAME: Summer Royal Hair Coupon
+ID: 5150047 NAME: Dual Blade Hair Coupon
+ID: 5150050 NAME: Winter Royal Hair Coupon
+ID: 5150052 NAME: Hair Style Coupon (REG)
+ID: 5150053 NAME: Hair Style Coupon (VIP)
+ID: 5150056 NAME: Rookie Hair Style Coupon
+ID: 5150057 NAME: Royal Maple Hair Coupon
+ID: 5150058 NAME: Legends Royal Hair Coupon
+ID: 5151000 NAME: Henesys Hair Color Coupon (REG)
+ID: 5151001 NAME: Henesys Hair Color Coupon (VIP)
+ID: 5151002 NAME: Kerning City Hair Color Coupon (REG)
+ID: 5151003 NAME: Kerning City Hair Color Coupon (VIP)
+ID: 5151004 NAME: Orbis Hair Color Coupon (REG)
+ID: 5151005 NAME: Orbis Hair Color Coupon (VIP)
+ID: 5151006 NAME: Ludibrium Hair Color Coupon (REG)
+ID: 5151007 NAME: Ludibrium Hair Color Coupon (VIP)
+ID: 5151008 NAME: Showa Hair Color Coupon (REG)
+ID: 5151009 NAME: Showa Hair Color Coupon (VIP)
+ID: 5151014 NAME: Night Market Hair Color Coupon (REG)
+ID: 5151015 NAME: Night Market Hair Color Coupon (VIP)
+ID: 5151016 NAME: Amoria Hair Color Coupon (REG) 
+ID: 5151017 NAME: Amoria Hair Color Coupon (VIP)
+ID: 5151019 NAME: Mu Lung Hair Color Coupon (REG)
+ID: 5151020 NAME: Mu Lung Hair Color Coupon (VIP)
+ID: 5151021 NAME: Ariant Hair Color Coupon (REG)
+ID: 5151022 NAME: Ariant Hair Color Coupon (VIP)
+ID: 5151025 NAME: NLC Hair Color Coupon (REG)
+ID: 5151026 NAME: NLC Hair Color Coupon (VIP)
+ID: 5151027 NAME: CBD Hair Color Coupon (REG)
+ID: 5151028 NAME: CBD Hair Color Coupon (VIP)
+ID: 5151035 NAME: Hair Color Coupon (REG)
+ID: 5151036 NAME: Hair Color Coupon (VIP)
+ID: 5152000 NAME: Henesys Face Coupon (REG)
+ID: 5152001 NAME: Henesys Face Coupon (VIP)
+ID: 5152002 NAME: Kerning City Face Coupon (REG)
+ID: 5152003 NAME: Kerning City Face Coupon (VIP)
+ID: 5152004 NAME: Orbis Face Coupon (REG)
+ID: 5152005 NAME: Orbis Face Coupon (VIP)
+ID: 5152006 NAME: Ludibrium Face Coupon (REG)
+ID: 5152007 NAME: Ludibrium Face Coupon (VIP)
+ID: 5152008 NAME: Showa Face Coupon (REG)
+ID: 5152009 NAME: Showa Face Coupon (VIP)
+ID: 5152010 NAME: Henesys Cosmetic Lens Coupon (REG)
+ID: 5152011 NAME: Orbis Cosmetic Lens Coupon (REG)
+ID: 5152012 NAME: Ludibrium Cosmetic Lens Coupon (REG)
+ID: 5152013 NAME: Henesys Cosmetic Lens Coupon (VIP)
+ID: 5152014 NAME: Orbis Cosmetic Lens Coupon (VIP)
+ID: 5152015 NAME: Ludibrium Cosmetic Lens Coupon (VIP)
+ID: 5152021 NAME: Amoria Face Coupon (REG)
+ID: 5152022 NAME: Amoria Face Coupon (VIP)
+ID: 5152023 NAME: Night Market Face Coupon (REG)
+ID: 5152024 NAME: Night Market Face Coupon (VIP)
+ID: 5152025 NAME: Amoria Cosmetic Lens Coupon (REG)
+ID: 5152026 NAME: Amoria Cosmetic Lens Coupon (VIP)
+ID: 5152027 NAME: Mu Lung Plastic Surgery Coupon (REG)
+ID: 5152028 NAME: Mu Lung Plastic Surgery Coupon (VIP)
+ID: 5152029 NAME: Ariant Face Coupon (REG)
+ID: 5152030 NAME: Ariant Face Coupon (VIP)
+ID: 5152033 NAME: NLC Face Coupon (REG)
+ID: 5152034 NAME: NLC Face Coupon (VIP)
+ID: 5152035 NAME: NLC Cosmetic Lens Coupon (REG)
+ID: 5152036 NAME: NLC Cosmetic Lens Coupon (VIP)
+ID: 5152037 NAME: CBD Face Coupon (REG)
+ID: 5152038 NAME: CBD Face Coupon (VIP)
+ID: 5152039 NAME: CBD Cosmetic Lens Coupon (REG)
+ID: 5152040 NAME: CBD Cosmetic Lens Coupon (VIP)
+ID: 5152041 NAME: Mu Lung Cosmetic Lens Coupon (VIP)
+ID: 5152042 NAME: Mu Lung Cosmetic Lens Coupon (REG)
+ID: 5152045 NAME: Showa Cosmetic Lens Coupon (VIP)
+ID: 5152046 NAME: Showa Cosmetic Lens Coupon (REG)
+ID: 5152047 NAME: Ariant Cosmetic Lens Coupon (VIP)
+ID: 5152048 NAME: Ariant Cosmetic Lens Coupon (REG)
+ID: 5152053 NAME: Royal Face Coupon
+ID: 5152056 NAME: Face Coupon (REG)
+ID: 5152057 NAME: Face Coupon (VIP)
+ID: 5152058 NAME: Royal Face Coupon
+ID: 5152059 NAME: Rookie Face Coupon
+ID: 5152064 NAME: Legends Royal Plastic Surgery Coupon
+ID: 5152065 NAME: F/W Royal Face Coupon
+ID: 5152100 NAME: One-Time Cosmetic Lens (Black)
+ID: 5152101 NAME: One-Time Cosmetic Lens (Blue)
+ID: 5152102 NAME: One-Time Cosmetic Lens (Red)
+ID: 5152103 NAME: One-Time Cosmetic Lens (Green)
+ID: 5152104 NAME: One-Time Cosmetic Lens (Hazel)
+ID: 5152105 NAME: One-Time Cosmetic Lens (Sapphire)
+ID: 5152106 NAME: One-Time Cosmetic Lens (Violet)
+ID: 5152107 NAME: One-Time Cosmetic Lens (Amethyst)
+ID: 5152108 NAME: One-Time Cosmetic Lens (White)
+ID: 5153000 NAME: Henesys Skin Coupon
+ID: 5153001 NAME: Orbis Skin Coupon
+ID: 5153002 NAME: Ludibrium Skin Coupon
+ID: 5153005 NAME: Night Market Skin Coupon
+ID: 5153006 NAME: Mu Lung Skin Care Coupon
+ID: 5153007 NAME: Ariant Skin Care Coupon
+ID: 5153009 NAME: NLC Skin Coupon
+ID: 5153010 NAME: CBD Skin Coupon
+ID: 5153015 NAME: Skin Coupon
+ID: 5154000 NAME: Orbis Dirty Hair Coupon
+ID: 5155000 NAME: Carta's Pearl
+ID: 5160000 NAME: Queasy
+ID: 5160001 NAME: Panicky
+ID: 5160002 NAME: Sweetness
+ID: 5160003 NAME: Smoochies
+ID: 5160004 NAME: Wink
+ID: 5160005 NAME: Ouch
+ID: 5160006 NAME: Sparkling Eyes
+ID: 5160007 NAME: Flaming
+ID: 5160008 NAME: Ray
+ID: 5160009 NAME: Goo Goo
+ID: 5160010 NAME: Whoa Whoa
+ID: 5160011 NAME: Constant Sigh
+ID: 5160012 NAME: Drool
+ID: 5160013 NAME: Dragon Breath
+ID: 5160014 NAME: Bleh
+ID: 5160019 NAME: Queasy
+ID: 5160020 NAME: Panicky
+ID: 5160021 NAME: Sweetness
+ID: 5160022 NAME: Smoochies
+ID: 5160023 NAME: Wink
+ID: 5160024 NAME: Ouch
+ID: 5160025 NAME: Sparkling Eyes
+ID: 5160026 NAME: Flaming
+ID: 5160027 NAME: Ray
+ID: 5160028 NAME: Goo Goo
+ID: 5160029 NAME: Whoa Whoa
+ID: 5160030 NAME: Constant Sigh
+ID: 5160031 NAME: Drool
+ID: 5160032 NAME: Dragon Breath
+ID: 5160033 NAME: Bleh
+ID: 5170000 NAME: Pet Name Tag
+ID: 5180000 NAME: Water of Life
+ID: 5190000 NAME: Item Pick-up Skill
+ID: 5190001 NAME: HP Charge Skill
+ID: 5190002 NAME: Expand Range Skill
+ID: 5190003 NAME: Automatic Pick-Up Skill
+ID: 5190004 NAME: (+) Pick up Leftover Item & Meso Skills
+ID: 5190005 NAME: Unpickable item skill
+ID: 5190006 NAME: MP potion recharge skill
+ID: 5190010 NAME: Pet Buff Auto Skill
+ID: 5191000 NAME: (-) Delete Item Pick-Up
+ID: 5191001 NAME: (-) Delete HP Charge
+ID: 5191002 NAME: (-)Delete Expand Range
+ID: 5191003 NAME: (-) Delete Automatic Pick-Up
+ID: 5191004 NAME: (-) Delete Pick up Leftover Item & Meso
+ID: 5200000 NAME: Bronze Sack of Mesos
+ID: 5200001 NAME: Silver Sack of Mesos
+ID: 5200002 NAME: Gold Sack of Mesos
+ID: 5200009 NAME: 1 Million Maple Points Chip
+ID: 5200010 NAME: 10,000 Maple Points Chip
+ID: 5201000 NAME: Box of Metal Balls
+ID: 5201001 NAME: Box of Metal Balls
+ID: 5202000 NAME: Rare Meso Sack
+ID: 5202001 NAME: Unique Meso Sack
+ID: 5202002 NAME: Epic Meso Sack
+ID: 5210000 NAME: Pro-Adult Ticket
+ID: 5210001 NAME: Pro-Adult Ticket
+ID: 5210002 NAME: Pro-Adult Ticket
+ID: 5210003 NAME: Pro-Adult Ticket
+ID: 5210004 NAME: Pro-Adult Ticket
+ID: 5210005 NAME: Pro-Adult Ticket
+ID: 5211000 NAME: 2x EXP Card
+ID: 5211001 NAME: From NEXON
+ID: 5211002 NAME: Special Coupon - 5 days
+ID: 5211003 NAME: one-time 2x EXP coupon
+ID: 5211004 NAME: 2x EXP Card Type 1 - Weekdays
+ID: 5211005 NAME: 2x EXP Card Type 2 - Weekdays
+ID: 5211006 NAME: 2x EXP Card Type 3 - Weekdays
+ID: 5211007 NAME: 2x EXP Card Type 4 - Weekdays
+ID: 5211008 NAME: 2x EXP Card Type 5 - Weekdays
+ID: 5211009 NAME: 2x EXP Card Type 1 - Weekends
+ID: 5211010 NAME: 2x EXP Card Type 2 - Weekends
+ID: 5211011 NAME: 2x EXP Card Type 3 - Weekends
+ID: 5211012 NAME: 2x EXP Card Type 4 - Weekends
+ID: 5211013 NAME: 2x EXP Card Type 5 - Weekends
+ID: 5211014 NAME: 2x EXP Card Type 1 - Everyday
+ID: 5211015 NAME: 2x EXP Card Type 2 - Everyday
+ID: 5211016 NAME: 2x EXP Card Type 3 - Everyday
+ID: 5211017 NAME: 2x EXP Card Type 4 - Everyday
+ID: 5211018 NAME: 2x EXP Card Type 5 - Everyday
+ID: 5211037 NAME: 2x EXP Card Type 6 - Weekdays
+ID: 5211038 NAME: 2x EXP Card Type 6 - Weekends
+ID: 5211039 NAME: 2x EXP Card Type 6 - Everyday
+ID: 5211040 NAME: 2x EXP Card Type 7 - Weekdays
+ID: 5211041 NAME: 2x EXP Card Type 7 - Weekends
+ID: 5211042 NAME: 2x EXP Card Type 7 - Everyday
+ID: 5211043 NAME: 2x EXP Card Type 8 - Weekdays
+ID: 5211044 NAME: 2x EXP Card Type 8 - Weekends
+ID: 5211045 NAME: 2x EXP Card Type 8 - Everyday
+ID: 5211046 NAME: 1-day 2x EXP Special Coupon
+ID: 5211047 NAME: 2x EXP 3 Hours Special Coupon 
+ID: 5211048 NAME: 4 hour 2 x EXP special coupon
+ID: 5211049 NAME: 7-Eleven 2x EXP Card - 90 Minutes
+ID: 5211052 NAME: 3xExp
+ID: 5211060 NAME: 2 hour 3 x EXP special coupon
+ID: 5211067 NAME: Sapphire EXP Coupon
+ID: 5211068 NAME: Ruby EXP Coupon
+ID: 5220000 NAME: Gachapon Ticket
+ID: 5220001 NAME: Event Ticket
+ID: 5220010 NAME: Gachapon for slot machines
+ID: 5220012 NAME: Twin Dragon's Egg Incubator
+ID: 5220016 NAME: Small Holiday Surprise
+ID: 5220017 NAME: Medium Holiday Surprise
+ID: 5220018 NAME: Large Holiday Surprise
+ID: 5220020 NAME: Gachapon for Net Cafe
+ID: 5220082 NAME: Mount Gachapon Ticket
+ID: 5220083 NAME: Starter Pack
+ID: 5220084 NAME: Booster Pack
+ID: 5221000 NAME: Free Ticket
+ID: 5221001 NAME: Enchanted Scroll
+ID: 5222000 NAME: Premium Cash Shop Surprise
+ID: 5222008 NAME: Reward Box
+ID: 5222015 NAME: Small B-Day Surprise
+ID: 5222016 NAME: Medium B-Day Surprise
+ID: 5222017 NAME: Large B-Day Surprise
+ID: 5222027 NAME: Halloween Surprise
+ID: 5230000 NAME: The Owl of Minerva
+ID: 5230001 NAME: Rookie Owl of Minerva
+ID: 5240000 NAME: Monkey Banana
+ID: 5240001 NAME: Micro-Chips
+ID: 5240002 NAME: Dog Bone
+ID: 5240003 NAME: Bamboo
+ID: 5240004 NAME: Porgy
+ID: 5240005 NAME: Clover
+ID: 5240006 NAME: Red Meat
+ID: 5240007 NAME: Frozen Fruits
+ID: 5240008 NAME: Turkey Feed
+ID: 5240009 NAME: Purple Heart Pudding
+ID: 5240010 NAME: Golden Coin Chocolate
+ID: 5240011 NAME: Cotton Candy
+ID: 5240012 NAME: Dragon Marble Candy
+ID: 5240013 NAME: Caramel Beetle
+ID: 5240014 NAME: Watermelon
+ID: 5240015 NAME: Garlic Salt Chips
+ID: 5240016 NAME: Caramel Beetle
+ID: 5240017 NAME: Snowflake
+ID: 5240018 NAME: Sprout
+ID: 5240019 NAME: Hedgehog Food											Is this supposed to be for the Porcupine?
+ID: 5240020 NAME: Caviar
+ID: 5240021 NAME: Robo Oil
+ID: 5240022 NAME: Little Fruits
+ID: 5240023 NAME: Bread
+ID: 5240024 NAME: Pinky DrumStick
+ID: 5240027 NAME: Golden Drumstick
+ID: 5240028 NAME: Dynamite
+ID: 5240031 NAME: Fireball
+ID: 5240033 NAME: Unidentified Liquid
+ID: 5240034 NAME: Doggy Bone
+ID: 5240035 NAME: Canned Food
+ID: 5240039 NAME: Sugar Lump
+ID: 5240042 NAME: Pink Bean's Giant Rib
+ID: 5240043 NAME: Corgi Cookie
+ID: 5240040 NAME: Flour Sack
+ID: 5240044 NAME: Observer Cherry
+ID: 5240055 NAME: Navigator's Oyster
+ID: 5240056 NAME: Helmsman's Watermelon
+ID: 5251000 NAME: Wedding Ticket (Cathedral)
+ID: 5251001 NAME: Wedding Ticket (Chapel)
+ID: 5251002 NAME: Premium Wedding Ticket (Chapel)
+ID: 5251003 NAME: Premium Wedding Ticket (Cathedral)
+ID: 5251004 NAME: Small Wedding Coupon
+ID: 5251005 NAME: Grand Wedding Coupon
+ID: 5251006 NAME: Premium Wedding Coupon
+ID: 5251016 NAME: Commitment Ceremony Ticket
+ID: 5251100 NAME: Wedding Invitation Ticket
+ID: 5252000 NAME: Event Ticket (NX)
+ID: 5252001 NAME: Ticket to Treasure Dungeon
+ID: 5252009 NAME: VIP Tourist Ticket
+ID: 5281000 NAME: Passed Gas
+ID: 5281001 NAME: Floral Scent
+ID: 5290000 NAME: Guild Forum Emoticon - Angry
+ID: 5290001 NAME: Guild Forum Emoticon - Smile
+ID: 5290002 NAME: Guild Forum Emoticon - Silent
+ID: 5290003 NAME: Guild Forum Emoticon - LOL
+ID: 5290004 NAME: Guild Forum Emoticon - Surprise
+ID: 5290005 NAME: Guild Forum Emoticon - Cry
+ID: 5290006 NAME: Guild Forum Emoticon - Furious
+ID: 5290007 NAME: Guild Forum Emoticon - 0_0
+ID: 5300000 NAME: Fungus Scroll
+ID: 5300001 NAME: Oinker Delight
+ID: 5300002 NAME: Zeta Nightmare
+ID: 5330000 NAME: Quick Delivery Ticket
+ID: 5360000 NAME: 1-day 2x Drop Special Coupon
+ID: 5360001 NAME: 2x Drop Card Type 1 - Everyday
+ID: 5360002 NAME: 2x Drop Card Type 2 - Everyday
+ID: 5360003 NAME: 2x Drop Card Type 3 - Everyday
+ID: 5360004 NAME: 2x Drop Card Type 4 - Everyday
+ID: 5360005 NAME: 2x Drop Card Type 5 - Everyday
+ID: 5360006 NAME: 2x Drop Card Type 6 - Everyday
+ID: 5360007 NAME: 2x Drop Card Type 7 - Everyday
+ID: 5360008 NAME: 2x Drop Card Type 8 - Everyday
+ID: 5360009 NAME: 2X Drop Card - Type 1
+ID: 5360010 NAME: 2X Drop Card - Type 1
+ID: 5360011 NAME: 2X Drop Card - Type 1
+ID: 5360012 NAME: 2X Drop Card - Type 1
+ID: 5360013 NAME: 2X Drop Card - Type 1
+ID: 5360014 NAME: 2x Drop 3 Hours Special Card
+ID: 5360042 NAME: 4 hour 2 x Drop special coupon
+ID: 5370000 NAME: Chalkboard
+ID: 5370001 NAME: Chalkboard
+ID: 5370002 NAME: Chalkboard: 3 Days
+ID: 5380000 NAME: The Rock of Evolution
+ID: 5390000 NAME: Diablo Messenger
+ID: 5390001 NAME: Cloud 9 Messenger
+ID: 5390002 NAME: Loveholic Messenger
+ID: 5390005 NAME: Cute Tiger Messenger
+ID: 5390006 NAME: Roaring Tiger Messenger
+ID: 5390007 NAME: Goal! Messenger
+ID: 5390008 NAME: Soccer! Messenger
+ID: 5390009 NAME: Friend Finder Megaphone
+ID: 5400000 NAME: Character Name Change
+ID: 5401000 NAME: Character Transfer
+ID: 5420000 NAME: Amoria Hair Membership Coupon
+ID: 5420001 NAME: NLC Hair Membership Coupon
+ID: 5420002 NAME: Henesys Hair Membership Coupon
+ID: 5420003 NAME: Kerning City Hair Membership Coupon
+ID: 5420004 NAME: Orbis Hair Membership Coupon
+ID: 5420005 NAME: Ludibrium Hair Membership Coupon
+ID: 5420006 NAME: Mu Lung Hair Membership Coupon
+ID: 5430000 NAME: Extra Character Slot Coupon
+ID: 5431000 NAME: Maple Life (A-Type)
+ID: 5432000 NAME: Maple Life (B-Type)
+ID: 5450000 NAME: Miu Miu the Traveling Merchant
+ID: 5450003 NAME: Miu Miu the Rookie Traveling Merchant
+ID: 5450004 NAME: [30 Day] Miu Miu the Merchant
+ID: 5450005 NAME: [30 Day]  Mr. Wang's Portable Storage
+ID: 5450006 NAME: [1-Day] Miu Miu the Traveling Merchant
+ID: 5450007 NAME: [7-Day] Miu Miu the Traveling Merchant
+ID: 5450008 NAME: [1-Day]  Mr. Wang's Storage Wagon
+ID: 5450009 NAME: [7-Day]  Mr. Wang's Storage Wagon
+ID: 5451000 NAME: Remote Gachapon Ticket
+ID: 5460000 NAME: Pet Snack
+ID: 5470000 NAME: Store Remote Controller
+ID: 5490000 NAME: Gold Master Key
+ID: 5490001 NAME: Silver Master Key
+ID: 5490002 NAME: Premium Gold Master Key
+ID: 5490003 NAME: Premium Silver Master Key
+ID: 5490008 NAME: 가차폰릴
+ID: 5500000 NAME: Hourglass
+ID: 5500001 NAME: [7days] Hourglass
+ID: 5500002 NAME: [20days] Hourglass
+ID: 5500005 NAME: [50days] Hourglass
+ID: 5500006 NAME: [99days] Hourglass
+ID: 5501001 NAME: [30 Days] Kenta's Magic Rope
+ID: 5501002 NAME: [60 Days] Kenta's Magic Rope
+ID: 5510000 NAME: Wheel of Destiny
+ID: 5520000 NAME: Scissors of Karma
+ID: 5520001 NAME: Platinum Scissors of Karma 
+ID: 5521000 NAME: Sharing Tag
+ID: 5530000 NAME: DS Egg Basket
+ID: 5530001 NAME: DS Medal Basket 
+ID: 5530002 NAME: 5 Golden Compasses 
+ID: 5530003 NAME: 10 Gaga Transformation Potions
+ID: 5530004 NAME: 100 Elixirs
+ID: 5530005 NAME: 200 Elixirs
+ID: 5530006 NAME: 100 Power Elixirs
+ID: 5530007 NAME: 150 Power Elixirs
+ID: 5530008 NAME: 200 Power Elixirs
+ID: 5530009 NAME: DS Box (Bronze)
+ID: 5530010 NAME: DS Box (Silver)
+ID: 5530011 NAME: DS Box (Gold)
+ID: 5530012 NAME: DS Box (Diamond)
+ID: 5530013 NAME: Golden Temple Invitation
+ID: 5530014 NAME: [Lv. 13] ZD Tiger 7-Day Coupon Exchange Ticket
+ID: 5530015 NAME: Scroll for Katara for ATT 60% Exchange Ticket
+ID: 5530016 NAME: Scroll for Katara for ATT 10% Exchange Ticket
+ID: 5530017 NAME: [Lv. 30] Ryden Guardian Katara Exchange Ticket
+ID: 5530018 NAME: [Lv. 50] Ryden Majestic Katara Exchange Ticket
+ID: 5530019 NAME: [Lv. 50] Ryden Shinkita Exchange Ticket
+ID: 5530020 NAME: [Lv. 30] Owl Pendant (14 Day) Exchange Ticket
+ID: 5530021 NAME: Scroll for Dagger for ATT 60% Exchange Ticket
+ID: 5530022 NAME: Scroll for Dagger for ATT 10% Exchange Ticket
+ID: 5530023 NAME: Snowy Heaven Dagger Exchange Ticket
+ID: 5530024 NAME: Snowy Earth Katara Exchange Ticket
+ID: 5530025 NAME: Luminous Heaven Dagger Exchange Ticket
+ID: 5530026 NAME: Luminous Earth Katara Exchange Ticket
+ID: 5530027 NAME: [Lv. 30] Circle-Winded Staff Trade Coupon
+ID: 5530028 NAME: [Lv. 45] Arc Staff Coupon
+ID: 5530029 NAME: Wand Magic Scroll 60% Coupon
+ID: 5530030 NAME: Staff Magic Scroll 60% Coupon
+ID: 5530031 NAME: [Lv. 13]Shinjo 20-Day Coupon
+ID: 5530032 NAME: Hawkeye Sticker Exchange Ticket
+ID: 5530034 NAME: 6th Anniversary Weapon Box Coupon
+ID: 5530035 NAME: 4 Year Anniversary Weapon Box Coupon
+ID: 5530036 NAME: 2 Year Anniversary Weapon Box Coupon
+ID: 5530037 NAME: 1 Year Anniversary Weapon Box Coupon
+ID: 5530038 NAME: Power Elixir Exchange Ticket
+ID: 5530039 NAME: Elixir Exchange Ticket
+ID: 5530052 NAME: 2 Scrolls for Pet Equip for Weapon ATT 60% Exchange Ticket
+ID: 5530053 NAME: 2 Scrolls for Pet Equip for Magic ATT 60% Exchange Ticket
+ID: 5530054 NAME: Armor Enhancement Scroll 20% Coupon
+ID: 5530055 NAME: Armor Boost Scroll 20% Coupon
+ID: 5530056 NAME: Orange Mushroom Riding 7-Day Coupon Exchange Ticket
+ID: 5530057 NAME: Returned Friend's Ring Box
+ID: 5530058 NAME: Blessing for the Returned Friend Coupon
+ID: 5530059 NAME: 6th Anniversary Silver Coin Coupon
+ID: 5530060 NAME: Leader's Ring Box
+ID: 5530061 NAME: Oz Sticker Exchange Ticket
+ID: 5530062 NAME: Maple Booster 2x Coupon
+ID: 5530063 NAME: Maple Booster 1.5x Coupon
+ID: 5530064 NAME: White Maple Bandana Exchange Ticket
+ID: 5530065 NAME: Blue Maple Bandana Exchange Ticket
+ID: 5530066 NAME: 10-Power-Elixirs Exchange Ticket
+ID: 5530067 NAME: Blessing for the Returned Friend Coupon
+ID: 5530068 NAME: Pendant of the Spirit Coupon (3-day)
+ID: 5530069 NAME: Maple Pyrope Staff Coupon
+ID: 5530070 NAME: Maple Pyrope Crow Coupon
+ID: 5530071 NAME: 2 Scrolls for Staff Magic ATT 60% Coupon
+ID: 5530072 NAME: 2 Scrolls for Crossbow for ATT 60% Coupon
+ID: 5530080 NAME: Security Box
+ID: 5530081 NAME: Security Medal Box
+ID: 5530103 NAME: Carrot Chair Coupon
+ID: 5530106 NAME: 2x Point Card (3 hrs)
+ID: 5530107 NAME: 2x Point Card (1 day)
+ID: 5530108 NAME: 2x Point Card (7 days)
+ID: 5530111 NAME: Carved Golden Seal Coupon
+ID: 5530112 NAME: New Member Shoes Coupon
+ID: 5530113 NAME: New Member Shield Coupon
+ID: 5530114 NAME: Maple New Member Blessing Coupon
+ID: 5530115 NAME: Charge! Toy Trojan 10 Day Coupon
+ID: 5530116 NAME: New Member Golden Maple Fruit
+ID: 5530117 NAME: 8주년 은화 10개 교환권
+ID: 5530118 NAME: New Member Pendant Coupon
+ID: 5530119 NAME: Beryl Weapon Box
+ID: 5530120 NAME: Crimson Weapon Box
+ID: 5530121 NAME: Black Bean Noodle Bundle
+ID: 5530122 NAME: Glittering Joy Bird Feather Coupon
+ID: 5530123 NAME: Joyous 8th Scroll Box
+ID: 5530124 NAME: Carved Silver Seal Coupon
+ID: 5530132 NAME: 30 Legends Awards Coins
+ID: 5530133 NAME: 3 Legends Awards Coins
+ID: 5530138 NAME: 5 Legends Awards Coins
+ID: 5530139 NAME: 10 Legends Awards Coins
+ID: 5530140 NAME: 7-Day Bunny Mount Exchange Ticket
+ID: 5530141 NAME: Pendant of the Spirit Coupon (15 Days)
+ID: 5530142 NAME: 1.5X EXP Coupon Exchange Ticket
+ID: 5530143 NAME: Chaos Scroll Exchange Ticket
+ID: 5530144 NAME: Special Potential Scroll Exchange Ticket
+ID: 5530151 NAME: Buffalo 30-Day Exchange Coupon
+ID: 5530152 NAME: Rabbit Rickshaw 30-Day Exchange Coupon
+ID: 5530153 NAME: Giant Rabbit 30-Day Exchange Coupon
+ID: 5530155 NAME: Small Rabbit 30-Day Exchange Coupon
+ID: 5530156 NAME: Tent Chair Exchange Coupon
+ID: 5530157 NAME: 50 Power Elixir Exchange Coupon
+ID: 5530158 NAME: Pendant of the Spirit (30-Day) Exchange Coupon
+ID: 5530146 NAME: EXP Booster (4hr)
+ID: 5530147 NAME: EXP Booster 11pack (4hr)
+ID: 5530148 NAME: EXP Booster 35pack (4hr)
+ID: 5530162 NAME: Jr. Balrog Scroll 
+ID: 5530163 NAME: Mutant Ribbon Pig Scroll
+ID: 5530164 NAME: Dead Scarecrow Scroll
+ID: 5530165 NAME: Glutton Ghoul Scroll
+ID: 5530166 NAME: Twisted Jester Scroll
+ID: 5530167 NAME: Black Knight Scroll
+ID: 5530168 NAME: Rotting Skeleton Scroll 
+ID: 5530169 NAME: Olivia Scroll
+ID: 5530170 NAME: Death Teddy
+ID: 5530171 NAME: Jack-o-Lantern
+ID: 5530172 NAME: Wheel of Treasures
+ID: 5530173 NAME: Wheel of Treasures (11)
+ID: 5530174 NAME: Wheel of Treasures (35)
+ID: 5530175 NAME: Wheel of Marvels (11)
+ID: 5530176 NAME: Wheel of Marvels (35)
+ID: 5530177 NAME: Wheel of Marvels
+ID: 5533000 NAME: 8주년 기념모자 상자
+ID: 5533001 NAME: Angelic Beam Weapon Box
+ID: 5533002 NAME: Chief Knight Weapon Box
+ID: 5533003 NAME: Rainbow Visor Box
+ID: 5533004 NAME: Blaze Beam Weapon Box
+ID: 5534000 NAME: Tim's Secret lab
+ID: 5550000 NAME: Additional Pendant Slot
+ID: 5550001 NAME: Add Pendant Slots: 7 Days
+ID: 5570000 NAME: Vicious' Hammer
+ID: 5590000 NAME: High-Five Stamp
+ID: 5610000 NAME: Vega's Spell (10%)
+ID: 5610001 NAME: Vega's Spell (60%)
+ID: 5620000 NAME: Slash Storm 20 Mastery
+ID: 5620001 NAME: Tornado Spin 20 Mastery
+ID: 5620002 NAME: Mirror Image 30 Mastery
+ID: 5620003 NAME: Flying Assaulter 20 Mastery
+ID: 5620004 NAME: Blade Fury 30 Mastery
+ID: 5620005 NAME: Thorns 30 Mastery
+ID: 5620006 NAME: Magic Guard Mastery Book
+ID: 5620007 NAME: Magic Booster Mastery Book
+ID: 5620008 NAME: Critical Magic Mastery Book
+ID: 5640000 NAME: Pam's Song
+ID: 5660000 NAME: Quest Deliverer Thomas
+ID: 5660001 NAME: Quest Completer Alice
+ID: 5670000 NAME: Summoning Sack
+ID: 5670001 NAME: Mini Barricade
+ID: 5680000 NAME: Maple Returning Member Giftbox
+ID: 5680015 NAME: Fatigue Reset Drink
+ID: 5680016 NAME: EXP Booster (4 hrs)
+ID: 5680019 NAME: Starling Hair Coupon
+ID: 5680020 NAME: Crow Hair Coupon
+ID: 5680021 NAME: Chair Gachapon Ticket
+ID: 5700000 NAME: Android Naming Coupon
+ID: 5710000 NAME: Quest Booster (2x EXP)
+ID: 5990000 NAME: MTS sale
+ID: 5240048 NAME: Dragon Food
+ID: 5240050 NAME: Fear
+ID: 5240051 NAME: Death
+ID: 5220092 NAME: Legendary Booster Pack
+ID: 5240052 NAME: Jealousy
+ID: 5150061 NAME: All Stars Hair coupon
+ID: 5222007 NAME: Mystical Surprise Style Box
+ID: 5222006 NAME: Surprise Style Box
+ID: 5040009 NAME: Hyper Teleport Rock
+ID: 5067000 NAME: Potential Lock
+ID: 5750000 NAME: Alien Cube
+ID: 5750001 NAME: Nebulite Diffuser
+ID: 5121031 NAME: New Year's Festivities
+ID: 5390010 NAME: Ghost Megaphone
+ID: 5000206 NAME: Desert Fox
+ID: 5150046 NAME: April Fool's Day Hair Coupon
+ID: 5240047 NAME: Star Candy
+ID: 5220094 NAME: Nebulite Gachapon Ticket
+ID: 5240045 NAME: Harp Seal Formula
+ID: 5530194 NAME: 1 Scrolls for Pet Equip for Weapon ATT 60% Exchange Ticket
+ID: 5530195 NAME: 1 Scrolls for Pet Equip for Magic ATT 60% Exchange Ticket
+ID: 5062300 NAME: White Awakening Stamp
+ID: 5065001 NAME: Special Firework
+ID: 5240041 NAME: Meat
+ID: 5222020 NAME: Functional Pet Equip Box

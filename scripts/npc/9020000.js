@@ -46,7 +46,7 @@ function start() {
 		    em.startInstance(cm.getParty(),cm.getMap(), 70);
 			cm.dispose();
 		} else {
-		    cm.sendSimple("Someone is already attempting on the quest.#b\r\n#L0#I want the Fluffy Shoes.#l");
+		    cm.sendSimple("Someone is already attempting the quest.#b\r\n#L0#I want the Fluffy Shoes.#l");
 		}
 		cm.removeAll(4001008);
 		cm.removeAll(4001007);

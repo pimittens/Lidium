@@ -179,7 +179,7 @@ function allMonstersDead(eim) {
 
     eim.setProperty("points", totalp);
 
-    eim.broadcastPlayerMsg(5, "Your team've gained "+num+" points! With a total of "+totalp+".");
+    eim.broadcastPlayerMsg(5, "Your team gained "+num+" points! With a total of "+totalp+".");
     
     eim.saveBossQuest(num);
 
@@ -188,7 +188,7 @@ function allMonstersDead(eim) {
     } else {
 	eim.saveBossQuest(15000);
 	eim.saveNX(40000);
-	eim.broadcastPlayerMsg(5, "Your team've beaten the HELL mode and have gained an extra 15,000 points and extra 40,000 Cash!");
+	eim.broadcastPlayerMsg(5, "Your team has beaten the HELL mode and have gained an extra 15,000 points and extra 40,000 Cash!");
 	eim.giveAchievement(22);
 	}
 // When invoking unregisterMonster(MapleMonster mob) OR killed
