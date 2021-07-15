@@ -160,8 +160,8 @@ function action(mode, type, selection) {
 				break;
 				case 4:
 				var selStr = "Current Points : " + points + " \r\n\r\n#b";
-				items = [1112920, 1012070, 1012071, 1012072, 1012073, 2049700, 5062002, 1182007];
-				prices = [100, 5000, 5000, 5000, 5000, 10000, 50000, 100000];
+				items = [1112920, 4310015, 1012070, 1012071, 1012072, 1012073, 2049700, 5062002, 1182007];
+				prices = [100, 300, 5000, 5000, 5000, 5000, 10000, 50000, 100000];
 				for (var i = 0; i < items.length; i++)
 					selStr += "\r\n#L" + i + "##i" + items[i] + "##z" + items[i] + "# (" + prices[i] + " points)#b";
 				n = 1;
@@ -174,7 +174,7 @@ function action(mode, type, selection) {
 			} else {
 				cm.spendBossQuestPoints(prices[selection]);
 				var qty = 1;
-				if (items[selection] == 5062002) {
+				if (items[selection] == 4310015 || items[selection] == 5062002) {
 					qty = 10;
 				}
 				if (cm.canHold(items[selection], qty)) {

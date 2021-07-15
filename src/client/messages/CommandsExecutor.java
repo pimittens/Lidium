@@ -217,6 +217,7 @@ public class CommandsExecutor {
         addCommand("nx", 0, GetNXCommand.class);
         addCommand("xsp", 0, SpawnRateCommand.class);
         addCommand("loot", 0, LootCommand.class);
+        addCommand("search", 0, SearchCommand.class);
         //addCommand("", 0, Command.class);
         commandsNameDesc.add(levelCommandsCursor);
     }
@@ -236,7 +237,7 @@ public class CommandsExecutor {
         addCommand("song", 1, SongCommand.class);
         addCommand("jail", 1, JailCommand.class);
         addCommand("say", 1, SayCommand.class);
-        addCommand("search", 1, SearchCommand.class);
+        //addCommand("search", 1, SearchCommand.class);
         //addCommand("", 1, Command.class);
         //addCommand(new String[]{"song", "music"}, 1, .class);
         commandsNameDesc.add(levelCommandsCursor);
