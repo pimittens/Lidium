@@ -305,4 +305,8 @@ public class CommandsExecutor {
         //addCommand("", 5, Command.class);             
         commandsNameDesc.add(levelCommandsCursor);
     }
+
+    public HashMap<String, Command> getRegisteredCommands() {
+        return registeredCommands;
+    }
 }
